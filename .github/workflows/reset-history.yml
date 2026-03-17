@@ -1,0 +1,47 @@
+# .github/workflows/reset-history.yml
+name: Auto Reset History
+
+on: 
+  push:
+    branches: [main, images, release]
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  reset:
+    runs-on: ubuntu-latest
+    if: github.event.head_commit.message != 'Initial commit'
+    
+    permissions:
+      contents: write
+    
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          ref: ${{ github.ref_name }}  # 检出当前触发分支
+      
+      - name: Reset history for ${{ github.ref_name }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # 保存当前分支名
+          BRANCH=${{ github.ref_name }}
+          
+          # 创建孤儿分支
+          git checkout --orphan temp_branch
+          git add -A
+          git commit -m "Initial commit"
+          
+          # 删除原分支（如果存在）
+          git branch -D $BRANCH 2>/dev/null || true
+          
+          # 重命名为原分支名
+          git branch -m $BRANCH
+          
+          # 推送
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+          git push -f origin $BRANCH
