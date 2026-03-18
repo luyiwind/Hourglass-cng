@@ -67,11 +67,20 @@ jobs:
           ref: release      # 拉取 reset 后的最新代码
           fetch-depth: 1
 
-      - name: Deploy to Cloudflare Pages
-        uses: cloudflare/pages-action@v1
+      - name: Setup Node
+        uses: actions/setup-node@v4
         with:
-          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          projectName: hourglass-cng
-          directory: '.'
-          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
+          node-version: '20'
+
+      - name: Install Wrangler
+        run: npm install -g wrangler
+
+      - name: Deploy to Cloudflare Pages
+        run: |
+          wrangler pages deploy . \
+            --project-name=hourglass-cng \
+            --branch=release \
+            --commit-hash=${{ github.sha }} \
+            --commit-message="${{ github.event.head_commit.message }}"
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
