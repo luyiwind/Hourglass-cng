@@ -45,7 +45,7 @@ jobs:
           
           git checkout --orphan temp_branch
           git add -A
-          git commit -m "Initial commit"
+          git commit -m "Initial commit [skip ci]"
           
           git branch -D $BRANCH 2>/dev/null || true
           git branch -m $BRANCH
