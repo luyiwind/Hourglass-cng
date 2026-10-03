@@ -1,0 +1,81 @@
+{
+  "id": "2025-07-140",
+  "title": {
+    "en": "New Content Available",
+    "zh": "上新提醒",
+    "zh_TW": "新內容上線",
+    "ja": "新しいコンテンツ",
+    "ko": "새 콘텐츠",
+    "ar": "محتوى جديد متاح",
+    "cs": "Nový obsah k dispozici",
+    "da": "Nyt indhold tilgængeligt",
+    "de": "Neuer Inhalt verfügbar",
+    "es": "Nuevo contenido disponible",
+    "fi": "Uutta sisältöä saatavilla",
+    "fil": "May bagong content",
+    "fr": "Nouveau contenu disponible",
+    "he": "תוכן חדש זמין",
+    "hi": "नई सामग्री उपलब्ध",
+    "hu": "Új tartalom elérhető",
+    "id": "Konten baru tersedia",
+    "it": "Nuovo contenuto disponibile",
+    "nl": "Nieuwe inhoud beschikbaar",
+    "no": "Nytt innhold tilgjengelig",
+    "pl": "Nowa zawartość dostępna",
+    "pt_BR": "Novo conteúdo disponível",
+    "ro": "Conținut nou disponibil",
+    "ru": "Новый контент доступен",
+    "sk": "Nový obsah k dispozícii",
+    "sv": "Nytt innehåll tillgängligt",
+    "th": "มีเนื้อหาใหม่",
+    "tr": "Yeni içerik mevcut",
+    "vi": "Nội dung mới có sẵn"
+  },
+  "description": {
+    "en": "New content updates are available. Go experience them!\n\nIf you enjoy it, please leave a review or share your feedback.",
+    "zh": "有以下新的内容更新，快去体验吧\n\n如果喜欢，欢迎在应用商店评价或联系我们提出建议。",
+    "zh_TW": "有以下新的內容更新，快去體驗吧\n\n如果喜歡，歡迎在應用商店評價或聯繫我們提出建議。",
+    "ja": "新しいコンテンツの更新があります。体験してみてください！\n\n気に入っていただけましたら、ストアで評価するかフィードバックをお寄せください。",
+    "ko": "새로운 콘텐츠 업데이트가 있습니다. 경험해 보세요!\n\n마음에 드셨다면 앱 스토어에서 평가하거나 의견을 보내주세요.",
+    "ar": "توجد تحديثات محتوى جديدة. اذهب وجربها!\n\nإذا أعجبك، يرجى ترك تقييم أو مشاركة ملاحظاتك.",
+    "cs": "Máme nové aktualizace obsahu. Jdi to vyzkoušet!\n\nPokud se vám líbí, zanechte hodnocení nebo se podělte o svůj názor.",
+    "da": "Der er nye indholdsopdateringer. Gå og oplev dem!\n\nHvis du kan lide det, så giv en anmeldelse eller del din feedback.",
+    "de": "Es gibt neue Inhaltsaktualisierungen. Probier sie aus!\n\nWenn es dir gefällt, hinterlasse bitte eine Bewertung oder teile uns dein Feedback mit.",
+    "es": "Hay nuevas actualizaciones de contenido. ¡Ve a probarlas!\n\nSi te gusta, deja una reseña o comparte tus comentarios.",
+    "fi": "Uusia sisältöpäivityksiä on saatavilla. Käy kokemassa ne!\n\nJos pidit siitä, jätä arvostelu tai jaa palautteesi.",
+    "fil": "May mga bagong update sa content. Subukan mo na!\n\nKung nagustuhan mo, mag-iwan ng review o ibahagi ang iyong feedback.",
+    "fr": "Il y a de nouvelles mises à jour de contenu. Va les découvrir !\n\nSi vous aimez, veuillez laisser un avis ou partager vos commentaires.",
+    "he": "יש עדכוני תוכן חדשים. לך תחווה אותם!\n\nאם אהבתם, אנא השאירו ביקורת או שתפו את המשוב שלכם.",
+    "hi": "नए कंटेंट अपडेट हैं। जाकर अनुभव करें!\n\nयदि आपको पसंद आया, तो कृपया समीक्षा दें या अपनी प्रतिक्रिया साझा करें।",
+    "hu": "Új tartalomfrissítések érkeztek. Próbáld ki őket!\n\nHa tetszik, kérlek hagyj értékelést vagy oszd meg a visszajelzésedet.",
+    "id": "Ada pembaruan konten baru. Coba rasakan!\n\nJika Anda menyukainya, silakan beri ulasan atau bagikan masukan Anda.",
+    "it": "Ci sono nuovi aggiornamenti di contenuti. Vai a provarli!\n\nSe ti piace, lascia una recensione o condividi il tuo feedback.",
+    "nl": "Er zijn nieuwe inhoudsupdates. Ga ze ervaren!\n\nAls je het leuk vindt, laat dan een beoordeling achter of deel je feedback.",
+    "no": "Det er nye innholdsoppdateringer. Gå og opplev dem!\n\nHvis du liker det, legg igjen en vurdering eller del tilbakemeldingen din.",
+    "pl": "Są nowe aktualizacje treści. Idź ich doświadczyć!\n\nJeśli Ci się podoba, zostaw recenzję lub podziel się swoją opinią.",
+    "pt_BR": "Há novas atualizações de conteúdo. Vá experimentá-las!\n\nSe você gostou, deixe uma avaliação ou compartilhe seu feedback.",
+    "ro": "Există actualizări de conținut noi. Du-te și experimentează-le!\n\nDacă vă place, lăsați o recenzie sau împărtășiți feedback-ul dvs.",
+    "ru": "Есть новые обновления контента. Иди попробуй их!\n\nЕсли вам понравилось, оставьте отзыв или поделитесь своим мнением.",
+    "sk": "Máme nové aktualizácie obsahu. Choď si ich vyskúšať!\n\nAk sa vám páči, zanechajte hodnotenie alebo podeľte sa o svoj názor.",
+    "sv": "Det finns nya innehållsuppdateringar. Gå och upplev dem!\n\nOm du gillar det, lämna en recension eller dela din feedback.",
+    "th": "มีอัปเดตเนื้อหาใหม่ ไปลองสัมผัสดู!\n\nหากคุณชอบ โปรดให้คะแนนหรือแชร์ความคิดเห็นของคุณ",
+    "tr": "Yeni içerik güncellemeleri var. Git deneyimle!\n\nBeğendiyseniz lütfen bir değerlendirme bırakın veya geri bildiriminizi paylaşın.",
+    "vi": "Có các bản cập nhật nội dung mới. Hãy trải nghiệm ngay!\n\nNếu bạn thích, hãy để lại đánh giá hoặc chia sẻ phản hồi của bạn."
+  },
+  "items": [
+    {
+      "type": "theme",
+      "id": "juice"
+    },
+    {
+      "type": "theme",
+      "id": "pool"
+    },
+    {
+      "type": "theme",
+      "id": "beach"
+    },
+    {"type": "background_music", "id": "light_rain"}
+  ],
+  "date": "2025-07-14"
+}
