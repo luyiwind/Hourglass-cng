@@ -1,0 +1,4177 @@
+{
+    "publicConfig": {
+        "rewardAdFreeMinutes": 360,
+        "rewardTrialMinutes": 120,
+        "rewardFuncMinutes": 120,
+        "interstitialInterval": 60,
+        "adMinFocusMinutes": 15,
+        "interstitialChance": 0.5,
+        "reviewRequestCount": 2,
+        "reviewMinFocusMinutes": 2,
+        "bottomBg": "__enc_v2__:Z0/vnV3adymOkofDY06EBzcdRCUAZUNGOgkAEQJDEXFaWxYGNF4CNBZOMSIUTS8+AjY0cTEABUwbHhdVBDQdGB06BFdbFw4HEg4+EjVNEikEBF8NKxIiEg59HxkqChwBBSI3W1UFKz0qPUcPPE4uHypAMgoELCByPD0gQyE4DVcWA1sYHRYlOltSDCsXMDILC1soOgQc",
+        "contentUpdateUrl": "__enc_v2__:fhD1bRVPT45JgRx419TYBlwXBy8fW0MdDxwKOxQZBwdxFToHOiAwXhooThcdRQEUMwgmH1s8GBJOAD09HQw9FTNBBDYyKzZHPwAwJl9MPSY4IyxMH2dCCTMEMhA2TRwwAy1VPwIWEE48O1dpJRI4NgNaAVUxXSQcJisGBwA+RzhULQEGRwwaDg0=",
+        "otaL10nUrl": "__enc_v2__:ap6dIRNtdDHVogToNnTF8g0rK0QgW1pbPhYqG0M2XgdbCwUrNyALYjYcZy4wGRsgCi0/LFk8AlV8Dg1YNiIiNhgEFwI/MwIEITocLFpYEBwxXFAkRjwDBllwRi0pHBYyAFUeHh8QEw4ePgAHHxYPMkIZCBcQAXwIDD58Ix4FPBo3GDNCCAgsDxIXPF0bH3E1BQwN",
+        "pixabayApiKey": "__enc_key__:TXW+fba1fxuOrfc51C37rlZCdEEGDG9xZUBXS2FGXzxAMkJRaTlUCwNQEwRwYXlACgY=",
+        "fontSuggestions": [
+            "Cabin Sketch",
+            "Rampart One",
+            "Mochiy Pop One",
+            "Londrina Sketch",
+            "Patrick Hand",
+            "ZCOOL QingKe HuangYou",
+            "Baloo 2",
+            "Fredoka",
+            "Comic Neue",
+            "Schoolbell",
+            "Neucha",
+            "ZCOOL KuaiLe",
+            "Luckiest Guy"
+        ],
+        "gallery": [
+            "__enc_v2__:wjxAj05jhmeer+g5RY806DtEQAQsaUZGFyIZFgJHUV0gDCo+FCRVRwZECg8UcSMABCIsHAgGJXwPHg01BCxwIRocARJ9HDY4BCc8PTVaAzoLAw==",
+            "__enc_v2__:QPXwiJD5UewM8ndTrhnsDS9AARYFaXBdGzczIlUAMFgBMBweNCQ+FUdyDwc4Ty8RFDofcVQGPhs6Pi0UOiFwRDsZDhFMEAwtOxcUNFoBLQsl",
+            "__enc_v2__:rTDwLPItfxWdMbPOod40rjsSARNHU3BZAhMzFjIfUXE3AxwAOFhTIEN+Dz04fCMVEzofRzs2Ex8AXS0yEQVwOCQGDlZDKBQVIjwUE3EHEVBC",
+            "__enc_v2__:LstM6j26FAl6RPTsypDfIQ0VHS8faFtKJwY/FiYAOkcdOjItBDMtBgdfKz0OfSMNAToQZhc2REk2BAIyFiZnFwQqHgdOJxMJU1otFgZxFBY9OA==",
+            "__enc_v2__:rpumuc3sybwh1Xk9hGSP7AlAHQNBCnBfICk+KQAgFnw9MDITFw8+QyxbPBgycREXODoQfBEiPkY6HTIXOgd6JzcZHj1GHgwpLG8qV30oOlI4",
+            "__enc_v2__:gCyKNWVTnMdsdSJbTrhqyBsEHQQDTGNbBlE/KSkQLUIJX0E+Vz8XPz9yKxgCXBM+NQwgHA1VBh1bMgIXFxpdFD4rMxU1Gh8SHxgGXwQRDkI+E0A=",
+            "__enc_v2__:2JInfoZ4JIdUUGRO9bzT4lwrJi8aVmNwB1cFVwIQFR43MCoeIA8XABpdVx4VXQUIOC0gYgcWBkMFGDISDBJGIA0JJBMBGB9jTR46CwNtGl59",
+            "__enc_v2__:SaqUOreajC8KxIX10UhK4DcXPEAAZVtOGwk/ADMfExxaHBARNAAtJjR/PBs4fAAEAgQBaTEpRHAKGxUBNgUfEhQ5CgwGD19tXSQpDkBPH1tX",
+            "__enc_v2__:YmAkpeIK4aMQCoWmRJZs+RsHBxkaSkxGEwM/OggsEE8JPBQ1U1wSRyZBPDFTHBYzNTAhTTcMF3w2MhUvNhZDOD4YMxYtPnpscQQpByU=",
+            "__enc_v2__:J1U6nadfGmFuUFmkQH4IYDcAPCUQb1p8BFczCQQVOk0EIxAGFBgIOyBdDzwSQi8SK1cBcQU6GkxZGC0RAyxDBhccClcnS0xGTR4TMUQ=",
+            "__enc_v2__:nMCE34rw3N3B7iPHOkWCU1wrJxUsVkpGERYcLTQsBF03XT0HFA8UNAB+UwsTXSINOAAQSAgWEEwIOAgVOh9wNQ0ZHgkgGENGewMiBDg=",
+            "__enc_v2__:jOogJ+pK6szt0l7L0fqkdQEYMzwFXGcfHjo/IjMgE2JcPRwENAAEEBBBKwc4cQBTNBMAXlQ6BGgaIQIUNgcfFz4/P1URCklfTwEXMUA=",
+            "__enc_v2__:CDxqoqB2tzWkrYWCaUe66xtEHQAgSHBnLRA/Bj4SDHsJDDJCLwoNFgBEPB04ewM+NSIQRwdROl0FARUGLSx8OD4FHyIAJllRfBQpNxM=",
+            "__enc_v2__:0/OqrHOUEJ+KyMWyYMt7ClgzKxxBSHBKBlczOghHBkILBgYgFwoSBj9dPAIgcTctIBYfWBFRGklbGCkrBixGEQg/PjYbJn1UXh4AFAM=",
+            "__enc_v2__:Hnb9TvNsD2s2O+7ShLBm9CBGBBMAaUxOBxYfNwAsEUgNH0UBNDMSJhpMAjEyQi9VFRAaTzERF3AFPzM0Oj8dOAcFKzAGNXpmTSg6KiM=",
+            "__enc_v2__:opUdT+9aOItvybglUJViBiQ8RC8BVlpbQC0/DBQ/Ok0eChYBAQ8IPwNIKykOWC8SFxc0QlAWGh0cHwIECQNDBlEKBTctGExBWUgFFj0F",
+            "__enc_v2__:AWP3QHNvtwHvOp4U6AusYVghKwNBTnBcARYFVSYSUXELGxkhFyANEiB+JA0OeyM+IDo/exFXOn08OAIgFixwCwheGhEbCVluRVoEDAMj",
+            "__enc_v2__:EaS7uAsUjEbKtj7ngnTh/wsEKwMDVltMOjcgED4sV2YaXxkhVz4tARZyFQcUQhUCDgw/ew0TREYbPhELCT9aFVUrGhE1Kl8FVGZHBi5C",
+            "__enc_v2__:BOtoifypjen2YxANIm6fYy8AERkWW3BnIQwYBAQBNk8BIwBGEjk+FjtqLzsSSCUzFFcVfQI6Pl0KDlM4A0dbODIcADoeJkpXQV0HOlYj",
+            "__enc_v2__:zyoJURtU1vYd88TF4U/F6jcrJhFDCHpwASkYEz4GVXE3XSonBBwVQSBbLz04RxkVLwAgcSMQKUo8HVNXLR9oKwQZJDobEB1EQB4HBgEv",
+            "__enc_v2__:3YA5Jxgg3J732T9VocUXVzorRjwFSUpfAgAzUTI7FmI3AwUEND8UQ0NYUTE4SxFTNCkGXlQwEEYACwQ4EQF6FykaBVURDUN2ckICCT0Z",
+            "__enc_v2__:gzf5BMIfchpta4QNtC6BUjoAJgMaDmddLREzBC1BNl03IyohIDMEFSxhEDsRXiUANFcgewc6BBshXw04FQZbISAFJRZcCgktAAMmABcBcSgGFxM=",
+            "__enc_v2__:wb9F25tEatLfR8d6JARLrDc4JjwsZXBcEQxeOggQV11aGSoEC14SIAAZE1wgXBUAAhUgXigAGnoIPhQCBhpaIR1FJVJZFjodODo2FxRdEToEGVwfTVc=",
+            "__enc_v2__:91KlA5QoZkqSPgD82r6+PxsnF0QGSkZMNTc5NgggBEc7MActDlwmABpyFzFTcSINMhEacQgMFU4aPj4TNgdwFxw5WQ5MNAcnNilfEzc4fQQ6UCNzBV5Q",
+            "__enc_v2__:5MLidaKzgx7LywYxIroOLAEEHTgWfUxcQhAJLQQVExwvXzIXEgUTIBBEFgsSQgAEBAwQXAIWH3ouAQcVAywfARsyHgRDIF0aDgoCAWs9DkgWBgNE",
+            "__enc_v2__:WJMK0UlXTOWCVpc256WwqR4COAUQT3BbGwk+CRMFMGk7PAMbFQUSPzROPA0BfS8CV1UDQg0JGh0KHjIUUUNwBwsWXQEbDjcUGhUpFToGJj4lIEcENhEG",
+            "__enc_v2__:/+6Up6OkEXDg43bDUQr64hhGPBkQXHwdLREfERMgBB5YHxBGFQA+AwBhAiIBcSIIDhABfQ06AloFXzNVUQdwMy8cCz0bAS0APC89F30oNgET",
+            "__enc_v2__:rGgHCvJ0rNPLkKPMkOvghTcEKy9HCllcQhc/CVUAE1gbXxlAOA8yEhBLPA04TwARCww/SzsiRn0uWRUUOiEfRDoyGxdDHQsqBzspEysUDkcBBhIWcwV6Yg==",
+            "__enc_v2__:1s7ecXj5KGbeWNhiDG4ngy8rJwQ0aUpJGxYJAwABNloBMD0+DiQUH0d+FgIySCU+FC0QHBcGEHA6OAc4OkdbRjsQHxJ8HgUUNwAeEjo9AAcyXB4QNxk=",
+            "__enc_v2__:dzjaV9jjngHFM+C+f99421orITgmZXxcBSUABAMHfRQeLAQJFQAgTzEKOFwcJF8mGmVuR29aVGJFRW5YbgJTcghVVFVTZko8YwBnY2AEMicDTwNbFxsIJxZSIStRFhsnE0ACYkRlBHhFLl5rfA==",
+            "__enc_v2__:6uijvD2Mu4V4B+STTSOMYgknBCIfVnBGGggXFFcaaSY7LEAzAiFaGgIaPk4ALwwhMFlYZ0pDU2JkXgFjR1FAWWsofnACZRBmPFRVZlkSFCsnDwUMIF0HAHU5LidRAiddFVYET25VXHxuAl4Ibw==",
+            "__enc_v2__:kNNKH4un/3ymI4COIcsF6gkBETcgZUx9CD4IFRVHSCo7GgUFPgAbcTYnKklAN1sAMEFXR0BUUmRqUVcEXGdpYWdbXmR8ZTEqZ0pLPVMVKkYnTjk6QBs+F24PCCteLx4fFUcESUFlb0JDRW9MQw==",
+            "__enc_v2__:waywXNM7j2nUukIZzfibrTcnAhwffR1wPB0EUxYQSAZcLCMPAhoYXRdfGHAjG1sYClkBRkJLQlxmW1BnbVFqf0EpWlFVYQg0CyFeX2AzKgIJDyE9IDgNAkMFNjhiPB48HFYeYm5CU2NTAmIKeA==",
+            "__enc_v2__:4Cy3vCHCE3Vvvrc+VIdLDTsEGCIAXENoWws+OFEFHAMmQxMzMh86RxMDXx0vOwoEDERCZ2NrTkFHaFBcbwJGHRQiBX5GQTU1WxBGF0sIEx0GXjQMLQFRIUoKDxJxJB4oRFUoTwNkU0RFIwkMAg==",
+            "__enc_v2__:2oYxZj+c1IWLIKd2wJxQLBsEFwAAaFxGNj8+OAQVaUcPQwNcMiwJGjwwMkMlBAwRPURQXGRramB/ZXF5b29GWG13bXREcWw6AHtQFGw+FBI8XjkMLQ4yAFQFGwR1DycDOFUoTgNEeHxAA1RNUw==",
+            "__enc_v2__:pmK5l3mVEUwFyXnHnMLphg0rBzcffXx8NiUzLwwsXUcbHyMFAho3cVEKMko3Nw4RCWFkRkBHQEBSRGRFVH5tWA4TQGBXMS58TFJ4V0wCKhIwTTk6IDhTRkBSCkBcES0DAxZFSW5CQEBKLnprYg==",
+            "__enc_v2__:PphKRkYj8VR6ICeddP9v0h0GES8gb1wfPD8HDhYFQgUHFQVeKQc7TRcwAWgROzABAxlXUFNoYHVqZ21bYgNHRAFoXkYRVE1fAyxAFkkIGRgcYjkJGwg+B0MFBRVuJCAMEUoEUQVDAmNTA3FqAA==",
+            "__enc_v2__:dcXoRDh+YNvfv0fl8qng3jcdFSI7aGNKCgQCLzYGWCoxNCUzBCweWxBbHko4AR8nJ05uZEpmRVZTZVZLUFQJZQRHb38AfABfYztjXng+HBcdXC4MRg4IK3kSNkBUEDUdFnMST25Ed0N5PW5rQw==",
+            {
+                "url": "__enc_v2__:sNhqyTIvcA73uyVnTnRcYRwHHRESZVlMAgAPBCksAHEkPDInMh8yAENYETsCQgI+VTAQcTsJRk4ACwg4Fz9JCxEYHzotK0wlKANYcQRCAA==",
+                "cover": "__enc_v2__:s54JyGW3UpEu8DIYU+GYTForJiMDSVlaEzokCQ0FAB4YAyotVw0yGiZBBg0EfQIIEikgWg03RkM2IRMUFkNJMwETJSloLwwMMykEBkIeUQEcXAtGFyM0SWdfWCcrLigaDVRcFxo8ARQHHjoZWSswFAEOBRQSEF4xHA5wOj4SCzASaEABMB82cBkDG1xvAytxJQYxHA=="
+            },
+            {
+                "url": "__enc_v2__:GtJM1Ea2sISAAX0MToyemBxEHRwgSVpJFzAcNikBOk0kDDIRLz8IHwZZUzECSC8mVSIQXQcwGnAPMggTF0dDDhEFHwQADUwRCVMkJEc+PEc=",
+                "cover": "__enc_v2__:b9W9XI7vK1hWhBO5HXLZYwszJhwHfUlDNQZeADMABk8bBioRKwUNEBpeExs4fQMzBhYgXVYWKVwaDBQBNiZOKz02JQRfMRYAMD02DldxJTY9JU86ASEcIW9wQzMWJjY/NhoWcQ4dJjcBPXE2KGcbDD0tDj8NLAV+PCYUQwAIKRUAQRs8C1c+LWcBCS0QGjwLFUskBhEV"
+            }
+        ],
+        "musicConfigs": [
+            {
+                "id": "thunderstorm",
+                "names": {
+                    "zh": "雷雨",
+                    "en": "Thunderstorm",
+                    "zh_TW": "雷雨",
+                    "ko": "뇌우",
+                    "ja": "雷雨",
+                    "es": "Tormenta",
+                    "fr": "Orage",
+                    "de": "Gewitter",
+                    "th": "พายุฟ้าคะนอง",
+                    "pt_BR": "Tempestade",
+                    "id": "Badai Petir",
+                    "ru": "Гроза",
+                    "it": "Temporale",
+                    "vi": "Giông bão",
+                    "ar": "عاصفة رعدية",
+                    "hi": "आंधी",
+                    "tr": "Gök Gürültülü Fırtına",
+                    "nl": "Onweersbui",
+                    "pl": "Burza",
+                    "sv": "Åskväder",
+                    "fil": "Bagyo",
+                    "cs": "Bouřka",
+                    "da": "Tordenvejr",
+                    "fi": "Ukkosmyrsky",
+                    "hu": "Zivatar",
+                    "no": "Tordenvær",
+                    "ro": "Furtună",
+                    "sk": "Búrka",
+                    "he": "סופת רעמים"
+                },
+                "cover": "__enc_v2__:mKDb+qDm0NlMFnVQY0ClUR0mJi8gVmh8E1UfVQIQVxoBMCpALz4IOyZOMA0UXBUyCzYgSwcTBUw2KjQgBBpaKws9JRddJzsHMQ0RG3wEAxYDTwsSHUAmU2dcMwYmOhslDxZcC10XHEEHfSEOfB0wRyAOBT4gNHIwHDJKPCUVFBUsG0AbKgRQcB03BzEHOh5bJDYxHA==",
+                "icon": "cloud-lightning",
+                "hasAnim": true,
+                "isPro": false,
+                "hardcore": false,
+                "limitedFree": true,
+                "badgeText": {
+                    "zh": "限免",
+                    "en": "Free",
+                    "zh_TW": "限免",
+                    "ko": "무료",
+                    "ja": "無料",
+                    "es": "Gratis",
+                    "fr": "Gratuit",
+                    "de": "Gratis",
+                    "th": "ฟรี",
+                    "pt_BR": "Grátis",
+                    "id": "Gratis",
+                    "ru": "Бесплатно",
+                    "it": "Gratis",
+                    "vi": "Miễn phí",
+                    "ar": "مجاني",
+                    "hi": "मुफ्त",
+                    "tr": "Bedava",
+                    "nl": "Gratis",
+                    "pl": "Gratis",
+                    "sv": "Gratis",
+                    "fil": "Libre",
+                    "cs": "Zdarma",
+                    "da": "Gratis",
+                    "fi": "Gratis",
+                    "hu": "Ingyen",
+                    "no": "Gratis",
+                    "ro": "Gratis",
+                    "sk": "Zadarmo",
+                    "he": "חינם"
+                },
+                "badgeIcon": "gift",
+                "animThemeIds": [
+                    "zen",
+                    "blackGold",
+                    "xmas",
+                    "pool",
+                    "beach"
+                ],
+                "bg": "__enc_v2__:tlmxaLv6nAsTkTPnQ8R4gx08RhMhSmNGLSJcEAdBNloBCgUAOFwXNCxEAAcLXkA+CxcGRzcMBkwhHiYLOgZMRgsTBFZnM1gGCzcMEQAEIEsEUQ4jXBVUUF49BwccH1NaTjMWJhsELjsCWgYFODcGBHw2HFshDhYtUzM0IQVeMAI4QwghVTIWLHw8NwMdDnorOzk8VjYtPio4Syg2UiI=",
+                "url": "__enc_v2__:2U88R6GmDQXuo//T6OtYvhsdASMDWUljVzsCYjcaNA0xVRBmUxwBWTscJRgFDlMoejIZBwAOcEJvXkdfQ2pfRk1wAgcjPBxvVTRkUlRCREI5F10EE2xTDyUaVQc0PgwNVD4EUQAwJykSDAoDMl0ZBwxGK34TKR8NXUMoFjEHTiYbFHItNAw9FRobBgA8akVRX0Z9GS9B",
+                "vol": 1,
+                "thunderTimings": [
+                    2.2,
+                    37,
+                    69,
+                    104.5,
+                    137,
+                    180,
+                    205
+                ]
+            },
+            {
+                "id": "light_rain",
+                "names": {
+                    "zh": "小雨",
+                    "en": "Light Rain",
+                    "zh_TW": "小雨",
+                    "ko": "약한 비",
+                    "ja": "小雨",
+                    "es": "Lluvia ligera",
+                    "fr": "Pluie légère",
+                    "de": "Leichter Regen",
+                    "th": "ฝนตกเล็กน้อย",
+                    "pt_BR": "Chuva leve",
+                    "id": "Hujan ringan",
+                    "ru": "Легкий дождь",
+                    "it": "Pioggia leggera",
+                    "vi": "Mưa nhẹ",
+                    "ar": "مطر خفيف",
+                    "hi": "हल्की बारिश",
+                    "tr": "Hafif Yağmur",
+                    "nl": "Lichte regen",
+                    "pl": "Lekki deszcz",
+                    "sv": "Lätt regn",
+                    "fil": "Mahinang ulan",
+                    "cs": "Lehký déšť",
+                    "da": "Let regn",
+                    "fi": "Kevyt sade",
+                    "hu": "Könnyű eső",
+                    "no": "Lett regn",
+                    "ro": "Ploaie ușoară",
+                    "sk": "Ľahký dážď",
+                    "he": "גשם קל"
+                },
+                "cover": "__enc_v2__:z/o4wU0+DxpKN716fW9L7zcmAhUQSUxdLSIKOgI0V303MCYHFD8SFQBED1wVRxVRLzZDSAUwFxsFHj4CDABaFw09Dg56GDw4OicBFBoPSDAXATd/czcrKwYmVkl8ORkQDwUAHTscOAUnHDlWezYwXHwGBh4vCSk/Q3IVMRNwGj4+UzYhSgENAwQqXzM2LwQhLTI8GFwRFxI3RQ==",
+                "bg": "__enc_v2__:nyrBIf9DVIiDaKGrBaozlTcrBEQVdmd8FDYPEAIBCX0EXUUtCxoELB9yEAcVSC9RKwAacTsVBFs2GQALDEdcFx4AKg5cXA8rGzgnAho9MyUXSBQpDhkYWhhGLwBpcH0FRRUaATspO141GScEIBZYGgZwKR8DETgZFwY7fxciNHwuHjRXNgBDHRgTDhRwXlkyCxgtCFkPEw5XQgU2UAA=",
+                "icon": "cloud-rain",
+                "hasAnim": true,
+                "isPro": false,
+                "hardcore": false,
+                "badgeText": {
+                    "zh": "限免",
+                    "en": "Free",
+                    "zh_TW": "限免",
+                    "ko": "무료",
+                    "ja": "無料",
+                    "es": "Gratis",
+                    "fr": "Gratuit",
+                    "de": "Gratis",
+                    "th": "ฟรี",
+                    "pt_BR": "Grátis",
+                    "id": "Gratis",
+                    "ru": "Бесплатно",
+                    "it": "Gratis",
+                    "vi": "Miễn phí",
+                    "ar": "مجاني",
+                    "hi": "मुफ्त",
+                    "tr": "Bedava",
+                    "nl": "Gratis",
+                    "pl": "Gratis",
+                    "sv": "Gratis",
+                    "fil": "Libre",
+                    "cs": "Zdarma",
+                    "da": "Gratis",
+                    "fi": "Gratis",
+                    "hu": "Ingyen",
+                    "no": "Gratis",
+                    "ro": "Gratis",
+                    "sk": "Zadarmo",
+                    "he": "חינם"
+                },
+                "badgeIcon": "gift",
+                "anim": [
+                    "rain",
+                    "flash"
+                ],
+                "rainDensity": 2,
+                "animThemeIds": [
+                    "zen",
+                    "blackGold",
+                    "jellyfish",
+                    "cartoonunicorn",
+                    "cartoon",
+                    "whale",
+                    "juice"
+                ],
+                "url": "__enc_v2__:F9Mhr4ykBbqmp9rkx3bCJjsBGAYSXH1wAhAHHEA7DjI9CBp9NgMyHTEjMB4PMBExWw0GVDYwfFdvAFVad2YfRn9MABY7GicqOxVLCFBVDzkLRXwqOF8=",
+                "vol": 1,
+                "thunderTimings": [
+                    80
+                ]
+            },
+            {
+                "id": "forest",
+                "names": {
+                    "zh": "森林",
+                    "en": "Forest",
+                    "zh_TW": "森林",
+                    "ko": "숲",
+                    "ja": "森",
+                    "es": "Bosque",
+                    "fr": "Forêt",
+                    "de": "Wald",
+                    "th": "ป่า",
+                    "pt_BR": "Floresta",
+                    "id": "Hutan",
+                    "ru": "Лес",
+                    "it": "Foresta",
+                    "vi": "Rừng",
+                    "ar": "غابة",
+                    "hi": "जंगल",
+                    "tr": "Orman",
+                    "nl": "Bos",
+                    "pl": "Las",
+                    "sv": "Skog",
+                    "fil": "Kagubatan",
+                    "cs": "Les",
+                    "da": "Skov",
+                    "fi": "Metsä",
+                    "hu": "Erdő",
+                    "no": "Skog",
+                    "ro": "Pădure",
+                    "sk": "Les",
+                    "he": "יער"
+                },
+                "cover": "__enc_v2__:8++rna31OmhM47NTbo2TkBo8JyUsb2hMExEzIhQ0N3EOCioGOBgIACZhDwcORwYVUxcHcSw6BU42Xy0UCQB8ODcTIVBKVDwnOgMCfSgEUkJzXEYRAhZvcGcZBSwaIgoeCHEXHBIdAT1LABpwJDAyByszFBVHSzwmFUMAMjM4DBpZGAEZMg4dAwYtCTsCZgQJEjw=",
+                "icon": "trees",
+                "bg": "__enc_v2__:OBWniOX76ZrE7rMQfG0VcRwrEhYgXx19ExYzOgQGCV0kHBkeOBkRLCZ+DzESRy8NVQkscRADA3w2OC0vAx9cJhgnHhFjCgY6OgcCOlY4QgEQFBxAWisYEztlX10zBis6Hjo8Nl4UCgYNRxdHNgNZeANFBBEZDQAaXwYHU0M7PgIEBiB8HToUWQtdCjw+E0MzLCVXHhsTMCM=",
+                "url": "__enc_v2__:nD9Fr+9oY8xFfs/xXRuObFwzJgYBXF8fABQdYgA8TBM9CCZ9BQNdTBZfJBhcGzINcBImVF0wRnVZW2BfWWlwBFp8KRY7Gig2VnMSVg57QzIvZE0qL19cFToPOgcCCCliEwYLBQUzEn45HDoJAAYfAxkxDV47HxU9WQIXCgINFThDH1U9En42ATw5HRx/B0AHX1Rgex1AbA==",
+                "vol": 1
+            },
+            {
+                "id": "birdsong",
+                "names": {
+                    "zh": "鸟鸣",
+                    "en": "Birdsong",
+                    "zh_TW": "鳥鳴",
+                    "ko": "새소리",
+                    "ja": "鳥のうたい声",
+                    "es": "Canto de pájaros",
+                    "fr": "Chant des oiseaux",
+                    "de": "Vogelgesang",
+                    "th": "เสียงนก",
+                    "pt_BR": "Canto dos pássaros",
+                    "id": "Kicau burung",
+                    "ru": "Пение птиц",
+                    "it": "Canto degli uccelli",
+                    "vi": "Tiếng chim hót",
+                    "ar": "غناء الطيور",
+                    "hi": "पक्षियों का गीत",
+                    "tr": "Kuş Cıvıltısı",
+                    "nl": "Vogelzang",
+                    "pl": "Śpiew ptaków",
+                    "sv": "Fågelsång",
+                    "fil": "Huni ng ibon",
+                    "cs": "Ptačí zpěv",
+                    "da": "Fuglesang",
+                    "fi": "Linnunlaulu",
+                    "hu": "Madárdal",
+                    "no": "Fuglesang",
+                    "ro": "Cântec de păsări",
+                    "sk": "Vtáčí spev",
+                    "he": "שירת ציפורים"
+                },
+                "icon": "bird",
+                "bg": "__enc_v2__:mlrjOz8NwpCr2wUFoSKiMS9EEgUAU0YfQAwcADIQEWkBDBkbNCtVEANqUxs4XC8CFCIsQjEGJWgcDggBERodBzscHgFbETYbDSwlC3EEAAMlXwQHKxEHSUNODypLOgI8Gjd8BlshJCYBexowSh0JKi0yGjMWLB82HThOBRgVCzpBWyc3ADISWw46ICg5PThmEjpSIw==",
+                "cover": "__enc_v2__:v4vE01c1WPMRkDMZXUcpQzodHTdDTGh6HhdcURESCXE3WzIbBD8IByFLADFXezw+NDYQXSNVBXAfWSY4DCxZGCAqHjFGATpAN3EeCQ4jTzpeRU09BzMlFgpwXCAWMVkBGyIxWjQAAB0WDk9bHEwhHxxAODM0ACxLJCIyXwgfJldRA3BGHCZfDkxQNgc2RxQMMQV3E2Jk",
+                "url": "__enc_v2__:Ac+dQ/+nmUVI6d3KToIqjFgCKyUVZXBKChENXDg6DA0BMhVaDxwBWlAGBAgJMD47aFE5OzYDY1RjXlQbQ0YdQltMF0cXOxkzalcxag1tU10WI14IHEVPOR0fOjFVXxBvMAhAFDo8XBovGyASK0gAGScWGhJbVAgVRjslKXJBWGVHZnFCPhN0"
+            },
+            {
+                "id": "wave",
+                "names": {
+                    "zh": "海浪",
+                    "en": "Ocean",
+                    "zh_TW": "海浪",
+                    "ko": "파도",
+                    "ja": "波",
+                    "es": "Océano",
+                    "fr": "Océan",
+                    "de": "Ozean",
+                    "th": "มหาสมุทร",
+                    "pt_BR": "Oceano",
+                    "id": "Samudra",
+                    "ru": "Океан",
+                    "it": "Oceano",
+                    "vi": "Đại dương",
+                    "ar": "محيط",
+                    "hi": "समुद्र",
+                    "tr": "Okyanus",
+                    "nl": "Oceaan",
+                    "pl": "Ocean",
+                    "sv": "Hav",
+                    "fil": "Karagatan",
+                    "cs": "Oceán",
+                    "da": "Hav",
+                    "fi": "Valtameri",
+                    "hu": "Óceán",
+                    "no": "Hav",
+                    "ro": "Ocean",
+                    "sk": "Oceán",
+                    "he": "אוקיינוס"
+                },
+                "cover": "__enc_v2__:Q/u/puU6Y6EnL8BTBVjy+xs4KxYgSF9GEREzIgIhAFo7GUceOApRNAFhEAcVcQI+MhUWcRBRH0wAXw0UDCBJRhxFGBFjKCYFUV4lNhFACxNiWEoERisTEmlaWTkmGjYCWykIfBcFBz0qC142OmgXCRAROBoUPxJyFwJXcB0EDQsQAFwnAQM4PXAoCD46XTs6BBFTRlFB",
+                "icon": "waves",
+                "bg": "__enc_v2__:MavOAgrwX+Oo33T9fZQKwg4rAhwgVn1OBjpYBAIhBBwEHCYRLw8+Jj9ePDsVcSIEOAlDXQcWJXBbAT44DCBwARsnDgNdFikpFQ0OOF1HNgQcWi8mHSIQclpZID0qCj8FPDdHOF0rGhALfVsMeg8MKgRXHzIgIEQRAldfGxkIFRYgTCcgKiVWSSgIAwwAEQ5CRyI3Ew==",
+                "url": "__enc_v2__:+ee5e5J+NCsmgTQTNNaeeDcrB0Q7aFlGBg0bZjcKJxEOEipxBjA+GxEoHgsFHT4RYw0gOxs8H2FWUV1dQ1BDWUB9FRkCIQwAX0QCBwVBfl9HQnEhRFB4EjYNFlo0PhNeWiZeHyoBAWEANAI3JngSFghTDV08CB9fQSgzKToHHRYmFxBCQVoyBDkhE1k7MBw8BzRLUXxmZ1sbOGA="
+            },
+            {
+                "id": "ocean",
+                "names": {
+                    "zh": "深海",
+                    "en": "Deep Sea",
+                    "zh_TW": "深海",
+                    "ko": "심해",
+                    "ja": "深海",
+                    "es": "Mar Profundo",
+                    "fr": "Mer Profonde",
+                    "de": "Tiefsee",
+                    "th": "ทะเลลึก",
+                    "pt_BR": "Mar Profundo",
+                    "id": "Laut Dalam",
+                    "ru": "Глубокое море",
+                    "it": "Mare Profondo",
+                    "vi": "Biển Sâu",
+                    "ar": "أعماق البحر",
+                    "hi": "गहरा समुद्र",
+                    "tr": "Derin Deniz",
+                    "nl": "Diepe Zee",
+                    "pl": "Głębokie Morze",
+                    "sv": "Djuphav",
+                    "fil": "Malalim na Dagat",
+                    "cs": "Hluboké moře",
+                    "da": "Dybhav",
+                    "fi": "Syvämeri",
+                    "hu": "Mélytenger",
+                    "no": "Dyphav",
+                    "ro": "Mare adâncă",
+                    "sk": "Hlboké more",
+                    "he": "ים עמוק"
+                },
+                "exclusiveThemeId": "jellyfish",
+                "cover": "__enc_v2__:2uhookfomWJUOqjVDBTpeBsnEQADZXBfBxYaNgABFl4JMABCVzMNQxp+MCYySBEUNREVRw0tOkYFOFEEOkd6HTc5ASVoChUiAhpNBTYxL0x/WisXEwFKTFwzMhAhKDYNLF4UGgcORRFPWwxcKxs9AQQZDRISGQoPNUoaPhMrABJdHTogOD1oOhUXADtHRRcwGUw=",
+                "icon": "waves",
+                "bg": "__enc_v2__:a7hCQFsaAKXcrdH5+x+yaQsYBwMfChtwGxAzDDIgKWYaDBQhBA8+ADRED1o4ZkICDhYhexciKUMKAS00ERBfBlwUMhZOBg83Eg0pPThpAgwxIn83Jgc8BVtcXxhHEABDNjEsHDg6AjsgA1s2ClwkPAEhBAkyJgMdPDwOHRw+AjgpO10BIAFdAXwZDwAHOywWVU0eAwEv",
+                "url": "__enc_v2__:2lNOlJME+bwbKliFdKUGShsVHUBDZV9fDwcdTwMfEVMDNE1NAANdHwccFjsNPBIBfT4mIy4jRltDU2dwYgZ8RWlwPhwNHygYBGNmPBVbZgNqfloeA0NcBTszNiYyKhFRKwQgNj1VBxszJkMCQgo6M1NFHyA7DQQTJCkXFxFeVRYcAwIVGGomOkUNIxpqDgNBHVwQcioNOzoRBQhADCdYN1opAEBdHT42KR1eYEZpV05gcQEVVkE="
+            },
+            {
+                "id": "wind",
+                "names": {
+                    "zh": "风声",
+                    "en": "Wind",
+                    "zh_TW": "風聲",
+                    "ko": "바람",
+                    "ja": "風",
+                    "es": "Viento",
+                    "fr": "Vent",
+                    "de": "Wind",
+                    "th": "ลม",
+                    "pt_BR": "Vento",
+                    "id": "Angin",
+                    "ru": "Ветер",
+                    "it": "Vento",
+                    "vi": "Gió",
+                    "ar": "ريح",
+                    "hi": "हवा",
+                    "tr": "Rüzgar",
+                    "nl": "Wind",
+                    "pl": "Wiatr",
+                    "sv": "Vind",
+                    "fil": "Hangin",
+                    "cs": "Vítr",
+                    "da": "Vind",
+                    "fi": "Tuuli",
+                    "hu": "Szél",
+                    "no": "Vind",
+                    "ro": "Vânt",
+                    "sk": "Vietor",
+                    "he": "רוח"
+                },
+                "cover": "__enc_v2__:dssCH2fUEEa3Yi0uEj2gHR4VMzcQSXBMIAYAOikgBH07OhwbFT8SASxfMTECZiJRVzoAXQ0wGkY6BBcvFxBwFwsqPjEbAztaLBokAAs3c2svPCElIGVZfA8mSRtDACYNRwIdADdHMXEbMEYhPAYRFB8TLCxZBl4TRh0qVTg2AXwnDkdfLloUJR07TSQRNxl1",
+                "icon": "wind",
+                "bg": "__enc_v2__:jcwQZ1sP9sfAd4+nfH2m3QsYHRUfU2NbGxYeEwQaLVobPTIHBFgXP0dMBT0SaRM+BhMQSBc2Bh06P1VXAxBdRj0mHg5OKFkeOwA9BBoEDAcvHAkrJgQaT1t8MzImCEMcMQd7FDY4LxwuZh0McBo8EzogMw0gQU4PXARjGgE+OAkWRis6PR0RTBIuXAUTMRNxBRYqBg==",
+                "url": "__enc_v2__:P3vcSYZSy77iW+wbJunt9RozOBUaZR1MAjFaXRldKggECA9bJDAdXTEbKA9YMBcXGxIFAgonWltvbWp9Y2x8YWp8URkXDAZrPFAPamNEUzdnNkcyEUFTNSEJKT0VIQZJHwAoATABET4VHVtTckEoOThyFAUxUF4HHRMeBx9DWApOB0Z8Mi9S",
+                "vol": 1
+            },
+            {
+                "id": "wind_chime",
+                "names": {
+                    "zh": "风铃",
+                    "en": "Wind Chime",
+                    "zh_TW": "風鈴",
+                    "ko": "풍경",
+                    "ja": "風鈴",
+                    "es": "Campanillas de viento",
+                    "fr": "Carillon éolien",
+                    "de": "Windspiel",
+                    "th": "ระฆังลม",
+                    "pt_BR": "Sino de vento",
+                    "id": "Lonceng Angin",
+                    "ru": "Колокольчики ветра",
+                    "it": "Campanelli eolici",
+                    "vi": "Chuông gió",
+                    "ar": "أجراس الرياح",
+                    "hi": "विंड चाइम",
+                    "tr": "Rüzgar Çanı",
+                    "nl": "Windgong",
+                    "pl": "Dzwonki wiatrowe",
+                    "sv": "Vindspel",
+                    "fil": "Kampanilyang panghangin",
+                    "cs": "Zvonkohra",
+                    "da": "Vindspil",
+                    "fi": "Tuulikello",
+                    "hu": "Szélcsengő",
+                    "no": "Vindspill",
+                    "ro": "Clopoței de vânt",
+                    "sk": "Zvonkohra",
+                    "he": "פעמוני רוח"
+                },
+                "cover": "__enc_v2__:htRYqrVXl3P260flb00jNTsGPCMfT1xaISIPLRM7A10gCRAtBAUyGjtEEAsBS0QNBFEBWhcJI0MKHgAVUQFwJhoqCy5OFB0NFgw2DjoEOlgeOlZCcl83Bx0lLA5wGwAmTQUoGTEFHAZdADsmFn0lX3wEMAAhNQkzICxlPCI4WQoyFwsMO3ABNyAlAVtFHR4jKxMkBQ42SCQRBwJs",
+                "icon": "music",
+                "bg": "__enc_v2__:CKm//yD2fpWOi54jl8f/1RsdKxlHaGMbOhMFAD4GV0cJW0c1ODMXLBZ+JBtVRxUNNTYWTTs2BnAbXQIBAB9aFzcqGBFDK1gFCwYsDhVxERYxBFkXcVJFJEAzESxcXEMNPTUFIh8cI1g4ACY3QQ5xOwwdFzAFGwQcPgAsQTw8FHAbHRI4VUdcRBwUPi5wFQQ6BBAzKg59FgwuJQ==",
+                "url": "__enc_v2__:+/8PbTci18MfXpiCvHApxToRFy9BZX1wPDsiTRkFFBQ9FAtdEwMyXAhdAR1YDC0CfAccCBwjfF58V0VOY0FZXX1DVScNHycNF00BM2ZUQ2ZTbH0bHENcEBkKDDEVP1VOBhwxOgBfFCBfGQI3ch0GHwEFWVMbAARVGnIQJ14yNX9XOi0IEyYZUFxuRFZTHg4GYA=="
+            },
+            {
+                "id": "night",
+                "names": {
+                    "zh": "夜晚",
+                    "en": "Night",
+                    "zh_TW": "夜晚",
+                    "ko": "밤",
+                    "ja": "夜",
+                    "es": "Noche",
+                    "fr": "Nuit",
+                    "de": "Nacht",
+                    "th": "กลางคืน",
+                    "pt_BR": "Noite",
+                    "id": "Malam",
+                    "ru": "Ночь",
+                    "it": "Notte",
+                    "vi": "Đêm",
+                    "ar": "ليل",
+                    "hi": "रात",
+                    "tr": "Gece",
+                    "nl": "Nacht",
+                    "pl": "Noc",
+                    "sv": "Natt",
+                    "fil": "Gabi",
+                    "cs": "Noc",
+                    "da": "Nat",
+                    "fi": "Yö",
+                    "hu": "Éjszaka",
+                    "no": "Natt",
+                    "ro": "Noapte",
+                    "sk": "Noc",
+                    "he": "לילה"
+                },
+                "cover": "__enc_v2__:fKzeNBe7n+0OpjA554XVvC8nJxwsdl9oLQkaFhMHBn0BMD0gOBpRGgB/MA8BYjc0FBEQWCwVH1wFG1E1UUFGADs5HzFKXi40OidNKDYHA395Wh1EAhpZellcMio2AjpcEF5TChIvBhZ9CgwfPAkgFzgZMjRHTgIxV2gaDi0LEQYdHTccMhF6XAAECTMcKDoEFUw=",
+                "icon": "bedtime",
+                "bg": "__enc_v2__:gIA568dcScjHEjN80trUqxsrRgYgSUlwLTpcFS0QABoJAwUhOD8NLCxyAF4RXQIyNSkGHhAwKWchJSYOFRJJKzcDBAFjGhoCDRE2JRJ8QxExAFMxD25AGgYGAxBTcHAgPUkKHhlcNkgBDxUbGTFxWwxGOxwAFxFYVUcmTAAmC18bKgA0DAZ8KzsmMjBcDSUSARcNNwtIRzo9Lw==",
+                "url": "__enc_v2__:3saSAuJ6gM0IByvP7MM/YCQSAhwaSXxaBgE9XQMfGwIUDSpNVzwlRhEaKA8NPCYXXz5FFzo6TF5WVEB9YwJGUQJcAhQ7HR08WVV8OxAPQmcICmk/BGxWFTYzVz0yKjZiMzMHKClAVQwSHUheWQQ9J04XHjFbAD0xCUECChcbWSsBOjAjFQFyLCM5CCNqU2hSUgBhTRgWRw=="
+            },
+            {
+                "id": "forest_stream",
+                "names": {
+                    "zh": "森林小溪",
+                    "en": "Forest Stream",
+                    "zh_TW": "森林小溪",
+                    "ko": "숲속 시냇물",
+                    "ja": "森の小川",
+                    "es": "Arroyo del Bosque",
+                    "fr": "Ruisseau de Forêt",
+                    "de": "Waldbach",
+                    "th": "ลำธารในป่า",
+                    "pt_BR": "Riacho da Floresta",
+                    "id": "Aliran Sungai Hutan",
+                    "ru": "Лесной ручей",
+                    "it": "Ruscello Forestale",
+                    "vi": "Suối Rừng",
+                    "ar": "جداول الغابة",
+                    "hi": "जंगल की धारा",
+                    "tr": "Orman Deresi",
+                    "nl": "Bosbeek",
+                    "pl": "Leśny strumień",
+                    "sv": "Skogsbäck",
+                    "fil": "Sapa sa Gubat",
+                    "cs": "Lesní potok",
+                    "da": "Skovbæk",
+                    "fi": "Metsäpuro",
+                    "hu": "Erdei patak",
+                    "no": "Skogsbekk",
+                    "ro": "Pârâu de pădure",
+                    "sk": "Lesný potok",
+                    "he": "פלג יער"
+                },
+                "cover": "__enc_v2__:GPSA+gvUmrD+O1+giKCY+QkYIS8DSXpdLRYcBhcgAE89DAFAVz8VFQBMUx00cQIzOBYsSw0wKRsFPwgGVQdJKzcUXxdoEl0tNywzChorRjYpP0sRBj0Vcx4nFy80CHBnCSoMBQRbGwh9LxonCxA9TRs8SRcOEBQrXAISO14WAhVJIQESMhAfWR0vJw4DSSoGRgYsGAAVKwIiCDJcIgkURA==",
+                "icon": "waves",
+                "isPro": false,
+                "bg": "__enc_v2__:7nSFxvN5GyaI54H0rhMcYx4rBBMADl1fEy0KFVUGKU87MEUBNDMHQyZID144R0IzVy0aTzE6QkY2Hz4OOh9fKwsQKjdbHys1OgceGBY4WyQiEBNgKXFuTyBAGBM/SUZnBRMKNkUfAhdLOCUHWhkOTRpbTgAKBT4GHj4FEl0xDRV8NjgEElUFeh0cBT8XWQAdJzo+HzkLF3FDKVIv",
+                "url": "__enc_v2__:j2dd915HOLms94HbmcZq2zsnGCUAX1pjKwEIRwBZMAA9KRpaAhoEWQEaG1pcDAI2WwIGOzsJQ0JCVG18WXVdbnxdAEc7BQxvBAgRaw0CCGYKXnwII2xMD10zCRoCHlF1FkY6EDscFCk7LC8wHgwmDRwnKksADT4Och8CQAQ0Ml8AMWUKHSA6AABhQVxhakFHAQRQ"
+            },
+            {
+                "id": "singing_bowl",
+                "names": {
+                    "zh": "颂钵",
+                    "en": "Singing Bowl",
+                    "zh_TW": "頌缽",
+                    "ko": "싱잉볼",
+                    "ja": "シンギングボウル",
+                    "es": "Cuenco Tibetano",
+                    "fr": "Bol Tibétain",
+                    "de": "Klangeschale",
+                    "th": "ชามเสียง",
+                    "pt_BR": "Taça Tibetana",
+                    "id": "Mangkuk Bernyanyi",
+                    "ru": "Поющая чаша",
+                    "it": "Ciotola Tibetana",
+                    "vi": "Chuông Chuông",
+                    "ar": "وعاء الغناء",
+                    "hi": "सिंगिंग बाउल",
+                    "tr": "Şarkı Kasesi",
+                    "nl": "Klankschaal",
+                    "pl": "Misę śpiewającą",
+                    "sv": "Sjungande skål",
+                    "fil": "Umaawit na Mangkok",
+                    "cs": "Tibetská mísa",
+                    "da": "Syngende skål",
+                    "fi": "Laulava kulho",
+                    "hu": "Tibeti hangtál",
+                    "no": "Syngende bolle",
+                    "ro": "Bol tibetan",
+                    "sk": "Tibetská misa",
+                    "he": "קערה טיבטית"
+                },
+                "cover": "__enc_v2__:KMud4z4vGSVKlW4EE/KPnD0VKxlHZR98LRYkFVEDFk0cOhlGOB8COwBMBl4EHhESODo/fTsJMUwFPxMOIhp6FVoqGz1DIQAcNTYIIDwOMCUJZgcRLgZTRR4nQBMAWXBwGRBJJQE6PVB9LzoHCQYqfQ8dRnofRSc0XAIsEngCCy9DDyoRVwYHcB0vAT89fQEKMVMKGw4YPRswBWIoOj0WUg==",
+                "icon": "music",
+                "isPro": true,
+                "bg": "__enc_v2__:WRb7Z7mbRYr5aHJXYrgME1onKxUsb19DETYrFggQEWkYMEcHCxhRIQFyCg9TXC8CEhEWSCg6H1kAGRI1NhodBwE5GA5ZQS49UyU9OAoRAk8bVwQvXA0XRCNBb3xbPwAsCgcFHVRbFAorGCpScTwJcDsaKh4OCgA0B1g8DVVbBTIADhYhaBg9HDIEZzQMMTghPAszFARxKBZQHA==",
+                "url": "__enc_v2__:2BpfY7c+dykCDOJl4h+MRFwrBzwASUNGNgcacQY6PzI9PipYMDwOaBAcOx0/JwIxcCkgFDw6XFFvUwRDAFBcRFVKFUUQHQ4sAGdHa1F3BWd+QXEEL2xtBwwzEBgmBDAPBQlHK21ULTAEKgMeABo6Fl1ADAEAETIxSyoDRx8gchNfLVgeEBEhK1UXNgYPeHxfUWZQU0gLE3s="
+            },
+            {
+                "id": "meditation",
+                "names": {
+                    "zh": "冥想",
+                    "en": "Meditation",
+                    "zh_TW": "冥想",
+                    "ko": "명상",
+                    "ja": "瞑想",
+                    "es": "Meditación",
+                    "fr": "Méditation",
+                    "de": "Meditation",
+                    "th": "การทำสมาธิ",
+                    "pt_BR": "Meditação",
+                    "id": "Meditasi",
+                    "ru": "Медитация",
+                    "it": "Meditazione",
+                    "vi": "Thiền",
+                    "ar": "تأمل",
+                    "hi": "ध्यान",
+                    "tr": "Meditasyon",
+                    "nl": "Meditatie",
+                    "pl": "Medytacja",
+                    "sv": "Meditation",
+                    "fil": "Pagninilay",
+                    "cs": "Meditace",
+                    "da": "Meditation",
+                    "fi": "Meditaatio",
+                    "hu": "Meditáció",
+                    "no": "Meditasjon",
+                    "ro": "Meditație",
+                    "sk": "Meditácia",
+                    "he": "מדיטציה"
+                },
+                "cover": "__enc_v2__:74KcC9793mDl7LELpD8wHlomByMWU0ZwLQkfOhUWEF4YMBQ6EismQSxOMB0rWxYUEjYhTQIGFUohHjQLVxVDHQE9MhBDHhYRDBUVJgxbMUIbBjEZf00JEgYiLExacB8WGhs/XR0xewsPKyAFBHEFHFwhDCYeODM+RyBIUwILfQgMVRU6IXArGyZdEEYyKRI7JjIdHRkmZhs6ARZn",
+                "icon": "music",
+                "isPro": true,
+                "bg": "__enc_v2__:nMh9E1qCHH0Z0nIRifCyIVwXBy80SmhjADorE1MsKUc3HCYBDlwIBRVBCj0XHEINOAQmQhcMBV9dIRJXEBZfFwQgGTB8KjZUNgIyFw8dGywuOHEBMAElRTcEITcfXEZOGipLOgMaGiNCVzYXN0EOfBknSngwFC0EIAgsAF48DTgfDBgCVTBBXEYEPQwOcB42DRsSJhE2Cg8vAQJ7JQkDOA==",
+                "url": "__enc_v2__:JawvLr/hbvJ5vvknKiv6phsnEhYDU1twPAIIRxEdGVExPhVCU1shQwgDG1o5IzMNehUqOwA8HX58bW18bwBwd0NjEgYjNh8pEBFHazJQYABvB0IBE0dKFhkACRopGC1OVAI3NwAjHF5UDS8wDgsWDwwBD1sMVwgAHRcCWx0CLTwYGSE8OAAXMjNAQUhYaF1vVEJdQGw="
+            },
+            {
+                "id": "rain",
+                "names": {
+                    "zh": "雨声",
+                    "en": "Rain",
+                    "zh_TW": "雨聲",
+                    "ko": "비",
+                    "ja": "雨",
+                    "es": "Lluvia",
+                    "fr": "Pluie",
+                    "de": "Regen",
+                    "th": "ฝน",
+                    "pt_BR": "Chuva",
+                    "id": "Hujan",
+                    "ru": "Дождь",
+                    "it": "Pioggia",
+                    "vi": "Mưa",
+                    "ar": "مطر",
+                    "hi": "बारिश",
+                    "tr": "Yağmur",
+                    "nl": "Regen",
+                    "pl": "Deszcz",
+                    "sv": "Regn",
+                    "fil": "Ulan",
+                    "cs": "Déšť",
+                    "da": "Regn",
+                    "fi": "Sade",
+                    "hu": "Eső",
+                    "no": "Regn",
+                    "ro": "Ploaie",
+                    "sk": "Dážď",
+                    "he": "גשם"
+                },
+                "cover": "__enc_v2__:ZcRRAmQgNvdSVjv99Pv4NDoXJxwgSWd8OgkzBAQSOl03HSoRLz8EOxZODzsSey8ANAwHXQcwBEwbHi04AyxDISBBIQNdBgcbCE8BOlYjbHMLJ0YiGmUbRlgnCSEoIRg7XDgZK1xHPRo2MForMBYCLwUVBiB+BjE0cDoEEwsXQ0pAJBwlPVoePh1eQh4pCxlS",
+                "icon": "cloud-rain",
+                "isPro": true,
+                "hasAnim": true,
+                "hardcore": false,
+                "animThemeIds": [
+                    "zen",
+                    "blackGold",
+                    "xmas",
+                    "pool",
+                    "beach"
+                ],
+                "bg": "__enc_v2__:Xomh4SdmSSTkaQJwVbGKNC8dKxksWUlwBgQgFxImEF0BKEc1VR4NQT94FQg0WhYAFAYWTQEMKUpbMhFTMCxDITsGGBFaRhIcHgBSOHE/Oj0lTQ4VEiMfXFpnBSomDAQ2GjFCMgUrOhkLSwUbZzoDPS04Mz4sB1s8AhVMJQgHNQBBcAc3BiExXC0IGlwtVhFcEi0OOA==",
+                "url": "__enc_v2__:ddvajQnC9BxjDdpAbaqflDchIREsXHpDADsHXkAbKz49FQ17UQMZTBYcMF4PCTQsZz4qOwwwcEFZXldGdwxbVVYdUyoRGl0+AmNBI1JhaRBCUUslFl9aNDoaBA0SMldbARwbAgkgGTo6NDMfAAwcawVLFR46ExZ+A1UzDXg+FDYxFUESHDIfPDoNfiU3WxI6cjEwXR9Vcg5bP2VtbUlfVVtdHi9h",
+                "vol": 1
+            }
+        ],
+        "notificationConfigs": [
+            {
+                "id": "bell",
+                "names": {
+                    "zh": "铃铛",
+                    "zh_TW": "鈴鐺",
+                    "hi": "घंटी",
+                    "tr": "Zil",
+                    "nl": "Bel",
+                    "pl": "Dzwonek",
+                    "sv": "Klocka",
+                    "fil": "Kampana",
+                    "cs": "Zvonek",
+                    "da": "Klokke",
+                    "fi": "Kello",
+                    "hu": "Harang",
+                    "no": "Bjelle",
+                    "ro": "Clopoțel",
+                    "sk": "Zvonček",
+                    "he": "פעמון"
+                },
+                "cover": "__enc_v2__:hLXQm+rLMWF1bxHIQTaMZCQBPAMFTEN8Hi0zVQIAIkIeBhATND8zOxBIPA0VfRMtFwkBfFRVAEwaHykgDCZcAlgWCz1MATYeDUgSDBEvQVwBB0AjNH0fRj5BCxokNjtUaQY2PAEcARo2MEYpOj0tDg8zLBBeECk0fDZZNBMALGgHNxkfMXwLOlwYfSg6EDhD",
+                "url": "__enc_v2__:eH5yfg5N7KYx7FuYrPJcXyAHAC8aZVp8PAg8cTcZHQgHMjVCJBwEcDsMKFwFXxMXXTRHKAoDQ0Z4QWVKQ1pJY1BbEQMXOwwTUAV4QgdVBzFSbVsdEUVMVBs+Bgg0DjpJKlwARjAhEhYPOitQcgE2MTgRAwc6HWJNDH5dZmlVXQZCGBN0"
+            },
+            {
+                "id": "gong",
+                "names": {
+                    "hi": "घंटा",
+                    "tr": "Çan",
+                    "nl": "Klok",
+                    "pl": "Dzwon",
+                    "sv": "Klockringning",
+                    "fil": "Kampanada",
+                    "zh": "钟声",
+                    "en": "Chime",
+                    "zh_TW": "鐘聲",
+                    "ko": "종소리",
+                    "ja": "鐘の音",
+                    "es": "Campanada",
+                    "fr": "Carillon",
+                    "de": "Glockenschlag",
+                    "th": "เสียงระฆัง",
+                    "pt_BR": "Badalo",
+                    "id": "Bunyi Lonceng",
+                    "ru": "Звон колокола",
+                    "it": "Rintocco",
+                    "vi": "Tiếng chuông",
+                    "ar": "رنين الجرس",
+                    "cs": "Gong",
+                    "da": "Gongong",
+                    "fi": "Gongi",
+                    "hu": "Gong",
+                    "no": "Gongong",
+                    "ro": "Gong",
+                    "sk": "Gong",
+                    "he": "גונג"
+                },
+                "cover": "__enc_v2__:U5YVKSEvLpgfaoCrRmipTDtEJyMAZXBwLQkFED4sFx43DCo6NB8SHx9/JAcUcRkIEyIHTTEJGmMlGwILCTsbMyQcIRBbNT0YEX0EBi4Tc09aB0YZLExZXxxFGBoBGzEXXjQZQFomMR5ZDH0kHxwGBhk0BiBIU14ORi4yM1dRP3odHBwyF0wEKAIEfQEMMUJ/",
+                "url": "__enc_v2__:oWJZV1WPRj45UzGh7g0uejorRDhBTEpwDxFccSUdMAI9DRpLEzwYQwcGBx0YIwIjfC0yFhxfSX5DXkBDbwRdWnhZCBMNCgMpWFddZylcWBcHQV1ZHHQ="
+            },
+            {
+                "id": "nature",
+                "names": {
+                    "zh": "自然",
+                    "zh_TW": "自然",
+                    "hi": "प्रकृति",
+                    "tr": "Doğa",
+                    "nl": "Natuur",
+                    "pl": "Natura",
+                    "sv": "Natur",
+                    "fil": "Kalikasan",
+                    "cs": "Příroda",
+                    "da": "Natur",
+                    "fi": "Luonto",
+                    "hu": "Természet",
+                    "no": "Natur",
+                    "ro": "Natură",
+                    "sk": "Príroda",
+                    "he": "טבע"
+                },
+                "cover": "__enc_v2__:aE282tsUPlQUp4rYN1gytDsdISIsVlwfBBEaBhIhIl4gKAEtVT4AECBhMBw0cRMUBAYsfQETJGhZX1EOMCBcHRoGXypaPT4dFgIGGihVAxxJTQ0XEkAgSWhaKyYmCiIKWjFbFQUXICYLRwo6Zw8wBiE4CggsNE42HQtcHQgIOAQscBhcBgQQWw8+FSoAFmYlESovcw==",
+                "url": "__enc_v2__:a3i5sf+0SeqSXlJXqiZJ6AtEBzgVVkkfJDsbXQUKJxIQAipLDwwBTAhHDQgGXGFRW3N6Qmpcb3ZcBBk2BQ4XZgMKEFcRB0cPNVsOL2w=",
+                "isPro": true,
+                "vol": 1
+            },
+            {
+                "id": "upbeat",
+                "names": {
+                    "zh": "轻快",
+                    "en": "Upbeat",
+                    "zh_TW": "輕快",
+                    "ko": "경쾌한",
+                    "ja": "明るい",
+                    "es": "Alegre",
+                    "fr": "Enjoué",
+                    "de": "Heiter",
+                    "th": "สดใส",
+                    "pt_BR": "Animado",
+                    "id": "Ceria",
+                    "ru": "Бодрый",
+                    "it": "Allegra",
+                    "vi": "Vui Tươi",
+                    "ar": "مبهج",
+                    "hi": "उत्साहित",
+                    "tr": "Neşeli",
+                    "nl": "Opgewekt",
+                    "pl": "Radosny",
+                    "sv": "Munter",
+                    "fil": "Masaya",
+                    "cs": "Veselý",
+                    "da": "Munter",
+                    "fi": "Iloinen",
+                    "hu": "Vidám",
+                    "no": "Lystig",
+                    "ro": "Voios",
+                    "sk": "Veselý",
+                    "he": "קצבי"
+                },
+                "cover": "__enc_v2__:R1Aje3HCWVL7yrJ14qAc9DoXB0QsXEMdFFUfFhcgKUg3HCYtOAACAx9OAg80cUJVNAQmcSw6BVo2KjM1VQdfKyAgGQ5KBhELFggrcR46Fy9PNys4Ah9oQ0MfJiouRQACFnFVHxI6KgF8Ol8fKwoZPg4kBANHWzAdEXoKDhISBgUbER1FMjFnFAA9IiYVSAQVMQI=",
+                "icon": "zap",
+                "url": "__enc_v2__:gBwWLpWDyJo5m4MDcfdjfRtGFRYBX1t9DzcNfRwAKwgDESxCBRohcAcnBCYPWzQXfRQqO10JHWFDUVdMQ2BbY2lGPgY7BR8XVUFiEV83bWMxWmYBL2xKBTsFOgczGVdJIgwcOwIABgcxUH4QGS0VMBESBhNhGRwLNjI8fj5dAVsEABI6GTwCWB04FiZZBksXBitVXAQPXjURERdZV0xaQQNrcQ5AYA=="
+            },
+            {
+                "id": "calm",
+                "names": {
+                    "zh": "宁静",
+                    "en": "Calm",
+                    "zh_TW": "寧靜",
+                    "ko": "평온한",
+                    "ja": "穏やか",
+                    "es": "Tranquilo",
+                    "fr": "Calme",
+                    "de": "Ruhig",
+                    "th": "สงบ",
+                    "pt_BR": "Calmo",
+                    "id": "Tenang",
+                    "ru": "Спокойный",
+                    "it": "Calmo",
+                    "vi": "Bình Yên",
+                    "ar": "هادئ",
+                    "hi": "शांत",
+                    "tr": "Sakin",
+                    "nl": "Kalm",
+                    "pl": "Spokojny",
+                    "sv": "Lugn",
+                    "fil": "Mahinahon",
+                    "cs": "Klidný",
+                    "da": "Rolig",
+                    "fi": "Rauhallinen",
+                    "hu": "Nyugodt",
+                    "no": "Rolig",
+                    "ro": "Calm",
+                    "sk": "Pokojný",
+                    "he": "רגוע"
+                },
+                "cover": "__enc_v2__:8NovIpdOfHiR/RJg03AxSSArEgMfaXpcADoaBj4fF1gNAxkhBDMVIBVeMBxVTRkRFSksexcRKXpdAVEOAAAbRA4DHhZOL1MYMnwUURAcc0VcBBgvIQhKcDMDPjoROzEjcVc7RjcFFxwFPEwdWwMGBDMIBRZ+FggCY1keFTg2P1wYLyYYKkYPFF4ETyg6UkI=",
+                "icon": "cloud",
+                "url": "__enc_v2__:glmW2BIoTks+v6rOlzYI9T08AS8sSk5wNg0mXS8aJwgWBBBCEF84XBVBATpdfG1DbUZDfFVGblhwMgcxDDozMAQCWxdhfjtiBXELBEE="
+            }
+        ]
+    },
+    "themes": [
+        {
+            "id": "zen",
+            "names": {
+                "zh_TW": "禪意",
+                "hi": "ध्यान",
+                "tr": "Zen",
+                "nl": "Zen",
+                "pl": "Zen",
+                "sv": "Zen",
+                "fil": "Zen",
+                "cs": "Zen",
+                "da": "Zen",
+                "fi": "Zen",
+                "hu": "Zen",
+                "no": "Zen",
+                "ro": "Zen",
+                "sk": "Zen",
+                "he": "זן"
+            },
+            "geometry": {
+                "neckY": 200,
+                "baseY": 392,
+                "neckWidth": 9,
+                "strokeWidth": 2,
+                "topSandPoints": [
+                    35,
+                    75,
+                    130,
+                    200
+                ],
+                "moundStartX": 0,
+                "moundEndX": 200
+            },
+            "paths": {
+                "glass": "M25,20 C25,100 95.5,185 95.5,200 C95.5,215 25,300 25,380 C25,395 175,395 175,380 C175,300 104.5,215 104.5,200 C104.5,185 175,100 175,20 Z",
+                "topClip": "M27.5,22.5 C27.5,100 98,185 98,197.5 L102,197.5 C102,185 172.5,100 172.5,22.5 Z",
+                "bottomClip": "M98,202.5 C98,215 27.5,300 27.5,377.5 C27.5,392.5 172.5,392.5 172.5,377.5 C172.5,300 102,215 102,202.5 Z"
+            },
+            "statsBlur": true
+        },
+        {
+            "id": "cartoon",
+            "names": {
+                "zh_TW": "卡通",
+                "hi": "कार्टून",
+                "tr": "Çizgi Film",
+                "nl": "Tekenfilm",
+                "pl": "Kreskówka",
+                "sv": "Tecknad",
+                "fil": "Cartoon",
+                "cs": "Kreslený",
+                "da": "Tegnefilm",
+                "fi": "Piirretty",
+                "hu": "Rajzfilm",
+                "no": "Tegnefilm",
+                "ro": "Desen animat",
+                "sk": "Kreslený",
+                "he": "מצויר"
+            },
+            "paths": {
+                "glass": "M25,60 C25,140 94,225 94,240 C94,255 25,340 25,420 C25,435 175,435 175,420 C175,340 106,255 106,240 C106,225 175,140 175,60 Z",
+                "topClip": "M27.5,62.5 C27.5,140 96.5,225 96.5,237.5 L103.5,237.5 C103.5,225 172.5,140 172.5,62.5 Z",
+                "bottomClip": "M96.5,242.5 C96.5,255 27.5,340 27.5,417.5 C27.5,432.5 172.5,432.5 172.5,417.5 C172.5,340 103.5,255 103.5,242.5 Z"
+            },
+            "statsBlur": true
+        },
+        {
+            "id": "blackGold",
+            "names": {
+                "zh_TW": "黑金",
+                "hi": "काला सोना",
+                "tr": "Siyah Altın",
+                "nl": "Zwart Goud",
+                "pl": "Czarne Złoto",
+                "sv": "Svart Guld",
+                "fil": "Itim na Ginto",
+                "cs": "Černé zlato",
+                "da": "Sort Guld",
+                "fi": "Musta Kulta",
+                "hu": "Fekete Arany",
+                "no": "Svart Gull",
+                "ro": "Aur Negru",
+                "sk": "Čierne zlato",
+                "he": "זהב שחור"
+            },
+            "geometry": {
+                "neckY": 200,
+                "baseY": 391,
+                "neckWidth": 10,
+                "strokeWidth": 3,
+                "topSandPoints": [
+                    35,
+                    75,
+                    125,
+                    200
+                ],
+                "moundStartX": 0,
+                "moundEndX": 200
+            },
+            "paths": {
+                "glass": "M25,20 C25,100 95,185 95,200 C95,215 25,300 25,380 C25,395 175,395 175,380 C175,300 105,215 105,200 C105,185 175,100 175,20 Z",
+                "topClip": "M28,23 C28,100 98,185 98,197 L102,197 C102,185 172,100 172,23 Z",
+                "bottomClip": "M98,203 C98,215 28,300 28,377 C28,392 172,392 172,377 C172,300 102,215 102,203 Z"
+            }
+        },
+        {
+            "id": "xmas",
+            "names": {
+                "zh": "圣诞节",
+                "zh_TW": "聖誕節",
+                "en": "Christmas",
+                "ja": "クリスマス",
+                "ko": "크리스마스",
+                "de": "Weihnachten",
+                "fr": "Noël",
+                "es": "Navidad",
+                "it": "Natale",
+                "pt_BR": "Natal",
+                "ru": "Рождество",
+                "ar": "عيد الميلاد",
+                "hi": "क्रिसमस",
+                "th": "คริสต์มาส",
+                "vi": "Giáng Sinh",
+                "id": "Natal",
+                "tr": "Noel",
+                "nl": "Kerstmis",
+                "pl": "Boże Narodzenie",
+                "sv": "Jul",
+                "fil": "Pasko",
+                "cs": "Vánoce",
+                "da": "Jul",
+                "fi": "Joulu",
+                "hu": "Karácsony",
+                "no": "Jul",
+                "ro": "Crăciun",
+                "sk": "Vianoce",
+                "he": "חג המולד"
+            },
+            "timerFontFamily": "Cinzel Decorative",
+            "icon": "snowflake",
+            "pro": true,
+            "dark": true,
+            "minVersion": 180,
+            "colors": {
+                "sand": "#D9A441",
+                "light": "#F5DA9B",
+                "dark": "#9A6A16",
+                "highlight": "#FFF4D6",
+                "glassLine": "rgba(0, 0, 0, 0)",
+                "glassFill": "rgba(0, 0, 0, 0)"
+            },
+            "uiColors": {
+                "text": "#E6F4E9",
+                "timerText": "#FFFFFF",
+                "timerStrokeWidth": 3,
+                "highlightText": "#F4C879",
+                "timerCircle": "#3FA46A",
+                "buttonBg": "rgba(20, 38, 28, 0.55)",
+                "presetBg": "rgba(20, 38, 28, 0.45)",
+                "presetActive": "#4CAF7D",
+                "sliderAccent": "#4CAF7D",
+                "settingsBg": "rgba(14, 28, 20, 0.88)",
+                "primaryButton": "#2E8B57",
+                "themeStoreButton": "#4CAF7D",
+                "buttonIcon": "#FFF7E8",
+                "sliderThumb": "#DFF5E6"
+            },
+            "geometry": {
+                "neckY": 232,
+                "baseY": 406,
+                "neckWidth": 7,
+                "strokeWidth": 2,
+                "topSandPoints": [
+                    100,
+                    140,
+                    200,
+                    232
+                ],
+                "moundStartX": -16,
+                "moundEndX": 224
+            },
+            "paths": {
+                "glass": "M40,70 C19.5,99 -5.9,154.5 101,231 L107,231 C213.9,154.5 187,97.5 168,70 ZM101,231 C58,273.5 -14.5,301 48.5,409.5 L157,410.5 C228.5,301.5 141.5,268.5 107,231 Z",
+                "topClip": "M40,70 C19.5,99 -5.9,154.5 101,231 L107,231 C213.9,154.5 187,97.5 168,70 Z",
+                "bottomClip": "M101,231 C58,273.5 -14.5,301 48.5,409.5 L157,410.5 C228.5,301.5 141.5,268.5 107,231 Z"
+            },
+            "visuals": {
+                "grainDensity": {
+                    "staticTop": 50,
+                    "staticBottom": 60,
+                    "falling": 100,
+                    "sliding": 120,
+                    "topSliding": 100
+                },
+                "useGrainyFilter": true,
+                "useGrainBlur": true,
+                "grainyFilterSettings": {
+                    "slope": 3.5,
+                    "intercept": -0.8,
+                    "opacity": 0.6,
+                    "grainColor": "#6B4A0F"
+                },
+                "glassReflectionOpacities": [
+                    0,
+                    0
+                ],
+                "sandCapStroke": "#F5DA9B",
+                "sandCapStrokeWidth": 0.6,
+                "topSandRyFactor": 0.12
+            },
+            "relativeToBackground": true,
+            "waterMode": {
+                "ink": "#5A3317",
+                "condensation": false
+            },
+            "snowEffect": {
+                "enabled": true,
+                "color": "#F2FAFF",
+                "motion": "drift",
+                "count": 48,
+                "sizeMin": 0.75,
+                "sizeMax": 2.2,
+                "opacity": 0.95,
+                "flakeRatio": 0.32
+            },
+            "frameImage": "__enc_v2__:mWovMlEvyiEtbaNeOIOm8BoXEiMfZVl6IRM/FRISLV4OHRktNR8yByx+PF4GexMUUwwsWhIJRnAdXRUONyxdHTdRHil8Kg5TPzwqNRc+DEIoNg5CHB4zEUI0CEx8JEEaBSg7Hgd9DhwEARARHgo8XAQbAwcgXBIVBl4WDwRdNgwXKzYaRhc7CQsESSoqCAcNFkBRARZpIjoOJQ==",
+            "frameTransform": {
+                "x": 66,
+                "y": 100,
+                "scale": 0.33
+            },
+            "autoBottomImage": true,
+            "frameBase": "__enc_v2__:An9XOLmGxdS89U7UAubO1x0HRkIsXHxwFzYaOjIBMEcBDgUCCwA+HwZlMFwvSC8SCzcGWyg6AmMPDlECBkdwJws6BAxZCyEXHy0BFDQ2ZiIWMRxAGBhGACxTaEkFKhwdFiENBx41GUQbQQEaGhtdFz0WARQFFwYaQTAdOHwlC1M4FxJOMzsMKil6GTI0QWsHMho3fBRVDhM=",
+            "frameBaseTransform": {
+                "x": -67,
+                "y": 55,
+                "scale": 0.767
+            },
+            "click": {
+                "url": "__enc_v2__:ZiucC0sCGCPRfXBOP76siiQnByMVSWdjATYZVxEgUVweJxQ6Cz8EBSBlCh5XcSMIFwYhTTswBF88Dg0SDAdwU1EeMxcBDUlIGRMQNg8zHTACRyQIGg==",
+                "vol": 0.4
+            },
+            "notification": {
+                "url": "__enc_v2__:OK+9a1NoTQjaxB6aAv8Z7xwAJhksXHxfBgg7XiMfJzIuLSYaPAMyHxQnEFknfEYAAAZ8YnhwRVhJFyoNCl8TWkBFcD5VEXQmDX1fN3Q=",
+                "vol": 0.8
+            },
+            "music": {
+                "url": "__enc_v2__:u3p44vYpTw1j3brv7aT1yhsGARYmX0NGAA0Ley82HhIxBxBCFxo/GxNBER0DcAZRZwFDbm5JRGJGMhM7JScAbU1nU0IHVDY8AHEBQgE=",
+                "vol": 0.8
+            },
+            "portraitBackground": "__enc_v2__:Aywqafjq+1PH0EkWJOZmxxoEJxk/CExnLRY/FwgBEWkOXz01ERwTFix+PAggSC8CUwwQTRQQH10hOBVTBkcdBzciHxYfEVkHFisuOF0kAAMvTwEVHRwgDl1wXioYNgI8AhcaMi4XNyoEHAwbfTwJKj4GPz4QAFk8WgJaJTItCzoFeis3FgwpQysfB0EMUDhmBzoWOA==",
+            "video": "__enc_v2__:DCp7haZJbp684RNMcw3UoCQrGBUaU1tfFwReOhIHAEIeXRYHUystQwZ4EzE0YgItFwAASDcGREYPMhQvMEFJEVEZDQktCl8/AT4aSzIVAFwBEiYvB1taTDM9FRsoHDFUaQs2ByQgC10aCnAhJxMtDg8+IB8fPAIGQxseVQIJH2gUEiQ+FS0aejQEDSBcMjxX",
+            "cover": "__enc_v2__:t+Fbyd6LHPxUnTD64dA3cRoRBhEWW2hJBwAaBj4hOl0OGhMnEjkIHxpYMB04cQQNUwNHcQI6BXAFC1EGLSBjJjcJMjpDJz4SEDMBMk1HVxQvczc8KzgmVlxwKyoLCgc6AhdCAhoRHCcDXQo8Rg8aRT4LIBMfAXIVPAtcIVkIDgYFfQIONwtXfA4hABAMEQtpBxMSRA==",
+            "screenshots": [
+                "__enc_v2__:6EICW6kcepD4Wopsn+nEIDcHMzcgSFwfFzoaVwJHLU0bPBwbOAoAEAZBMB4UcRMmCzAAXRBRJGgPIVESBCxdGjwVIyAkMCtGFBsCGmNaHhYUL3k9RisjAGVfaAAqNV0kOlwQWhcFPDsGUk02PB0bOkUXODMUPxB4DwcUXCEdPhMGBh1BBxcCByQDFUMbGBUsdkgSAA4A",
+                "__enc_v2__:Y5mhY+S+zUhzFZsfv0MrpjczKzwsSh9JAC0cKTIaOh4EBkcEFFwCHxVIUxg4GiMIKxYWXggMMXBdHwgXESBnNBgyBUM6KB1cJwsmQ217FAYSJUoBAhcDH2UbTAVHDRsEWRoIaTQaJzoZPV0FCnAhDhwtOA9REiZbLzEGTBxfVTIiQVwADTQEIFobJlweCDIsUUsbBCUv",
+                "__enc_v2__:F2pst/nqivkvEc1OXRWXqjsXHUQsCE5KHhEAVxE0FUI3HUEtVRw0BiFhAB5XRwU+EwwgcQEQKUkfXxISDABGACJVLx8dBitDKx0AGl9PGwlQI1gkEhg4LApafQAWLAolGTEoWAsKERsWC1g2HHA7GQAGVRw+AAFBJAI0XAgyADQMP19DHQAWIQswREMqJTNDXxwCDA4i",
+                "__enc_v2__:vwBCbrQfRI5pTVwoSK+lMjpEByM0DnwdIREgBgAAV0I3DBQtDjMpAyxhFR0yTxU+NCIhWhc6FVodXxEGOiFaACYILz87AwZGNB1RJmdYEQkBA39aITgZHwhaRjM9KgUlGz0sXhMfQAsFC0I6DB8XGRwnBBk+AyBeFgIEZxsOEjRRB10aXFEvEg4wB0wRKg1DZ3EeCQcZ"
+            ]
+        },
+        {
+            "id": "growth",
+            "names": {
+                "zh": "万圣节",
+                "zh_TW": "萬聖節",
+                "en": "Halloween",
+                "ja": "ハロウィン",
+                "ko": "할로윈",
+                "de": "Halloweennacht",
+                "fr": "Nuit d'Halloween",
+                "es": "Noche de Brujas",
+                "it": "Notte delle Streghe",
+                "pt_BR": "Dia das Bruxas",
+                "ru": "Хэллоуин",
+                "ar": "هالووين",
+                "hi": "हैलोवीन",
+                "th": "ฮาโลวีน",
+                "vi": "Đêm Halloween",
+                "id": "Malam Halloween",
+                "tr": "Cadılar Bayramı",
+                "nl": "Halloweenavond",
+                "pl": "Noc Halloween",
+                "sv": "Halloweenkväll",
+                "fil": "Gabi ng Halloween",
+                "cs": "Halloweenská noc",
+                "da": "Allehelgensaften",
+                "fi": "Halloweenyö",
+                "hu": "Halloween éjszakája",
+                "no": "Allehelgensaften",
+                "ro": "Noaptea de Halloween",
+                "sk": "Halloweenska noc",
+                "he": "ליל כל הקדושים"
+            },
+            "purchaseDesc": {
+                "zh": "完成沙漏来让房间被点得更亮吧",
+                "zh_TW": "完成沙漏來讓房間被點得更亮吧",
+                "en": "Finish the hourglass to light up the room",
+                "ja": "砂時計を完成させて、部屋をもっと明るく灯そう",
+                "ko": "모래시계를 완성해서 방을 더 밝게 밝혀 보세요",
+                "de": "Vervollständige die Sanduhr und lass den Raum heller erstrahlen",
+                "fr": "Terminez le sablier pour illuminer la pièce",
+                "es": "Completa el reloj de arena para iluminar más la habitación",
+                "it": "Completa la clessidra per illuminare la stanza",
+                "pt_BR": "Complete a ampulheta para iluminar mais o ambiente",
+                "ru": "Завершите песочные часы — и комната засияет ярче",
+                "ar": "أكمل الساعة الرملية لتضيء الغرفة أكثر",
+                "hi": "रेतघड़ी पूरी करें और कमरे को और रोशन करें",
+                "th": "ทำนาฬิกาทรายให้สำเร็จ เพื่อให้ห้องสว่างขึ้น",
+                "vi": "Hoàn thành đồng hồ cát để căn phòng sáng hơn",
+                "id": "Selesaikan jam pasir agar ruangan makin terang",
+                "tr": "Kum saatini tamamla, oda daha da aydınlansın",
+                "nl": "Voltooi de zandloper en laat de kamer feller stralen",
+                "pl": "Ukończ klepsydrę, aby rozświetlić pokój",
+                "sv": "Slutför timglaset så lyser rummet starkare",
+                "fil": "Tapusin ang hourglass para lumiwanag ang silid",
+                "cs": "Dokončete přesýpací hodiny a rozsviťte místnost",
+                "da": "Færdiggør timeglasset, så lyser rummet stærkere",
+                "fi": "Viimeistele tiimalasi, niin huone kirkastuu",
+                "hu": "Fejezd be a homokórát, és ragyogjon fel a szoba",
+                "no": "Fullfør timeglasset, så lyser rommet sterkere",
+                "ro": "Finalizează clepsidra ca să luminezi camera",
+                "sk": "Dokončite presýpacie hodiny a rozsvieťte miestnosť",
+                "he": "השלימו את שעון החול והאירו את החדר"
+            },
+            "timerFontFamily": "Cabin Sketch",
+            "icon": "flame",
+            "pro": true,
+            "dark": true,
+            "minVersion": 170,
+            "colors": {
+                "sand": "#F97316",
+                "light": "#FDBA74",
+                "dark": "#C2410C",
+                "highlight": "#FFFFFF",
+                "glassLine": "rgba(0, 0, 0, 0)",
+                "glassFill": "rgba(0, 0, 0, 0)"
+            },
+            "uiColors": {
+                "text": "#F2E3CB",
+                "timerText": "#FFFFFF",
+                "timerStrokeWidth": 3,
+                "highlightText": "#F0B96A",
+                "timerCircle": "#7A4BA8",
+                "buttonBg": "rgba(40, 24, 60, 0.55)",
+                "presetBg": "rgba(40, 24, 60, 0.45)",
+                "presetActive": "#C77A2E",
+                "sliderAccent": "#C77A2E",
+                "settingsBg": "rgba(30, 18, 44, 0.85)",
+                "primaryButton": "#A8571E",
+                "themeStoreButton": "#C77A2E",
+                "sliderThumb": "#E39A45"
+            },
+            "geometry": {
+                "neckY": 254,
+                "baseY": 402,
+                "neckWidth": 4,
+                "strokeWidth": 2,
+                "topSandPoints": [
+                    160,
+                    180,
+                    210,
+                    254
+                ],
+                "moundStartX": 4,
+                "moundEndX": 204
+            },
+            "paths": {
+                "glass": "M45,127.5 C14,176.5 70,219 97,253.5 L109.5,253 C133.5,211 195,189 161,127.5 ZM80,403.5 C-8,359 50.5,287.5 98,254.5 L108.5,254 C166.5,288.5 200.5,357 132,402 Z",
+                "topClip": "M45,127.5 C14,176.5 70,219 97,253.5 L109.5,253 C133.5,211 195,189 161,127.5 Z",
+                "bottomClip": "M80,403.5 C-8,359 50.5,287.5 98,254.5 L108.5,254 C166.5,288.5 200.5,357 132,402 Z"
+            },
+            "visuals": {
+                "grainDensity": {
+                    "staticTop": 50,
+                    "staticBottom": 60,
+                    "falling": 100,
+                    "sliding": 120,
+                    "topSliding": 100
+                },
+                "useGrainyFilter": true,
+                "useGrainBlur": true,
+                "grainyFilterSettings": {
+                    "slope": 3.5,
+                    "intercept": -0.8,
+                    "opacity": 0.6,
+                    "grainColor": "#7C2D12"
+                },
+                "glassReflectionOpacities": [
+                    0,
+                    0
+                ],
+                "sandCapStroke": "#FDBA74",
+                "sandCapStrokeWidth": 0.6,
+                "topSandRyFactor": 0.12
+            },
+            "relativeToBackground": true,
+            "frameImage": "__enc_v2__:pq3YEmJLJnpEfYIa2h3JRA0VBxM/U3xwFzYFFgg/CX0dOhQBEVgpHwZlVz1TWC80ATohTxQ2FWMPDjIyNgNcAAQ6MjAfOAAZGwY3KzMHDTI6ZiQ6CwRFGCsdBCxORn1eBhwhKC4iUB4UXSsgKg5YDANdKycWQDQFDSBBSFENNFo7CxMCFgNwMyQwCBdKFEIJAUABLQcHFQ4TWgIDFxE=",
+            "frameTransform": {
+                "x": 68,
+                "y": 93,
+                "scale": 0.304
+            },
+            "autoBottomImage": false,
+            "frameBase": "__enc_v2__:J1I5SN85XH5coLDvMy/cEDcnRgAQT1xwJwNYMBM7BB4EMAVCFQUAQQdBPBoBSyIIKxEGRw0JJEo2Mj44UQFwMx4pBCIbBC0aRQcEbTEIIAZeRQkBI187EhEcP19wGyQGSRkUGjEFZgscJloHFn0KDkY9HBQGNQ8+FQVdBSI4XTwqCAYwP3AGG1EdEBtVBgYoFwQNPVMgDEIoVQsv",
+            "frameBaseTransform": {
+                "x": -39,
+                "y": 160,
+                "scale": 0.631
+            },
+            "click": {
+                "url": "assets/audio/halloween_click.wav",
+                "vol": 0.7
+            },
+            "notification": {
+                "url": "__enc_v2__:sEppPOs6vFNqohUbvyxGRBwEFwJBSHxnAgdeXSM2GTIuUQtIEwklSjEcFA8zMDMxHQgcUBxbTEBvU3F9RXhwRUJoVSoNNh05Z2QMbWwFamtBUn0yHGxWUiEzFj1THy0PCxwyDgoCRzAQMQUdDQgPCQMWESkdYSAqATgwDQZRXx0MJz4ZE1spCRsQNigIflxLGz5eHD0HESlaXygIACtOQVduSQNrAnFfI1o=",
+                "vol": 0.8
+            },
+            "music": {
+                "url": "__enc_v2__:wSNCtkiA4oizwAKFDn9SMjdABxwWZXB8EAciTwQATA1QPhhNFl0ecDccATsgWzI7Sj4nFw8KQ0ZlU0VwAmpwQUdDPhQIHD0TEGRWZlJnRFpUeX0/L1VJVDYzDCYUGSlvBRInPRYeNF1RLQkGFiYfHj4cDzwbOlUbSCoGHgBBXT8cXwJlZkNbXkZbXQQvVg==",
+                "vol": 1
+            },
+            "cover": "__enc_v2__:x+iHS2l3Su0tgLP3C81/qw4nFxkVfUZoIQYzDDIABhoEMAc1CwVVGixfDyk4TwMyOBEaTTsWJVwdBC0EESFOKxs5WRFcJzcmIVYpFC0ZJQAEHCQEDiVYPUYnABIIfHAgJwk2IjsaKFoXNgE6EFJ9WxlaPDADLVUzFAcachYNL186BC04NkFfRg4qATFJMwsAXQ5tL0IKAhEEHBQtDhk=",
+            "frameCompanion": {
+                "frames": [
+                    "__enc_v2__:wl+ZSiUw19j3GUcCcSrwiDtAGBMhaX1wAiIPOg0fNh4gMBYAODM+QUNEEFwEfEAIBDoARzcRJUoAHgACFgVMMxoJDFFnPzgcIzYnREIHIgEZYDonF0IQXEx6MxMrWR4aWhJxOBsEGhkRWjpbWSEcFCEXPxUaBkQ8DzhnNj4mNDAsHzwkUQRRXCE4CjtVEWRxAwwBQg==",
+                    "__enc_v2__:Fb2uGJA57+Jnm48jP2C4MAshAC8FT0N8ETYeABEVDFwbGzktNAUCLABlBRtXQhwIBjpBZlQJBVsIDlUBDCxMQD1XHQBMEBElMRctXkIoFjEvSR0GMwMhCHBGMyoaBRY2MRFHAQAVNwU9Gh0wXAQ9AToBAFUAIX4WJjRjBQwXOCkWQxc3NjItRhAlWyg3AmEcBToRLw=="
+                ],
+                "thread": "__enc_v2__:UrKPZKJ/ZS9Ka9ggRp6xIjdGGC8WdkxOLREJOj4QN0gbHydAEhoTJgBhFlwUXQZVCxAFSwIVH3AFXwcCCRJ8KzoMPhBDXF0xN14bEC4iHDcCGEAVZUZ8JAMMNhEfMQdCNAoXBAYlcQw8RhdbBSEgIFEANHIPDRNdWQENOFU7RgILBAQWfR8lCAxxOzoLEw==",
+                "refWidth": 889,
+                "refHeight": 1899,
+                "threadX": 834,
+                "threadY": 578,
+                "spiderW": 200,
+                "restGap": 80,
+                "travel": 330,
+                "threadW": 10,
+                "spiderY": -0.314,
+                "sway": 4,
+                "sound": "__enc_v2__:6A7l1BBfSm/kALVbKKhi+DcEFxwab0ZZBjo+KT5DOn0bXwYRUxhVID9BPBgUTS80CwwSXTc6JR9bITIXCTRDEzMrOQQtS3ALERokXzsGKTEpEC4nEQQfaQIRFUUeBwJCIElwcCAANQAeWSkIXgYZEVgUKn1bCR07AxwbBFw0QwZONgsvXwsRPzMJAQpGKwEDKjpdCxQzGToEBjYPGCw2GQw+DVweEhA=",
+                "soundVol": 0.5
+            },
+            "background": {
+                "type": "solid",
+                "color": "#1A1024",
+                "elements": [
+                    {
+                        "type": "image",
+                        "stages": [
+                            "__enc_v2__:I4c/LCz/BvnUMv0WlKhB2gQRGBMaU2NKJ1c/FzRDA30LGhYAIFgXBgddPAgTTUQ0FAMARwc2Bkk2GBVTOjRwAAkJDFFcOEIDRR0kbmYUOj0iczonFQQaZUpDXiocGhtbMRdxODw4LwYXTQwbXSkjECELPxUsQU4PCBRaJQs0ERA7fTwkOh0WfVMeCUVAN0FIFBMBQg==",
+                            "__enc_v2__:DLl2DS5LNMbTWa+bALKlxCRAPBUaU1lDLRYAAC0hVx4eMBAHU1gyIR9MABsRcRUIFzoBSDc2RlklPxIBFSBaM1gJCwlwOBE8ASsJXltHAwEZYFwrAAQ0Cl98PioQChsaKRJxFCU4ARZSZh8wQw8wFBEXMw1BQV4kBwR8BQ4IFDAAHxg6FR02Rgs1XzsHG15xFgwuBg==",
+                            "__enc_v2__:ZyMyByHOalPZXlhTyfmEEDdAKyUACnBnAjofIhMsER5aMAYGNA8SFkMfAgcBXS8IAjofcTEiGl0ACDMUUR8dMx0JP1dbDiAJMAE3YH07AAEWYB4RKwMFDkxJPyAmHwIaAhJ9ElsnOyoRQlkwWzgJFC0XXAcWJh08DzhMNiFRCzAAHxcEEBkGQzUtKD9GAWxxGwwlLw==",
+                            "__enc_v2__:fP4rkqPD4BXdtx2/sO69oS8EBEIQU0ZZFCkzOhIhNloBX0UCFVhVIB9bDx0GcSU+FAwaWw02JR82HS0LNyBbRjsiKgwbOC0MBEQeZlhHOgclTwsYJwQHfUNGHAMqCkUcGhddBDY4JBwwaRwfHw8KEy0GDRIHQR8QGARGWQ4IEglBeiEJKR0VfBcBAx4zG1JxEjo9Ig==",
+                            "__enc_v2__:qPmqIMcyQMR+ktJW4A8ZHwEhKxwgVnp8IQk5FhUFOksvGwYROD4VLDtOFz0rfQQTBDofXRATKVsKHj4yV0NjEhtXPwRjNEAjBRVaQUseV1YRSR4mRkAWCEZ9CSoMLgc2OxF9OBkXHQVWcRsnSSsaKi0BXDIGNEsWPTRJDAESDgksQxcgDAQJRjJCWwUrCVliPzolEw==",
+                            "__enc_v2__:YI52xkbxqg75zCPJUnA4x1wnPBMgDltMERccECYfMGk3MBABLzMtAAFLUwcOTS8COBEBTwc6RE4AWQgLFgBwBwQpCzBdCwI6QysvVU8bLQM8HlwrHTwGZXxwDwYsOxI8GBRxOF0CASo9QhoDcD4dKgISMykgA0ErGitOOzIyATpDRhgNOl0GSjhAPQE8WAJmHgkuAg==",
+                            "__enc_v2__:P/9Gp2dt6b89oX75w+v9kBoROBkQWx1GLQwJDD4AOnEOGgNGFTkRNB8ZFlo4TyMVUwMDfQ06A0wlPgc0LSFnODcJXTobOBscASsEaE0BBlAvcwEAJzgfW19bMwELOgUZAhdpKzYRCyBSYjYwRngGAD4LD1MHAV48B1VDW1kCUwwFfQcYKQsEcAsXIxInL2RCBxMDBQ==",
+                            "__enc_v2__:9mA8EST0X/Lzn5/b7jWU8lwHARkmZX1wIAwKDDRHKU03PBxGEwA+HyxqD1oTcUImODAffTspJWM6Dj40OixfHQQRDjodEToZPwcbZ2YDEBE8cxsAEQAQSkxOAAEcJR46GFZPKxxEGkUQeyUwXXoDIAICPlMVGkQKBzhZWwsRBBFDWisYCSpRaBQhHxJAHUtxHgMxBQ=="
+                        ],
+                        "x": 0,
+                        "y": 0,
+                        "width": "100%",
+                        "height": "100%",
+                        "fit": "cover"
+                    }
+                ]
+            },
+            "screenshots": [
+                "__enc_v2__:pWLs/7bzOFu2D8HxRevBDhgrAhlHSVpcJwQ/KQIAOhxYAyY1OA0IEgd4PBgUTyMEDilDTTs3Gn02MhUXBCFnBikXEwAEMBdwVS0jRyYePFVNByIDPH8bJxE4QVNwfB4ZClkePBgsTy8cEQ0ZMR4AME4hHCoCBD4CFQFYACYEGxo4JjQ6Q10sHFUZFRsMM3wLLQwiPAE2YEcoUQ4R",
+                "__enc_v2__:l6hexwC3ZbJKulF0z2wKmlgSQC80SUxDLRVcFj5DBEgLAyoBDg0TEAAdAD0LTSJVIDosQhc3H1wFBCYyKTRwLAcSHCE7MEBONTUGA0YLDG1dGykUJX87JgITAGVfXCQZKjsBOhoscTg6Bwk9F08KI3o+H0UtBBgyQxJ4BgcyXR8ZMlcGQV0/JggiLBoDK0YXLV8eMw02AE0wOj0W",
+                "__enc_v2__:fws25fog5kmetCOTWmfhDBs4AC8gSVtGFzocFi0HV3E7GTkBLz8tRwZBUw8RYhUyMhVBQgcwRHwPIQg1FUFaOxpRACEaGwRwCwQoKAENOVJxHhAUGXMdACsAEGlGWgAHSy4eOlpWRysaRBtFDkg2BkorA0UhAgBTHxpMAA0LXF0YEgQGLFoQHi0cIS8cK0M0FA4EMxw5QlsBBj0Z",
+                "__enc_v2__:W6oCmq6s+p8giQ1ZUuASnlgXMwMFZUpKJxE/MCYsEH0LHBwhNDMUBgdhPBoOcRY0IAQAe1QtEEk2XxU4FjtDBwc0IwcLChhDVQIjRRULAGtdKDA9N143KxEFQV96XR9HKjYDWwcCXRQcHQ0HPUcFCnoAMBABUwANFR9YBTFTfRwZBFUQIHAhPFUvFVwnJ1kBLR0SEj0AQlgoFg4v"
+            ]
+        },
+        {
+            "id": "unicorn",
+            "names": {
+                "zh": "独角兽",
+                "zh_TW": "獨角獸",
+                "hi": "यूनिकॉर्न",
+                "tr": "Tek Boynuzlu At",
+                "nl": "Eenhoorn",
+                "pl": "Jednorożec",
+                "sv": "Enhörning",
+                "fil": "Unicorn",
+                "cs": "Jednorožec",
+                "da": "Enhjørning",
+                "fi": "Yksisarvinen",
+                "hu": "Egyszarvú",
+                "no": "Enhjørning",
+                "ro": "Inorog",
+                "sk": "Jednorožec",
+                "he": "חד-קרן"
+            },
+            "paths": {
+                "glass": "M 31 163 C 24 226 64 236 98 268 H 105 C 153 233 184 227 180 166 Z M 76 376 C -31 370 82 278 98 267 H 105 C 119 278 229 368 127 376 Z",
+                "topClip": "M 31 163 C 16.964 228.638 99.979 248.312 98 268 H 105 C 103.098 247.832 186.592 243.993 180 166 Z",
+                "bottomClip": "M127.096 374.962C228.597 385.326 118.299 269.134 105 267H98C81.714 271.66-31.768 382.287 75.816 374.621Z"
+            },
+            "pro": true,
+            "show": true
+        },
+        {
+            "id": "bunny",
+            "names": {
+                "zh": "萌兔",
+                "zh_TW": "萌兔",
+                "hi": "बनी",
+                "tr": "Tavşan",
+                "nl": "Konijn",
+                "pl": "Króliczek",
+                "sv": "Kanin",
+                "fil": "Bunny",
+                "cs": "Králíček",
+                "da": "Kanin",
+                "fi": "Pupu",
+                "hu": "Nyuszi",
+                "no": "Kanin",
+                "ro": "Iepuraș",
+                "sk": "Zajačik",
+                "he": "שפנפן"
+            },
+            "paths": {
+                "glass": "M 26 129 C 27 196 71 210 94 237 H 105 C 125 212 176 198 174 129 Z M 25 358 C 20 277 82 260 94 237 H 105 C 112 258 176 276 175 358 Z",
+                "topClip": "M31 133C28 197 89 221 95 236H103C107 222 172 202 170 133Z",
+                "bottomClip": "M29 358C24 285 93 253 96 237H102C114 265 175 277 170 358Z"
+            },
+            "uiColors": {
+                "timerStrokeWidth": 3
+            },
+            "pro": true,
+            "show": true,
+            "statsBlur": true
+        },
+        {
+            "id": "zenpro",
+            "names": {
+                "zh": "禅境专业版",
+                "en": "Zen Pro",
+                "zh_TW": "禪境專業版",
+                "ko": "젠 프로",
+                "ja": "ゼンプロ",
+                "es": "Zen Pro",
+                "fr": "Zen Pro",
+                "de": "Zen Pro",
+                "th": "เซนโปร",
+                "pt_BR": "Zen Pro",
+                "id": "Zen Pro",
+                "ru": "Дзен Про",
+                "it": "Zen Pro",
+                "vi": "Zen Pro",
+                "ar": "زين برو",
+                "hi": "ज़ेन प्रो",
+                "tr": "Zen Pro",
+                "nl": "Zen Pro",
+                "pl": "Zen Pro",
+                "sv": "Zen Pro",
+                "fil": "Zen Pro",
+                "cs": "Zen Pro",
+                "da": "Zen Pro",
+                "fi": "Zen Pro",
+                "hu": "Zen Pro",
+                "no": "Zen Pro",
+                "ro": "Zen Pro",
+                "sk": "Zen Pro",
+                "he": "זן פרו"
+            },
+            "icon": "leaf",
+            "pro": true,
+            "colors": {
+                "sand": "#C5C8C3",
+                "light": "#EAECEA",
+                "dark": "#7B8079",
+                "highlight": "#FFFFFF",
+                "glassLine": "rgba(0, 0, 0, 0)",
+                "glassFill": "rgba(0, 0, 0, 0)"
+            },
+            "dark": false,
+            "liquid": false,
+            "uiColors": {
+                "text": "#0A1E0C",
+                "timerText": "#FFFFFF",
+                "timerStrokeWidth": 3,
+                "highlightText": "#4F7052",
+                "timerCircle": "#4F7052",
+                "buttonBg": "rgba(245, 247, 242, 0.45)",
+                "presetBg": "rgba(255, 255, 255, 0.6)",
+                "presetActive": "#4F7052",
+                "sliderAccent": "#4F7052",
+                "settingsBg": "rgba(236, 240, 235, 0.7)",
+                "primaryButton": "#4F7052",
+                "themeStoreButton": "#4F7052",
+                "sliderThumb": "#4F7052"
+            },
+            "geometry": {
+                "neckY": 269,
+                "baseY": 377,
+                "neckWidth": 9,
+                "strokeWidth": 2,
+                "topSandPoints": [
+                    200,
+                    223,
+                    246,
+                    269
+                ],
+                "moundStartX": 5,
+                "moundEndX": 205
+            },
+            "paths": {
+                "glass": "M76 173C41 221 89 244 103 269H107C123 246 169 217 135 173ZM92 377C47 363 61 319 103 269H107C149 320 162 364 118 377Z",
+                "topClip": "M76 173C41 221 89 244 103 269H107C123 246 169 217 135 173Z",
+                "bottomClip": "M92 377C47 363 61 319 103 269H107C149 320 162 364 118 377Z"
+            },
+            "visuals": {
+                "grainDensity": {
+                    "staticTop": 50,
+                    "staticBottom": 60,
+                    "falling": 100,
+                    "sliding": 120,
+                    "topSliding": 100
+                },
+                "useGrainyFilter": true,
+                "useGrainBlur": true,
+                "grainyFilterSettings": {
+                    "slope": 3.5,
+                    "intercept": -0.8,
+                    "opacity": 0.6,
+                    "grainColor": "#373A39"
+                },
+                "glassReflectionOpacities": [
+                    0,
+                    0
+                ],
+                "sandCapStroke": "#929890",
+                "sandCapStrokeWidth": 0.6,
+                "topSandRyFactor": 0.12,
+                "glassShadow": {
+                    "style": "fill",
+                    "opacity": 0.1,
+                    "blurRadius": 10
+                }
+            },
+            "mask": {
+                "type": "image",
+                "fit": "cover",
+                "url": "__enc_v2__:d2Zr+mLYGaImO2cEkpkjcForEi8/aB9JFxY/FRIWA10YXRlAETMCHwZMPF4GW0QAEgAsSxQ2MXAPPxUONxVwIQEQHhAfMgwdHC0jGBtVLDRCEQkEGU8bGCsjQVl8cAAqGgUlBSkWfTUaPA0GUnElJ1wXGSoRDjkXHxBYAg0LWQwMEjQWABsAOykqA309KR4CIANvAQAgNB4BDA4v",
+                "scale": 1
+            },
+            "frameTransform": {
+                "x": 37,
+                "y": 25,
+                "scale": 0.5
+            },
+            "frameBaseTransform": {
+                "x": -173,
+                "y": -63,
+                "scale": 1
+            },
+            "cover": "__enc_v2__:XnmV/E8fPVYOdvdQWxHqKi8BRAAgDlxdLRYPVT47FnEBBhZCODMyFQB+EQ1VSxwyFAk0RxA6IxsFOAggAAF9PDsWBCVjGBwqPxZrExcHBhE6XQQGUDxzNwIrIwBcG3weARg6BBkYVkI0WyEJQTEeADB9HQ4AAgIgURYHeDwxBBtbMhUyDENaAgEHMj1wAC8mCDEAJQkHFgIoSEU6Djw=",
+            "frameBase": "__enc_v2__:CzwhQDBeGd0QSHrR2rWBBjpEGAMsZR9GEwYgMAggNk03DBYhFAACNCZeFRpTZiUSNCIAewgpMUw2DBE4NhBbFSAMDBF9DAwdLydfbTcmLDdNBDc9BlwbFTwvGl9bRl4qCzooWz1UfTIMKwQHPV0MPEYdPBBCDjk+ATtOBVw0WiFZFS8QEGgANwwOFhsfMAgTITA8BCYQOmZDFwMv",
+            "frameImage": "__enc_v2__:d5x0YCdt7/R+J1a59R4+9VoHAi8sW0N9IQxYAAIsAEcYPCYeVTkCLDtqPBsVHAISEjBDYgE6BXwKDj4BDBZJJwERDhNaJQQmAgEDMxUAVTgJcTAVBDh+Cx0VPCxpSXAYFksARwULO1xTPEY3IFZxNhxKOwYqADQFMiwDQRcxCx0IGDIgFhVnQD02GClwJSkLIhQ6PApGAj4RZh4TUBw=",
+            "portraitBackground": "__enc_v2__:hDROhSirFTXbpqFEfBz2syQnHRUgTnBnEQkPAwQhDH0eMEEHLyA+FgF/EAIScQNRFxEgSAdXPl0AGwA4AyB8F1gpMgldCgAIRCE6LFZXey0ZVVg3HQECR2kfcAAqGh0eLh4oXVMAEjcqAX0lMGgXHBYHVQAyH0dyFykvWQUEUzQWGl8mNwYyCXAZBh48AQoKAwtbHAQU",
+            "video": "__enc_v2__:c11BYxuYiiGHSFd7o/W7swQzBzxDSU56IQYfNg0aBn06BiYEBD80ByxeMCY1aQNRERYmXiMwKXAdDDQEExBOBDI/GFUbDXBIKTsEAB9dPzcEeTcdBy87Xx1wMxxJCCgADRAcIDpGDQAScSEcRho8BjU4CQImFl8FGy9KOio+LzYaHRISGBkDHh9MCDANIxE6XQgWVQ==",
+            "autoBottomImage": true,
+            "relativeToBackground": true,
+            "rainAreaPolygons": [
+                [
+                    0,
+                    0,
+                    800,
+                    0,
+                    800,
+                    1450,
+                    0,
+                    1530
+                ]
+            ],
+            "minVersion": 110,
+            "screenshots": [
+                "__enc_v2__:R6ArlYRRGfpN017uK4JrYTomBAUWTh9MHjA/Og0gVXE3MEUbEiACASFZKwI1cRk+NDYaQgJXMUYfMgIrEwdoHyYpNxAEHx0bKVccBgIwPHxSTRQWPQVfO0QRGQMKHVwaBwsaFhoHN3EEHAcdHAdPGQZGKT0ZHjIYJhUgRCQbMh9dWTQ4NxBbPw1VJR8LCStGKTYxIwQcAAJCcQMGERw=",
+                "__enc_v2__:0b+I4NrMPr7NU9F/kKjn9lo4HRM/CFxMABAzDFVDCU0YGTIAERwAARVEDyk4TS8SEhUQRxQQJEZdAS0EOjRcEgdRA0dYBisbJQYYAwYMM2JeRxY2Cxx/OysHABJ2XH0zFj48KC4NLHELCAE6RwNYOhxMFxsWAQQYLSEachM7NGcIHj4rFhJdP1wXHCAdMERMKAQmQhM9NgJCfRQtCy8=",
+                "__enc_v2__:97ZP6DrxbQQ2Nt8HQz7EVhsGFxwGDkN9Bxc/DAcDLXw7CQYgDjMzLBpLPCkLHhMXMlESWAg6AHwFWRUEOhpdIBo+JSALAydnGToiAy0DNgBscShVETwcCwcrQhJWTBsPRxU2FAgYB1wGBRE6ORF9LgpjACgnAiAFMz8GchUPOEYcGwQOOkNGRxhTFiAYPQBcHBUcAyEGLGNgXhstUi8=",
+                "__enc_v2__:Z9mOVVmcD0kJOTg/xJAMhzcHFQYBaExGEVFYNhcAEWZaDiAhATMSRwFyPCY0fS8CAjcsHlA2F3wAMj4EVSYdARs+LxA3JyFwTgkCAhswOllSfT8iPRNzHCc4PBp9cFpYGTEMHgUcO2I4H0YbFipIOjBMOhw5Gy9eFQMDfhALC3AaHwc0E0dKAzEUBSYJHStbFgxaJQI8LUUGRx4RNxY="
+            ]
+        },
+        {
+            "id": "juice",
+            "names": {
+                "zh": "夏日清凉",
+                "en": "Watermelon Juice",
+                "zh_TW": "夏日清涼",
+                "ko": "수박 주스",
+                "ja": "スイカジュース",
+                "es": "Jugo de Sandía",
+                "fr": "Jus de Pastèque",
+                "de": "Wassermelonen Saft",
+                "th": "น้ำแตงโม",
+                "pt_BR": "Suco de Melancia",
+                "id": "Jus Semangka",
+                "ru": "Арбузный сок",
+                "it": "Succo di Anguria",
+                "vi": "Nước Ép Dưa Hấu",
+                "ar": "عصير البطيخ",
+                "hi": "तरबूज का रस",
+                "tr": "Karpuz Suyu",
+                "nl": "Watermeloensap",
+                "pl": "Sok Arbuzowy",
+                "sv": "Vattenmelonsjuice",
+                "fil": "Watermelon Juice",
+                "cs": "Vodní meloun",
+                "da": "Vandmelonssaft",
+                "fi": "Vesimeloni",
+                "hu": "Görögdinnye",
+                "no": "Vannmelonsaft",
+                "ro": "Suc de Pepene",
+                "sk": "Vodný melón",
+                "he": "מיץ אבטיח"
+            },
+            "icon": "58065",
+            "pro": false,
+            "minVersion": 123,
+            "colors": {
+                "sand": "#dc2626",
+                "light": "#fca5a5",
+                "dark": "#991b1b",
+                "highlight": "#fecaca",
+                "glassLine": "#7dd3fc",
+                "glassFill": "#197dd3fc"
+            },
+            "dark": false,
+            "liquid": false,
+            "waterEffect": {
+                "bodyGradient": [
+                    "#b91c1c",
+                    "#dc2626",
+                    "#fc3c44",
+                    "#dc2626",
+                    "#b91c1c"
+                ],
+                "surfaceColor": "#b3fca5a5",
+                "surfaceFade": "#67fee2e2",
+                "seedColor": "#9927272a",
+                "dropColor": "#ccef4444",
+                "rippleColor": "#f87171",
+                "splashColor": "#f87171",
+                "seedCount": 40,
+                "seedSize": null,
+                "pulpColor": "#960000",
+                "pulpSize": 1.2,
+                "pulpDensity": 0.25,
+                "slushDensity": 180,
+                "slushSize": 0.8,
+                "seedDepth": true,
+                "seedHighlight": true,
+                "glassShineOverlay": true,
+                "condensation": true,
+                "showDuck": true
+            },
+            "uiColors": {
+                "text": "#0c4a6e",
+                "highlightText": "#0284c7",
+                "timerCircle": "#0ea5e9",
+                "buttonBg": "#80FFFFFF",
+                "presetBg": "#CCFFFFFF",
+                "presetActive": "#0369a1",
+                "sliderAccent": "#0ea5e9",
+                "settingsBg": "#E6FFFFFF",
+                "primaryButton": "#0369a1",
+                "themeStoreButton": "#0ea5e9",
+                "sliderThumb": "#0ea5e9"
+            },
+            "geometry": {
+                "neckY": 240,
+                "baseY": 462,
+                "neckWidth": 20,
+                "strokeWidth": 2,
+                "topSandPoints": [
+                    75,
+                    115,
+                    170,
+                    240
+                ],
+                "moundStartX": 0,
+                "moundEndX": 200
+            },
+            "paths": {
+                "glass": "M10,30 C10,135 90,225 90,240 C90,255 10,345 10,450 C10,465 190,465 190,450 C190,345 110,255 110,240 C110,225 190,135 190,30 Z",
+                "topClip": "M15,35 C15,135 95,225 95,235 L105,235 C105,225 185,135 185,35 Z",
+                "bottomClip": "M95,245 C95,255 15,345 15,445 C15,460 185,460 185,445 C185,345 105,255 105,245 Z"
+            },
+            "visuals": {
+                "grainDensity": {
+                    "staticTop": 0,
+                    "staticBottom": 0,
+                    "falling": 100,
+                    "sliding": 120,
+                    "topSliding": 100
+                },
+                "useGrainyFilter": false,
+                "useGrainBlur": false,
+                "grainyFilterSettings": {
+                    "slope": 3.5,
+                    "intercept": -0.8,
+                    "opacity": 0.6,
+                    "grainColor": "#991b1b"
+                },
+                "glassReflectionOpacities": [
+                    0.7,
+                    0.3
+                ],
+                "glassReflectionTranslate": [
+                    40,
+                    40
+                ],
+                "topSandRyFactor": 0.12
+            },
+            "background": {
+                "type": "gradient",
+                "gradient": {
+                    "type": "radial",
+                    "center": [
+                        0.5,
+                        0.3
+                    ],
+                    "radius": 1,
+                    "colors": [
+                        "#e0f2fe",
+                        "#bae6fd",
+                        "#7dd3fc"
+                    ],
+                    "stops": [
+                        0,
+                        0.4,
+                        1
+                    ]
+                },
+                "overlay": {
+                    "type": "gradient",
+                    "gradient": {
+                        "type": "linear",
+                        "begin": [
+                            0.5,
+                            0
+                        ],
+                        "end": [
+                            0.5,
+                            1
+                        ],
+                        "colors": [
+                            "rgba(0,0,0,0)",
+                            "rgba(14, 165, 233, 0.6)"
+                        ],
+                        "stops": [
+                            0,
+                            1
+                        ]
+                    }
+                },
+                "water": {
+                    "position": [
+                        "0%",
+                        "70%"
+                    ],
+                    "size": [
+                        "100%",
+                        "30%"
+                    ],
+                    "color": "rgba(186, 230, 253, 0.35)",
+                    "opacity": 0.4
+                },
+                "sparkles": [
+                    {
+                        "type": "animated_icon",
+                        "icon": "snowflake",
+                        "position": [
+                            "8%",
+                            "8%"
+                        ],
+                        "size": 28,
+                        "color": "#ffffff",
+                        "animation": "pulse",
+                        "opacityRange": [
+                            0.2,
+                            0.3,
+                            0.42,
+                            0.53,
+                            0.6,
+                            0.53,
+                            0.42,
+                            0.3,
+                            0.2
+                        ],
+                        "scaleRange": [
+                            0.7,
+                            0.82,
+                            0.95,
+                            1.06,
+                            1.1,
+                            1.06,
+                            0.95,
+                            0.82,
+                            0.7
+                        ],
+                        "duration": 3500
+                    },
+                    {
+                        "type": "animated_icon",
+                        "icon": "snowflake",
+                        "position": [
+                            "88%",
+                            "20%"
+                        ],
+                        "size": 36,
+                        "color": "#e0f2fe",
+                        "animation": "pulse",
+                        "opacityRange": [
+                            0.15,
+                            0.24,
+                            0.35,
+                            0.45,
+                            0.5,
+                            0.45,
+                            0.35,
+                            0.24,
+                            0.15
+                        ],
+                        "scaleRange": [
+                            0.8,
+                            0.9,
+                            1.02,
+                            1.14,
+                            1.2,
+                            1.14,
+                            1.02,
+                            0.9,
+                            0.8
+                        ],
+                        "duration": 4500,
+                        "delay": 1200
+                    },
+                    {
+                        "type": "animated_icon",
+                        "icon": "droplets",
+                        "position": [
+                            "50%",
+                            "5%"
+                        ],
+                        "size": 24,
+                        "color": "#bae6fd",
+                        "animation": "pulse",
+                        "opacityRange": [
+                            0.1,
+                            0.18,
+                            0.27,
+                            0.36,
+                            0.4,
+                            0.36,
+                            0.27,
+                            0.18,
+                            0.1
+                        ],
+                        "scaleRange": [
+                            0.8,
+                            0.85,
+                            0.91,
+                            0.97,
+                            1,
+                            0.97,
+                            0.91,
+                            0.85,
+                            0.8
+                        ],
+                        "duration": 3000,
+                        "delay": 600
+                    },
+                    {
+                        "type": "animated_icon",
+                        "icon": "snowflake",
+                        "position": [
+                            "78%",
+                            "75%"
+                        ],
+                        "size": 24,
+                        "color": "#ffffff",
+                        "animation": "pulse",
+                        "opacityRange": [
+                            0.2,
+                            0.28,
+                            0.37,
+                            0.45,
+                            0.5,
+                            0.45,
+                            0.37,
+                            0.28,
+                            0.2
+                        ],
+                        "scaleRange": [
+                            0.7,
+                            0.78,
+                            0.87,
+                            0.96,
+                            1,
+                            0.96,
+                            0.87,
+                            0.78,
+                            0.7
+                        ],
+                        "duration": 4000,
+                        "delay": 2500
+                    },
+                    {
+                        "type": "animated_icon",
+                        "icon": "droplets",
+                        "position": [
+                            "20%",
+                            "65%"
+                        ],
+                        "size": 20,
+                        "color": "#7dd3fc",
+                        "animation": "pulse",
+                        "opacityRange": [
+                            0.15,
+                            0.23,
+                            0.32,
+                            0.41,
+                            0.45,
+                            0.41,
+                            0.32,
+                            0.23,
+                            0.15
+                        ],
+                        "scaleRange": [
+                            0.7,
+                            0.82,
+                            0.95,
+                            1.06,
+                            1.1,
+                            1.06,
+                            0.95,
+                            0.82,
+                            0.7
+                        ],
+                        "duration": 3500,
+                        "delay": 1800
+                    }
+                ],
+                "vignette": [
+                    {
+                        "type": "radial_blur",
+                        "center": [
+                            0.5,
+                            0.45
+                        ],
+                        "size": [
+                            0.65,
+                            0.65
+                        ],
+                        "color": "#0c4a6e",
+                        "opacity": 0.2
+                    }
+                ],
+                "elements": [
+                    {
+                        "type": "animated_group",
+                        "animation": "rise",
+                        "yRange": [
+                            0,
+                            -250
+                        ],
+                        "duration": 6000,
+                        "opacityRange": [
+                            0.35,
+                            0
+                        ],
+                        "elements": [
+                            {
+                                "type": "circle",
+                                "cx": "20%",
+                                "cy": "85%",
+                                "r": 2.5,
+                                "fill": "rgba(186, 230, 253, 0.35)"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "animated_group",
+                        "animation": "rise",
+                        "yRange": [
+                            0,
+                            -230
+                        ],
+                        "duration": 5200,
+                        "opacityRange": [
+                            0.3,
+                            0
+                        ],
+                        "delay": 800,
+                        "elements": [
+                            {
+                                "type": "circle",
+                                "cx": "35%",
+                                "cy": "78%",
+                                "r": 3.5,
+                                "fill": "rgba(147, 215, 253, 0.3)"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "animated_group",
+                        "animation": "rise",
+                        "yRange": [
+                            0,
+                            -270
+                        ],
+                        "duration": 7000,
+                        "opacityRange": [
+                            0.4,
+                            0
+                        ],
+                        "delay": 1500,
+                        "elements": [
+                            {
+                                "type": "circle",
+                                "cx": "55%",
+                                "cy": "90%",
+                                "r": 2,
+                                "fill": "rgba(186, 230, 253, 0.4)"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "animated_group",
+                        "animation": "rise",
+                        "yRange": [
+                            0,
+                            -240
+                        ],
+                        "duration": 4800,
+                        "opacityRange": [
+                            0.25,
+                            0
+                        ],
+                        "delay": 2200,
+                        "elements": [
+                            {
+                                "type": "circle",
+                                "cx": "72%",
+                                "cy": "82%",
+                                "r": 3,
+                                "fill": "rgba(147, 215, 253, 0.25)"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "animated_group",
+                        "animation": "rise",
+                        "yRange": [
+                            0,
+                            -200
+                        ],
+                        "duration": 5500,
+                        "opacityRange": [
+                            0.45,
+                            0
+                        ],
+                        "delay": 3500,
+                        "elements": [
+                            {
+                                "type": "circle",
+                                "cx": "45%",
+                                "cy": "95%",
+                                "r": 1.8,
+                                "fill": "rgba(186, 230, 253, 0.45)"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "animated_group",
+                        "animation": "rise",
+                        "yRange": [
+                            0,
+                            -220
+                        ],
+                        "duration": 6500,
+                        "opacityRange": [
+                            0.3,
+                            0
+                        ],
+                        "delay": 500,
+                        "elements": [
+                            {
+                                "type": "circle",
+                                "cx": "80%",
+                                "cy": "88%",
+                                "r": 2.2,
+                                "fill": "rgba(206, 238, 254, 0.3)"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "animated_group",
+                        "animation": "rise",
+                        "yRange": [
+                            0,
+                            -260
+                        ],
+                        "duration": 5800,
+                        "opacityRange": [
+                            0.3,
+                            0
+                        ],
+                        "delay": 2800,
+                        "elements": [
+                            {
+                                "type": "circle",
+                                "cx": "10%",
+                                "cy": "92%",
+                                "r": 2.8,
+                                "fill": "rgba(186, 230, 253, 0.3)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "decorations": {
+                "head": {
+                    "type": "juice_head",
+                    "translate": [
+                        100,
+                        75
+                    ],
+                    "animation": "float",
+                    "yRange": [
+                        0,
+                        -2,
+                        0
+                    ],
+                    "duration": 4000,
+                    "easing": "easeInOut",
+                    "elements": [
+                        {
+                            "type": "group",
+                            "translate": [
+                                -65,
+                                -50
+                            ],
+                            "rotate": -20,
+                            "elements": [
+                                {
+                                    "type": "rect",
+                                    "x": -3,
+                                    "y": -45,
+                                    "width": 6,
+                                    "height": 90,
+                                    "rx": 3,
+                                    "fill": "#FFFFFF",
+                                    "stroke": "#e2e8f0",
+                                    "strokeWidth": 1
+                                },
+                                {
+                                    "type": "rect",
+                                    "x": -3,
+                                    "y": -30,
+                                    "width": 6,
+                                    "height": 10,
+                                    "fill": "#ef4444"
+                                },
+                                {
+                                    "type": "rect",
+                                    "x": -3,
+                                    "y": -5,
+                                    "width": 6,
+                                    "height": 10,
+                                    "fill": "#ef4444"
+                                },
+                                {
+                                    "type": "rect",
+                                    "x": -3,
+                                    "y": 20,
+                                    "width": 6,
+                                    "height": 10,
+                                    "fill": "#ef4444"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "group",
+                            "translate": [
+                                55,
+                                -20
+                            ],
+                            "elements": [
+                                {
+                                    "type": "circle",
+                                    "cx": 0,
+                                    "cy": 0,
+                                    "r": 16,
+                                    "fill": "#FCD34D",
+                                    "stroke": "#F59E0B",
+                                    "strokeWidth": 2
+                                },
+                                {
+                                    "type": "circle",
+                                    "cx": 0,
+                                    "cy": 0,
+                                    "r": 13,
+                                    "fill": "#FEF3C7"
+                                },
+                                {
+                                    "type": "path",
+                                    "d": "M0,-4 L-4,-11 L4,-11 Z",
+                                    "fill": "#FDE68A"
+                                },
+                                {
+                                    "type": "path",
+                                    "d": "M4,0 L11,-4 L11,4 Z",
+                                    "fill": "#FDE68A"
+                                },
+                                {
+                                    "type": "path",
+                                    "d": "M-4,0 L-11,-4 L-11,4 Z",
+                                    "fill": "#FDE68A"
+                                },
+                                {
+                                    "type": "path",
+                                    "d": "M0,4 L-4,11 L4,11 Z",
+                                    "fill": "#FDE68A"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "group",
+                            "translate": [
+                                -30,
+                                -60
+                            ],
+                            "rotate": 15,
+                            "elements": [
+                                {
+                                    "type": "rect",
+                                    "x": -7,
+                                    "y": -7,
+                                    "width": 14,
+                                    "height": 14,
+                                    "rx": 3,
+                                    "fill": "rgba(186, 230, 253, 0.55)",
+                                    "stroke": "#7dd3fc",
+                                    "strokeWidth": 1
+                                },
+                                {
+                                    "type": "rect",
+                                    "x": -3,
+                                    "y": -5,
+                                    "width": 5,
+                                    "height": 3,
+                                    "rx": 1,
+                                    "fill": "rgba(255,255,255,0.5)"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "group",
+                            "translate": [
+                                40,
+                                -55
+                            ],
+                            "rotate": -12,
+                            "elements": [
+                                {
+                                    "type": "rect",
+                                    "x": -6,
+                                    "y": -6,
+                                    "width": 12,
+                                    "height": 12,
+                                    "rx": 3,
+                                    "fill": "rgba(186, 230, 253, 0.5)",
+                                    "stroke": "#7dd3fc",
+                                    "strokeWidth": 1
+                                },
+                                {
+                                    "type": "rect",
+                                    "x": -3,
+                                    "y": -4,
+                                    "width": 4,
+                                    "height": 3,
+                                    "rx": 1,
+                                    "fill": "rgba(255,255,255,0.5)"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "group",
+                            "translate": [
+                                -5,
+                                -45
+                            ],
+                            "rotate": 25,
+                            "elements": [
+                                {
+                                    "type": "path",
+                                    "d": "M0,-10 L-8,6 L8,6 Z",
+                                    "fill": "#ef4444"
+                                },
+                                {
+                                    "type": "path",
+                                    "d": "M-9,6 Q0,10 9,6",
+                                    "fill": "none",
+                                    "stroke": "#22c55e",
+                                    "strokeWidth": 2.5
+                                }
+                            ]
+                        },
+                        {
+                            "type": "group",
+                            "translate": [
+                                65,
+                                -5
+                            ],
+                            "rotate": -15,
+                            "elements": [
+                                {
+                                    "type": "path",
+                                    "d": "M0,0 C-4,-8 -2,-16 0,-22 C2,-16 4,-8 0,0 Z",
+                                    "fill": "#4ade80",
+                                    "opacity": 0.9
+                                },
+                                {
+                                    "type": "path",
+                                    "d": "M0,0 Q-1,-10 0,-20",
+                                    "fill": "none",
+                                    "stroke": "#16a34a",
+                                    "strokeWidth": 0.8
+                                }
+                            ]
+                        },
+                        {
+                            "type": "group",
+                            "translate": [
+                                45,
+                                25
+                            ],
+                            "elements": [
+                                {
+                                    "type": "animated_group",
+                                    "animation": "drip",
+                                    "yRange": [
+                                        0,
+                                        15
+                                    ],
+                                    "duration": 3000,
+                                    "opacityRange": [
+                                        0.5,
+                                        0.1
+                                    ],
+                                    "delay": 0,
+                                    "elements": [
+                                        {
+                                            "type": "circle",
+                                            "cx": 0,
+                                            "cy": 0,
+                                            "r": 2.5,
+                                            "fill": "rgba(186, 230, 253, 0.5)"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "animated_group",
+                                    "animation": "drip",
+                                    "yRange": [
+                                        0,
+                                        12
+                                    ],
+                                    "duration": 3500,
+                                    "opacityRange": [
+                                        0.4,
+                                        0.1
+                                    ],
+                                    "delay": 1200,
+                                    "elements": [
+                                        {
+                                            "type": "circle",
+                                            "cx": -3,
+                                            "cy": 12,
+                                            "r": 2,
+                                            "fill": "rgba(186, 230, 253, 0.4)"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "animated_group",
+                                    "animation": "drip",
+                                    "yRange": [
+                                        0,
+                                        12
+                                    ],
+                                    "duration": 2800,
+                                    "opacityRange": [
+                                        0.4,
+                                        0.1
+                                    ],
+                                    "delay": 600,
+                                    "elements": [
+                                        {
+                                            "type": "circle",
+                                            "cx": -5,
+                                            "cy": 6,
+                                            "r": 1.5,
+                                            "fill": "rgba(186, 230, 253, 0.4)"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "animated_group",
+                                    "animation": "drip",
+                                    "yRange": [
+                                        0,
+                                        10
+                                    ],
+                                    "duration": 4000,
+                                    "opacityRange": [
+                                        0.35,
+                                        0.1
+                                    ],
+                                    "delay": 2000,
+                                    "elements": [
+                                        {
+                                            "type": "circle",
+                                            "cx": 2,
+                                            "cy": 18,
+                                            "r": 1.2,
+                                            "fill": "rgba(186, 230, 253, 0.35)"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "animated_group",
+                                    "animation": "drip",
+                                    "yRange": [
+                                        0,
+                                        10
+                                    ],
+                                    "duration": 3200,
+                                    "opacityRange": [
+                                        0.35,
+                                        0.1
+                                    ],
+                                    "delay": 900,
+                                    "elements": [
+                                        {
+                                            "type": "circle",
+                                            "cx": 4,
+                                            "cy": 8,
+                                            "r": 1.8,
+                                            "fill": "rgba(255, 255, 255, 0.35)"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "feet": {
+                    "type": "juice_feet",
+                    "translate": [
+                        100,
+                        460
+                    ],
+                    "elements": [
+                        {
+                            "type": "rect",
+                            "x": -95,
+                            "y": -9,
+                            "width": 190,
+                            "height": 18,
+                            "rx": 4,
+                            "fill": "rgba(255,255,255,0.25)",
+                            "stroke": "rgba(186, 230, 253, 0.35)",
+                            "strokeWidth": 1
+                        },
+                        {
+                            "type": "rect",
+                            "x": -90,
+                            "y": -7,
+                            "width": 180,
+                            "height": 14,
+                            "rx": 3,
+                            "fill": "rgba(255,255,255,0.12)"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "pool",
+            "names": {
+                "zh": "泳池派对",
+                "en": "Pool Party",
+                "zh_TW": "泳池派對",
+                "ko": "풀 파티",
+                "ja": "プールパーティー",
+                "es": "Fiesta en la piscina",
+                "fr": "Fête à la piscine",
+                "de": "Poolparty",
+                "th": "ปาร์ตี้สระน้ำ",
+                "pt_BR": "Festa na piscina",
+                "id": "Pesta Kolam",
+                "ru": "Вечеринка у бассейна",
+                "it": "Festa in piscina",
+                "vi": "Tiệc Bể Bơi",
+                "ar": "حفلة المسبح",
+                "hi": "पूल पार्टी",
+                "tr": "Havuz Partisi",
+                "nl": "Zwembadfeest",
+                "pl": "Impreza przy basenie",
+                "sv": "Poolfest",
+                "fil": "Pool Party",
+                "cs": "Bazénová párty",
+                "da": "Poolparty",
+                "fi": "Uima-allasjuhlat",
+                "hu": "Medencés buli",
+                "no": "Bassengfest",
+                "ro": "Petrecere la piscină",
+                "sk": "Bazénová párty",
+                "he": "מסיבת בריכה"
+            },
+            "icon": "58943",
+            "pro": true,
+            "minVersion": 123,
+            "colors": {
+                "sand": "#dc2626",
+                "light": "#fca5a5",
+                "dark": "#991b1b",
+                "highlight": "#fecaca",
+                "glassLine": "rgba(0, 0, 0, 0)",
+                "glassFill": "rgba(0, 0, 0, 0)"
+            },
+            "dark": false,
+            "liquid": false,
+            "waterEffect": {
+                "bodyGradient": [
+                    "#b91c1c",
+                    "#dc2626",
+                    "#fc3c44",
+                    "#dc2626",
+                    "#b91c1c"
+                ],
+                "surfaceColor": "#b3fca5a5",
+                "surfaceFade": "#67fee2e2",
+                "seedColor": "#9927272a",
+                "dropColor": "#ccef4444",
+                "rippleColor": "#f87171",
+                "splashColor": "#f87171",
+                "seedCount": 40,
+                "seedSize": 0.7,
+                "pulpSize": 0.5,
+                "pulpDensity": 0.1,
+                "pulpColor": "#960000",
+                "seedDepth": true,
+                "seedHighlight": true,
+                "glassShineOverlay": false,
+                "showDuck": true
+            },
+            "uiColors": {
+                "text": "#0c4a6e",
+                "highlightText": "#0284c7",
+                "timerCircle": "#0ea5e9",
+                "buttonBg": "#80FFFFFF",
+                "presetBg": "#CCFFFFFF",
+                "presetActive": "#0369a1",
+                "sliderAccent": "#0ea5e9",
+                "settingsBg": "#E6FFFFFF",
+                "primaryButton": "#0369a1",
+                "themeStoreButton": "#0ea5e9",
+                "sliderThumb": "#0ea5e9"
+            },
+            "geometry": {
+                "neckY": 234,
+                "baseY": 381,
+                "neckWidth": 20,
+                "strokeWidth": 2,
+                "topSandPoints": [
+                    75,
+                    115,
+                    170,
+                    240
+                ],
+                "moundStartX": 0,
+                "moundEndX": 200
+            },
+            "paths": {
+                "glass": "M51 105C11 169 92 221 96 233H101C122 207 188 158 147 106ZM89 381C4 360 50 278 96 233H101C173 311 175 370 107 381Z",
+                "topClip": "M51 105C11 169 92 221 96 233H101C122 207 188 158 147 106Z",
+                "bottomClip": "M89 381C4 360 50 278 96 233H101C173 311 175 370 107 381Z"
+            },
+            "visuals": {
+                "grainDensity": {
+                    "staticTop": 0,
+                    "staticBottom": 0,
+                    "falling": 100,
+                    "sliding": 120,
+                    "topSliding": 100
+                },
+                "useGrainyFilter": false,
+                "useGrainBlur": false,
+                "grainyFilterSettings": {
+                    "slope": 3.5,
+                    "intercept": -0.8,
+                    "opacity": 0.6,
+                    "grainColor": "#991b1b"
+                },
+                "topSandRyFactor": 0.25
+            },
+            "frameTransform": {
+                "x": 46,
+                "y": -22,
+                "scale": 0.55
+            },
+            "frameBaseTransform": {
+                "x": 1,
+                "y": 262,
+                "scale": 0.49
+            },
+            "cover": "__enc_v2__:/ejKLllXeXOeIS1NEilMFzcnFRYBT1xaFykAEykSLV1aMCAeAQUyGgZbMT0CexMNAhEscVAJI0MPHRdXFyxdJh05MhFwFxwWAVIMEwY8BVgRVyoccxsrBy8aCmgbJEEqBQcMPAhPVQgHLxwBfQo8HxcaBwQrPgQhH04kHThdNg4SDgMgWSsdKiERTBUcHBklMxxbXxx9ETYUEQ==",
+            "frameBase": "__enc_v2__:SG8onnoj+zyg/6sBBKsVfiQrOCJHb0xcGwRcKQQ0CU0eHAMtOBgTIDR4ABgSRy8SFwkDfTs6H3oKMiYXAwBcFVg3XS1DQlsbHwALUUcEQiUMFBlPJBEnLxJyXEYzICs2MDopFlgSNkY9EANCNjBZGwxFEQ4cBwcWchE7BEM2PikUBgAbRAQpGDZGLxwjJG8BADQEfR46UBY=",
+            "frameImage": "__enc_v2__:4ryCz5JQWri0G74yoUVSHw0rODg7Vht9AVEFVTIsUUsdAwMXAj4+LBJyVw04XSMTASkDXBYTKXw7MjIgER9wEgQTXQNJIwMnMzM5Gz4hERooFQtEGFg4FyM/TlwdGjkmGkcuMTtNERs8HioDSxldcCQGFi04KxEaEF1ROxIfGQEzIBYfQx1YUSoQSi8JBhkTEBEAISldHjYLGQ==",
+            "portraitBackground": "__enc_v2__:akbStNihKUNBJaDzQQ9NHw0mAQImX0x8LQAFNgIFVUsdMBwUExkTO0FYVyYVfRkTATYfGjsDH0wMCzIEDENoEgQtDjodHFsdGTM9FV0eBlYvTxsrES8gU0lwGBwqLgQ2HRZPCxwHN0EOXTYceisOKh4OPi0VH1kwMQsdOhkSMgkhGyseCT8pcC8jCjkAAzhiATYxAA==",
+            "video": "__enc_v2__:jrT69uLqLN2nvNk7KckYdDdEOC8aCEZGHgYPMDI0FnwbDAMeUxxVNCFfERo4RxwXCyIDYjcQJUwfBAg4EQB9NDMFXBMtEHADPFtYHDIRQhweBx0AB1ZbTlwmKgxFPD0HfTQuRCQWLnsKMHo6CipCIFw0EBofEFw4aB0ZBxI6EEYEFR8rFRMJcBMwMFhIJTdH",
+            "autoBottomImage": true,
+            "screenshots": [
+                "__enc_v2__:RVkjVTYNqGUXxjB73KqoLzc8BwYFU05GQjoaNj4BEFsECiYhNCs0NBByMCYUSBYHKxcmHlQGKUwuJVEECUdDHxgHBBALHCtcGQoMHhNjbnEHUT03awk8FQMBfUZZMwYKWShbBw17AjwnDhYRXh0DQyEwEAEUMxMsJhkQPVdjOz8mCxAgfCwIPi8gCTodHQYZDCA5ZWRmQy09Lw==",
+                "__enc_v2__:W12YrqX5wSyGk2PL06+NqFgzMy8VaUlMLVEKIj4ACVwLBhwtCyQNAAByDwdVTy8IIBYAZjsGKU4FMj4UACFcRwcyIxYbHQd6IgMcPy1GXn0EMDcCQAEYKwY/VnpJPycmOgMdCDYaNTYnHjk9GlkZWx0wKkYRPxc7Q10VMThMOiEVVVcsfCw9BBkGGCcraEBdMAk6bwJaRxclGQ==",
+                "__enc_v2__:i0JWf9ZRBGxeNnJcCYL90w4HAiUATnpDPhcrOgIgOksEPCYGBiAVIQVLClwUcSMTODBDcTZXKVkZWRICBAdnFR0VE0E3H0Z8QDA8GQ1vUBobOiUVfx0RRBksb0lwXgcmO0UAGyxHEgozBCpWfQwGcD4KBhQEAAc0EGE8MS9aXQEyEjYfXRACCANBIDAXSSMjXwoKb1pdKBYDAA==",
+                "__enc_v2__:vUsMkV9FkpnKGAuMXj9fLTcRJwYsaVp6OhcPVQQWA2YEGj0hCyQIBxZLEA0SW0QCKwMQHigGGnAbWQAgAxVwARgNAhAeHRcdFjA6BWsEa0cHOgs3XAEHEUQsZVxwMxlNWQRdB1QaBhwrBCYDcTYjfCEDJgEOPzMVLGErOwtDHzImNTogaCwxDQRBCzA4YwAbDBorZVdaJDouAA=="
+            ]
+        },
+        {
+            "id": "beach",
+            "names": {
+                "zh": "海滩时光",
+                "en": "Beach Day",
+                "zh_TW": "海灘時光",
+                "ko": "해변의 날",
+                "ja": "ビーチデイ",
+                "es": "Día de playa",
+                "fr": "Journée à la plage",
+                "de": "Strandtag",
+                "th": "วันชายหาด",
+                "pt_BR": "Dia de praia",
+                "id": "Hari Pantai",
+                "ru": "День на пляже",
+                "it": "Giornata in spiaggia",
+                "vi": "Ngày Biển",
+                "ar": "يوم الشاطئ",
+                "hi": "बीच डे",
+                "tr": "Plaj Günü",
+                "nl": "Stranddag",
+                "pl": "Dzień na plaży",
+                "sv": "Stranddag",
+                "fil": "Beach Day",
+                "cs": "Plážový den",
+                "da": "Stranddag",
+                "fi": "Rantapäivä",
+                "hu": "Strandnap",
+                "no": "Stranddag",
+                "ro": "Zi la plajă",
+                "sk": "Plážový deň",
+                "he": "יום חוף"
+            },
+            "icon": "57753",
+            "pro": true,
+            "minVersion": 123,
+            "colors": {
+                "sand": "#dc2626",
+                "light": "#fca5a5",
+                "dark": "#991b1b",
+                "highlight": "#fecaca",
+                "glassLine": "rgba(0, 0, 0, 0)",
+                "glassFill": "rgba(0, 0, 0, 0)"
+            },
+            "dark": false,
+            "liquid": false,
+            "waterEffect": {
+                "bodyGradient": [
+                    "#b91c1c",
+                    "#dc2626",
+                    "#fc3c44",
+                    "#dc2626",
+                    "#b91c1c"
+                ],
+                "surfaceColor": "#b3fca5a5",
+                "surfaceFade": "#67fee2e2",
+                "seedColor": "#9927272a",
+                "dropColor": "#ccef4444",
+                "rippleColor": "#f87171",
+                "splashColor": "#f87171",
+                "seedCount": 40,
+                "seedSize": 0.7,
+                "pulpColor": "#960000",
+                "seedDepth": true,
+                "seedHighlight": true,
+                "glassShineOverlay": false,
+                "showDuck": true
+            },
+            "uiColors": {
+                "text": "#164e63",
+                "highlightText": "#0891b2",
+                "timerCircle": "#06b6d4",
+                "buttonBg": "#80FFFFFF",
+                "presetBg": "#CCFFFFFF",
+                "presetActive": "#0e7490",
+                "sliderAccent": "#06b6d4",
+                "settingsBg": "#E6FFFFFF",
+                "primaryButton": "#0e7490",
+                "themeStoreButton": "#06b6d4",
+                "sliderThumb": "#06b6d4"
+            },
+            "geometry": {
+                "neckY": 213,
+                "baseY": 356,
+                "neckWidth": 20,
+                "strokeWidth": 2,
+                "topSandPoints": [
+                    75,
+                    115,
+                    170,
+                    240
+                ],
+                "moundStartX": 0,
+                "moundEndX": 200
+            },
+            "paths": {
+                "glass": "M61 88C15 139 75 185 97 213H103C128 187 185 126 140 88ZM94 355C9 335 58 258 97 213H103C183 303 158 343 109 355Z",
+                "topClip": "M61 88C15 139 75 185 97 213H103C128 187 185 126 140 88Z",
+                "bottomClip": "M94 355C9 335 58 258 97 213H103C183 303 158 343 109 355Z"
+            },
+            "visuals": {
+                "grainDensity": {
+                    "staticTop": 0,
+                    "staticBottom": 0,
+                    "falling": 100,
+                    "sliding": 120,
+                    "topSliding": 100
+                },
+                "useGrainyFilter": false,
+                "useGrainBlur": false,
+                "grainyFilterSettings": {
+                    "slope": 3.5,
+                    "intercept": -0.8,
+                    "opacity": 0.6,
+                    "grainColor": "#991b1b"
+                },
+                "topSandRyFactor": 0.3
+            },
+            "frameTransform": {
+                "x": 46,
+                "y": -22,
+                "scale": 0.55
+            },
+            "frameBaseTransform": {
+                "x": 28,
+                "y": 244,
+                "scale": 0.47
+            },
+            "cover": "__enc_v2__:PlpIbOiHUm1+d2Pt/e/prR1EJxMHU1lbIRYKFg0/Fl0BDD0BK1gyPztMDw81WBENCyIQT1Y2Rh0KPz41EwN6JgscHzdfKwsFHz0sPRUUPB5dBAw9BVgvAR0jH2kfRjMmGDpDNgcoRw5dPCRFC0IhX30dPD0eVR8NIBBbACkESgoyFTgAEF8nCyAqEmgXGwcqMQAWFxIWPV0DDFIZ",
+            "frameBase": "__enc_v2__:iDBIsD60d894sscy7j8pbA0SJ0JHVkNoARZeVTQWCVwdAz0COA8CGhJ+Ew0TWzwIAToQWzsWBVw7OBQgOhVZQAQWHwxDAwQyPBw2CylHFX0oCQscYDomISMsVlxKM0UmGiVdDRJxOB08WioDXDYGWyQZJgEXPzIsEEgQOwFDLiEzNDoSHzwgVyoXQz1RLQBaKVIVIQxNFAALFg==",
+            "frameImage": "__enc_v2__:HX36xTqZ+khAvDtX5wCm9lpAOBkGSUpJPgYzFhMsLU0YMANGDg0UHwVfDw8BHBMSEjoDfQg3EHAZBC01URZdFQEJXTpMPQkSU1wpOSETBDdCOwwWA383GB0jA2lwSVgqGh8wJQ8sXTUuKx1FFho6PFw4DEcgBAAXEAdEACI4cCEMURQVLF0mOxYyCWhQOhUAOjYHBzIEEx4WVwEZ",
+            "portraitBackground": "__enc_v2__:4BCG2S0TtRWUhrc1RcosiDsXESUVW1xZRjYzIgIfEx4gHQAGCzkyICxyUQcUTQAIBAwVcTs6Ix82GQQUBAAfMxpRAVdcPRECDyQqMTVCHgYLI3MNGDwvNHYdSTkqKy4EXTEXWzUMRgEDEho2PFkrDiYGCwoXARZeExs4cCE+EjI6P30YOwMYNloEOikAWD49ExwBOlJE",
+            "video": "__enc_v2__:fEDDtPOrpcRW+MO4w7Zmxy8YFwIATkx8NQYAFT4DEWkBDAcUNCASLBpfMV44Hi8CFBYaGjFXF1saBBcOLRodFDINWDoGCXouNlUwL00BFVV5OicrLwZlHXo/RRobFBw7EHE4BUYBKhJaNgZcIRwTLTg/FT8WQSsbOFsuDFUGCSwdLy0aGQYXEGc9BjMwOnElFVc=",
+            "autoBottomImage": true,
+            "screenshots": [
+                "__enc_v2__:AdTcFQQTBoGiGqXMVR2e8FgGOBEAW2NKGwkACRI/Ol4LCQMnBjkXBkdOMQ00WC8UIFEDcTY6Bkk6HhcUMANDGgc+QCw3MERDPQQyAjcqfF1dKAwqI2QBKwAiQ2hwRhoWKgUwDCYBaRQlKwEDKkIZHHoEDAcRFQ8NQSBqMAsEHwgZFxQDAUkAPARAEFgdB0YwOhECXDYEUFgCBhET",
+                "__enc_v2__:JaGYFiuuln8cHsn09dcoxRs4MxwQCBt8RjpcFQIaBFs7GRwgFRw+OyxBAF4VaSIHMhUAWA0QKUw2ISYODBBwHxpRIyBcBhhdDhMIJBssY21xHjBSI0AkHTgAAFl8TiQGSy4DCjEHWFMfRAkGN3wKA0orMDIGFBwyAxp4Aho4XTsYElUMP05DMRQcLDowJ0YUAwAGG21iW1oeBj0v",
+                "__enc_v2__:NgKtGIgINEjq4GZfi2cFLQkGGC8aZVlJBzYzAFEHA2Y9CSctU14yHxpyEBsEYkQCOFEFZjcARnAFGQ0BIkFwATE+IxY3GhdcASkzDws6b1pmKFUQBEovGAdCBWVcWgBBHAUUDyIIRzUIBBgqA0glPF0EKEFAOB8XIQYdDzsLWTYLFw46A1wgPRcWGiQwK18WUREQNypcZh4kCSUG"
+            ]
+        },
+        {
+            "id": "cartoonjelly",
+            "names": {
+                "zh": "水母 (卡通)",
+                "en": "Jellyfish (Cartoon)",
+                "zh_TW": "水母 (卡通)",
+                "ko": "해파리 (카툰)",
+                "ja": "水母 (カトゥーン)",
+                "es": "Medusa (Dibujo)",
+                "fr": "Méduse (Animé)",
+                "de": "Qualle (Cartoon)",
+                "th": "แมงกะพรุน (การ์ตูน)",
+                "pt_BR": "Água-viva (Desenho)",
+                "id": "Ubur-ubur (Kartun)",
+                "ru": "Медуза (Мульт)",
+                "it": "Medusa (Cartoon)",
+                "vi": "Sứa (Cartoon)",
+                "ar": "قنديل البحر (كرتون)",
+                "hi": "जेलीफ़िश (कार्टून)",
+                "tr": "Denizanası (Çizgi Film)",
+                "nl": "Kwal (Tekenfilm)",
+                "pl": "Meduza (Kreskówka)",
+                "sv": "Manet (Tecknad)",
+                "fil": "Jellyfish (Kartun)",
+                "cs": "Medúza (Kreslená)",
+                "da": "Gople (Tegnefilm)",
+                "fi": "Meduusa (Piirretty)",
+                "hu": "Medúza (Rajzfilm)",
+                "no": "Manet (Tegnefilm)",
+                "ro": "Meduză (Desen animat)",
+                "sk": "Medúza (Kreslená)",
+                "he": "מדוזה (מצויר)"
+            },
+            "iconCodePoint": 57987,
+            "pro": false,
+            "colors": {
+                "sand": "#f472b6",
+                "light": "#fbcfe8",
+                "dark": "#db2777",
+                "highlight": "#fce7f3",
+                "glassLine": "#ec4899",
+                "glassFill": "rgba(255, 255, 255, 0.2)"
+            },
+            "dark": false,
+            "liquid": false,
+            "uiColors": {
+                "text": "#831843",
+                "highlightText": "#ec4899",
+                "timerCircle": "#ec4899",
+                "buttonBg": "#80FFFFFF",
+                "presetBg": "#CCFFFFFF",
+                "presetActive": "#DB2778",
+                "sliderAccent": "#ec4899",
+                "settingsBg": "#E6FFFFFF",
+                "primaryButton": "#DB2778",
+                "themeStoreButton": "#ec4899",
+                "sliderThumb": "#ec4899"
+            },
+            "geometry": {
+                "neckY": 240,
+                "baseY": 432,
+                "neckWidth": 12,
+                "strokeWidth": 2,
+                "topSandPoints": [
+                    75,
+                    115,
+                    170,
+                    240
+                ],
+                "moundStartX": 0,
+                "moundEndX": 200
+            },
+            "paths": {
+                "glass": "M25,60 C25,140 94,225 94,240 C94,255 25,340 25,420 C25,435 175,435 175,420 C175,340 106,255 106,240 C106,225 175,140 175,60 Z",
+                "topClip": "M27.5,62.5 C27.5,140 96.5,225 96.5,237.5 L103.5,237.5 C103.5,225 172.5,140 172.5,62.5 Z",
+                "bottomClip": "M96.5,242.5 C96.5,255 27.5,340 27.5,417.5 C27.5,432.5 172.5,432.5 172.5,417.5 C172.5,340 103.5,255 103.5,242.5 Z"
+            },
+            "visuals": {
+                "grainDensity": {
+                    "staticTop": 0,
+                    "staticBottom": 0,
+                    "falling": 100,
+                    "sliding": 120,
+                    "topSliding": 100
+                },
+                "useGrainyFilter": true,
+                "useGrainBlur": false,
+                "grainyFilterSettings": {
+                    "slope": 3.5,
+                    "intercept": -0.8,
+                    "opacity": 0.6,
+                    "grainColor": "#db2777"
+                },
+                "glassReflectionOpacities": [
+                    0.08,
+                    0.05
+                ],
+                "glassReflectionTranslate": [
+                    40,
+                    40
+                ],
+                "topSandRyFactor": 0.12
+            },
+            "frameTransform": {
+                "x": 0,
+                "y": 0,
+                "scale": 1
+            },
+            "screenshots": [
+                "__enc_v2__:zusFvSD6N50kmpiWO8ki5BwABzxHSh98ITogNzM0DFwkIyYEOFwCOzsfFTE4RxwIVVcmXjsMMUwKCBE0NgBMRx4RBEMEKB1dGBBcJEkHGiAdKjwIPhccBgc5WVJNIgQ9GUVaMwIDIA4bQwAyPjYlHQIISwQZFT0mMXEKBkYXMDkRBBkSQyZZPDs4XBoeKTRXAFwVDwgvLBwbGE45NgkkCQcIHz0YPCktKyM9OwpCUlslNz0v",
+                "__enc_v2__:qiFoL33gNbcNTVwDJlIosgEzERksXB16EREgNggfBHFcBgBGCwARBwBhFSZTTSIpNBYVfSg6A3AIXxEENgBwFjEyHCweHB0dPxVcHiwKOgEcCjwVAhgDCjEqWVtaJS0EPFgbOEQiEE9wRgAGJh8UXVw7QlUAAhsTKkIKPB0bHSoCVT4RNCBMDw04XDwIUQ46BkoFGwJAITcdB04eEA9YFQ8cIAEsABctHQM9MTl3YWIbA1Ic",
+                "__enc_v2__:KBYozsBqDYwfus41NGoS8D0nOEIWWUlwLRVYIiZBEF4cMAMCEh8NLB8dPAcOXhYUOBEDWwIEKWclBD4UFgZDGlwtQBoEOgdKHCIAPxgANh8NbQoNLSsDHR48fGZ7GxYBBVwvFwcvIVwfXF4qJjYbGggRTRQFPB5BC08ZMHA7PRQeDh8AIRZ+PAI1WiElDRE3LEMSPBcCQzcMK0YPAD4/JhUKJjcMBQgGBzwDHC1GA30bFj0j",
+                "__enc_v2__:7X5s/GOHxmIjdvx5qCV/pzcHHQAsU05fLRYzKSkaBls3PEFCVVg0Q0F+EBgCGgMHLzAgRwE2KUYMOA0XFyBOHwsVLzQdMCtoHxE+XBAzOywaABcCFAAnDAgARl0aAzoRFh4kBxg8FklDHRwZKjYkBVoBHAY2RhoUPUtZDHB6JyctEhw0AANLNjEVRhoZBAQTLEkGMQ0FRzcDEmgLKRkeKgoFGjcNCjIhOFsMPG1WXR47Og44"
+            ],
+            "background": {
+                "type": "gradient",
+                "gradient": {
+                    "type": "radial",
+                    "center": [
+                        0.5,
+                        0.3
+                    ],
+                    "radius": 1,
+                    "colors": [
+                        "#fce7f3",
+                        "#fbcfe8",
+                        "#fdf2f8"
+                    ],
+                    "stops": [
+                        0,
+                        0.4,
+                        1
+                    ]
+                },
+                "overlay": {
+                    "type": "gradient",
+                    "gradient": {
+                        "type": "linear",
+                        "begin": [
+                            0.5,
+                            0
+                        ],
+                        "end": [
+                            0.5,
+                            1
+                        ],
+                        "colors": [
+                            "rgba(0,0,0,0)",
+                            "rgba(249, 168, 212, 0.8)"
+                        ],
+                        "stops": [
+                            0,
+                            1
+                        ]
+                    }
+                }
+            },
+            "decorations": {
+                "head": {
+                    "type": "jellyfish_hood",
+                    "translate": [
+                        100,
+                        65
+                    ],
+                    "elements": [
+                        {
+                            "type": "path",
+                            "d": "M-60,0 C-60,-40 -30,-60 0,-60 C30,-60 60,-40 60,0",
+                            "fill": "rgba(236, 72, 153, 0.2)",
+                            "stroke": "#ec4899",
+                            "strokeWidth": 2
+                        },
+                        {
+                            "type": "path",
+                            "d": "M-50,0 C-50,-30 -25,-45 0,-45 C25,-45 50,-30 50,0",
+                            "fill": "rgba(236, 72, 153, 0.3)"
+                        },
+                        {
+                            "type": "path",
+                            "d": "M-60,0 Q-45,10 -30,0 Q-15,-10 0,0 Q15,10 30,0 Q45,-10 60,0",
+                            "fill": "none",
+                            "stroke": "#ec4899",
+                            "strokeWidth": 2
+                        },
+                        {
+                            "type": "animated_path",
+                            "animation": "wave",
+                            "frames": [
+                                "M-40,0 Q-50,30 -30,60",
+                                "M-40,0 Q-30,30 -50,60",
+                                "M-40,0 Q-50,30 -30,60"
+                            ],
+                            "duration": 3000,
+                            "fill": "none",
+                            "stroke": "#f472b6",
+                            "strokeWidth": 3,
+                            "strokeCap": "round"
+                        },
+                        {
+                            "type": "animated_path",
+                            "animation": "wave",
+                            "frames": [
+                                "M40,0 Q50,30 30,60",
+                                "M40,0 Q30,30 50,60",
+                                "M40,0 Q50,30 30,60"
+                            ],
+                            "duration": 3500,
+                            "fill": "none",
+                            "stroke": "#f472b6",
+                            "strokeWidth": 3,
+                            "strokeCap": "round"
+                        },
+                        {
+                            "type": "animated_path",
+                            "animation": "wave",
+                            "frames": [
+                                "M-15,0 Q-25,40 -10,70",
+                                "M-15,0 Q-5,40 -20,70",
+                                "M-15,0 Q-25,40 -10,70"
+                            ],
+                            "duration": 4000,
+                            "fill": "none",
+                            "stroke": "#db2777",
+                            "strokeWidth": 3,
+                            "strokeCap": "round"
+                        },
+                        {
+                            "type": "animated_path",
+                            "animation": "wave",
+                            "frames": [
+                                "M15,0 Q25,40 10,70",
+                                "M15,0 Q5,40 20,70",
+                                "M15,0 Q25,40 10,70"
+                            ],
+                            "duration": 4200,
+                            "fill": "none",
+                            "stroke": "#db2777",
+                            "strokeWidth": 3,
+                            "strokeCap": "round"
+                        }
+                    ]
+                },
+                "feet": {
+                    "type": "jellyfish_feet",
+                    "translate": [
+                        0,
+                        440
+                    ],
+                    "elements": [
+                        {
+                            "type": "group",
+                            "translate": [
+                                45,
+                                10
+                            ],
+                            "rotate": -15,
+                            "elements": [
+                                {
+                                    "type": "path",
+                                    "d": "M0,0 Q-10,-10 -5,-20 Q10,-25 20,-10 Q10,10 0,0",
+                                    "fill": "#ec4899"
+                                },
+                                {
+                                    "type": "circle",
+                                    "cx": 5,
+                                    "cy": -12,
+                                    "r": 2,
+                                    "fill": "black"
+                                },
+                                {
+                                    "type": "path",
+                                    "d": "M20,-10 L25,-15 L25,-5 Z",
+                                    "fill": "#ec4899"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "group",
+                            "translate": [
+                                155,
+                                10
+                            ],
+                            "rotate": 15,
+                            "elements": [
+                                {
+                                    "type": "path",
+                                    "d": "M0,0 Q10,-10 5,-20 Q-10,-25 -20,-10 Q-10,10 0,0",
+                                    "fill": "#ec4899"
+                                },
+                                {
+                                    "type": "circle",
+                                    "cx": -5,
+                                    "cy": -12,
+                                    "r": 2,
+                                    "fill": "black"
+                                },
+                                {
+                                    "type": "path",
+                                    "d": "M-20,-10 L-25,-15 L-25,-5 Z",
+                                    "fill": "#ec4899"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "jellyfish",
+            "mask": {
+                "type": "lottie",
+                "fit": "fill",
+                "url": "__enc_v2__:dAtKnvmcRCIimIXYFfsJOhw4ESIsaHx9ID0nFxsEfTcjBQFwAzt4aU45PhFLMDZ7B11SYAQ1TmpGZkVEVmYWUhEEVXwXcEN4HwJ4UxcFKRc9IQ1NDBAGDQ==",
+                "scale": 1.2,
+                "offsetY": -20,
+                "portraitOffsetY": -20,
+                "portraitOffsetX": -100
+            },
+            "names": {
+                "zh": "水母",
+                "zh_TW": "水母",
+                "hi": "जेलीफ़िश",
+                "tr": "Denizanası",
+                "nl": "Kwal",
+                "pl": "Meduza",
+                "sv": "Manet",
+                "fil": "Jellyfish",
+                "cs": "Medúza",
+                "da": "Gople",
+                "fi": "Meduusa",
+                "hu": "Medúza",
+                "no": "Manet",
+                "ro": "Meduză",
+                "sk": "Medúza",
+                "he": "מדוזה"
+            },
+            "paths": {
+                "glass": "M 28 130 C 28 210 97 217 97 241 H 103 C 102 217 168 212 174 130 Z M 64 362 C -22 343 80 271 97 241 H 103 C 126 271 219 342 133 363 Z",
+                "topClip": "M28 130C32.855 210.104 97 217 97 241H103C102 217 166.347 212.107 173.085 129.79Z",
+                "bottomClip": "M64 362C-18.918 340.995 80 271 97 241H103C126 271 214.562 339.31 133 363Z"
+            },
+            "uiColors": {
+                "timerStrokeWidth": 3
+            },
+            "pro": true,
+            "show": true
+        },
+        {
+            "id": "jewel",
+            "names": {
+                "zh": "宝石",
+                "zh_TW": "寶石",
+                "hi": "रत्न",
+                "tr": "Mücevher",
+                "nl": "Juweel",
+                "pl": "Klejnot",
+                "sv": "Juvel",
+                "fil": "Hiyas",
+                "cs": "Klenot",
+                "da": "Juvel",
+                "fi": "Jalokivi",
+                "hu": "Ékkő",
+                "no": "Juvel",
+                "ro": "Nestemată",
+                "sk": "Klenot",
+                "he": "יהלום"
+            },
+            "paths": {
+                "glass": "M 33 143 C 26 204 91 228 95 239 H 105 C 111 228 172 205 165 142 Z M 71 349 C -12 351 56 273 96 239 H 105 C 143 274 207 343 138 349 Z",
+                "topClip": "M37 143C36 206 97 223 98 239H104C104 223 166 207 163 142Z",
+                "bottomClip": "M71 349C-6 354 53 271 99 239H103C133 262 212 340 138 349Z"
+            },
+            "pro": false,
+            "limitedFree": true,
+            "badgeIcon": "gift",
+            "badgeText": {
+                "zh": "限免",
+                "en": "Free",
+                "zh_TW": "限免",
+                "ko": "무료",
+                "ja": "無料",
+                "es": "Gratis",
+                "fr": "Gratuit",
+                "de": "Gratis",
+                "th": "ฟรี",
+                "pt_BR": "Grátis",
+                "id": "Gratis",
+                "ru": "Бесплатно",
+                "it": "Gratis",
+                "vi": "Miễn phí",
+                "ar": "مجاني",
+                "hi": "मुफ्त",
+                "tr": "Bedava",
+                "nl": "Gratis",
+                "pl": "Gratis",
+                "sv": "Gratis",
+                "fil": "Libre",
+                "cs": "Zdarma",
+                "da": "Gratis",
+                "fi": "Gratis",
+                "hu": "Ingyen",
+                "no": "Gratis",
+                "ro": "Gratis",
+                "sk": "Zadarmo",
+                "he": "חינם"
+            }
+        },
+        {
+            "id": "felt",
+            "names": {
+                "zh": "毛毡时光",
+                "en": "Felt",
+                "zh_TW": "毛氈時光",
+                "ko": "펠트",
+                "ja": "フェルト",
+                "es": "Fieltro",
+                "fr": "Feutrine",
+                "de": "Filz",
+                "th": "สักหลาด",
+                "pt_BR": "Feltro",
+                "id": "Felt",
+                "ru": "Войлок",
+                "it": "Feltro",
+                "vi": "Vải Nỉ",
+                "ar": "اللباد",
+                "hi": "फेल्ट",
+                "tr": "Keçe",
+                "nl": "Vilt",
+                "pl": "Filc",
+                "sv": "Filt",
+                "fil": "Felt",
+                "cs": "Plst",
+                "da": "Filt",
+                "fi": "Huopa",
+                "hu": "Filc",
+                "no": "Filt",
+                "ro": "Fetru",
+                "sk": "Plsť",
+                "he": "לבד"
+            },
+            "icon": "sparkle",
+            "pro": false,
+            "colors": {
+                "sand": "#2B5296",
+                "light": "#547EBE",
+                "dark": "#162D5A",
+                "highlight": "#89AEDC",
+                "glassLine": "rgba(0, 0, 0, 0)",
+                "glassFill": "rgba(0, 0, 0, 0)"
+            },
+            "dark": false,
+            "liquid": false,
+            "uiColors": {
+                "text": "#5C3A0A",
+                "timerText": "#FFFFFF",
+                "timerStrokeWidth": 3,
+                "highlightText": "#8B5E1A",
+                "timerCircle": "#7B5C1E",
+                "buttonBg": "rgba(255, 248, 230, 0.75)",
+                "presetBg": "rgba(255, 244, 215, 0.80)",
+                "presetActive": "#C8862A",
+                "sliderAccent": "#C8862A",
+                "settingsBg": "rgba(255, 248, 230, 0.90)",
+                "primaryButton": "#A86820",
+                "themeStoreButton": "#C8862A",
+                "sliderThumb": "#D4943A"
+            },
+            "geometry": {
+                "neckY": 229,
+                "baseY": 357,
+                "neckWidth": 10,
+                "strokeWidth": 2,
+                "topSandPoints": [
+                    138,
+                    168,
+                    198,
+                    229
+                ],
+                "moundStartX": 0,
+                "moundEndX": 200
+            },
+            "paths": {
+                "glass": "M36 114C34 191 73 189 97 229H104C128 187 165 197 167 114ZM69 365C-12 347 70 262 97 229H104C181 307 181 361 134 365Z",
+                "topClip": "M36 114C34 191 73 189 97 229H104C128 187 165 197 167 114Z",
+                "bottomClip": "M69 365C-12 347 70 262 97 229H104C181 307 181 361 134 365Z"
+            },
+            "visuals": {
+                "grainDensity": {
+                    "staticTop": 55,
+                    "staticBottom": 65,
+                    "falling": 110,
+                    "sliding": 130,
+                    "topSliding": 110
+                },
+                "useGrainyFilter": true,
+                "useGrainBlur": true,
+                "grainyFilterSettings": {
+                    "slope": 3.2,
+                    "intercept": -0.7,
+                    "opacity": 0.55,
+                    "grainColor": "#1A325E"
+                },
+                "glassReflectionOpacities": [
+                    0,
+                    0
+                ],
+                "sandCapStroke": "#3E659F",
+                "sandCapStrokeWidth": 0.8,
+                "topSandRyFactor": 0.14,
+                "glassShadow": {
+                    "style": "fill",
+                    "opacity": 0.08,
+                    "blurRadius": 8
+                }
+            },
+            "badgeIcon": "gift",
+            "badgeText": {
+                "zh": "限免",
+                "en": "Free",
+                "zh_TW": "限免",
+                "ko": "무료",
+                "ja": "無料",
+                "es": "Gratis",
+                "fr": "Gratuit",
+                "de": "Gratis",
+                "th": "ฟรี",
+                "pt_BR": "Grátis",
+                "id": "Gratis",
+                "ru": "Бесплатно",
+                "it": "Gratis",
+                "vi": "Miễn phí",
+                "ar": "مجاني",
+                "hi": "मुफ्त",
+                "tr": "Bedava",
+                "nl": "Gratis",
+                "pl": "Gratis",
+                "sv": "Gratis",
+                "fil": "Libre",
+                "cs": "Zdarma",
+                "da": "Gratis",
+                "fi": "Gratis",
+                "hu": "Ingyen",
+                "no": "Gratis",
+                "ro": "Gratis",
+                "sk": "Zadarmo",
+                "he": "חינם"
+            },
+            "frameTransform": {
+                "x": 46,
+                "y": -22,
+                "scale": 0.55
+            },
+            "frameBaseTransform": {
+                "x": -202,
+                "y": 30,
+                "scale": 0.97
+            },
+            "cover": "__enc_v2__:O6+TASGxw/FvwpNTCfTjBFoARjcAT0xcQDYfIgIQVUgYIwUbNAUSEgNyMAcUXBlVElcGXTEJF30cGTQUBBpoKwEFBDFbFz0qBC4rNTcfF3EbEA4lcxsrJxxBZXpwPwYVCh4KGlZPOCEXGD09fTwOYzsDBi0CPikQAFgGMS9bPBsABARBWisNBwEEXTwLKjISDRU3CRJ9BQwwHA==",
+            "frameBase": "__enc_v2__:bDCj70r57R/NfM/d4bmM4AESBAUaaV1cADofOj4aIhwvA0UbICQHEhUfMB04aRMEBDoaQgcGQn1dCDQLLRBcARsWKgZcFDozKyoWMxAWTxEEDhNfCR0rIyxccFkeFCwFIjsdBXtTBTwEGSpeAD1wFzADEzUzMj8QYTwLVxs2MhI4NiZwKzcTH1dwFAw/JxcOKUM6fT8REhk=",
+            "frameImage": "__enc_v2__:SfexeZ8eLLdZ1o//VtY7DjcHRjcsVkZ6AToeERIQOhxaDgUbVQ9VByAfBSIGXDgEAjcGXQEWJXA8CFVVNxpKAR06BDZaBzpeACo5AhceF0gRNg4lSjoAES8VZVp8PxMVBT8KGghxKxxGBAEEHjxbcBcMBi04P1MVFnIvAgRbNh4SFQRBXDwYCR86HTkiMyszChszCAlNAjoEHA==",
+            "portraitBackground": "__enc_v2__:XBm4pneXoO7Gukv5qROFbR0AQBYBDkpDBhUADFEGOmkBIyoeATMUED8dMVoERyMCC1cscVA6EFxbBBc0Ih9nBwsVARZwCgkNBBgxOE01EwZfHTgYLz9lfVoPRQ0aBBs7BUcROxgeBj1HGgZwKQMcLTUAEQU/XQ89C04uXzQ1USxwF1g2G1V9Ljo+Fzo9EX0iIxQ=",
+            "landBackground": "__enc_v2__:kHAI9lRAA47E3rIYTYketQknIS8FZXAdEwYfCVM7Nks9MAEeNAANAyZeAg0XS0ATOBEsYlQpOlo2DDMUEAFMEjcpXxNMEBMFKwozAAgNaUMtUBVcLwQEHDtlfH0AQRA2EhkbVEdXWRcNKlJYNjxcFx0AFA4fCBoAXysNNFw2Pg0BDB9oJy8iDAxMIVUAAAogVQI7TSIGASI=",
+            "autoBottomImage": true,
+            "screenshots": [
+                "__enc_v2__:EmbEtxwTfeMvK+cjdvykOQErHUQGW31OHjpcADQfE2IvXTItDjk+JiFeABsTfABTBAAQcQg6JXAfASYBOgUfAx0UAx8LMDxwNTcFGBdAWFsWAwM8XyAXPEAFSXBKXDIQPBs8GAVLFQwXOxQ9XAAMQxcwKgI1HggBNB02AgFoGg4+FDpDcBVaBxMaNyNATAcWJBgXWWIaJFERNw==",
+                "__enc_v2__:A3EfHAwY0rSoKdUFxS8esxoVBkAWCBtcBgwzAFM7Nn0OOhMREhw+ID8ZURsXS0BRUzpHaQIQKXpbPgQBEAFMEDE+LxoEBhhbFjoZGDlZdWkoLT0DcwQ4KwUHXHBDWBwQBRIFPRdNEVsdJEE9cTocXAQdOScLHxEWHx88AhRwOj4XARMHfRJeFC8WNyMYWzMwHEAvb0R8HgMRBQ==",
+                "__enc_v2__:AnMSPniBmHtdmoFkKX8hpR0AHRw0aVx6IDoKBjIaBmYBI0ERDiQABywfDx04GjcCC1cgXRcGJHA6CD4GESBGAQ0RLxI7HSsdLhAfIQBlQEcEEBYieQEnERMVVnAdGCZNCB4lMRAaLxwGBDkxSzY6fBoDRyE4PwIVGnIVJhIdHTI+BBU7HSwcDQMsGAwSSjkRPwcqU1ZaHjoxHA==",
+                "__enc_v2__:MlMjfoozEJw+52e9AtwNxQEVBy8sTnBwJy0/DDIgOltcOiYeFCASQQdIPFovcSMHNDomYghXGko2HxU0BgdnHzE+BAU6HyZaVAMgKxhvV3EDLT0AWh0CEhVHCFtGXgcKJRJbXjdHNAUBNxA9XQwGQ3odEBtXAFEsFXIWXDRaXT8RARA0TBANEkQHDgohSTUTGUA5U3NdMAk9PA=="
+            ]
+        },
+        {
+            "id": "cartoonunicorn",
+            "names": {
+                "zh": "独角兽 (卡通)",
+                "en": "Unicorn (Cartoon)",
+                "zh_TW": "獨角獸 (卡通)",
+                "ko": "유니콘 (카툰)",
+                "ja": "ユニコーン (カトゥーン)",
+                "es": "Unicornio (Dibujo)",
+                "fr": "Licorne (Animé)",
+                "de": "Einhorn (Cartoon)",
+                "th": "ยูนิคอร์น (การ์ตูน)",
+                "pt_BR": "Unicórnio (Desenho)",
+                "id": "Unicorn (Kartun)",
+                "ru": "Единорог (Мульт)",
+                "it": "Unicorno (Cartoon)",
+                "vi": "Kỳ lân (Cartoon)",
+                "ar": "وحيد القرن (كرتون)",
+                "hi": "यूनिकॉर्न (कार्टून)",
+                "tr": "Tek Boynuzlu At (Çizgi Film)",
+                "nl": "Eenhoorn (Tekenfilm)",
+                "pl": "Jednorożec (Kreskówka)",
+                "sv": "Enhörning (Tecknad)",
+                "fil": "Unicorn (Kartun)",
+                "cs": "Jednorožec (Kreslený)",
+                "da": "Enhjørning (Tegnefilm)",
+                "fi": "Yksisarvinen (Piirretty)",
+                "hu": "Egyszarvú (Rajzfilm)",
+                "no": "Enhjørning (Tegnefilm)",
+                "ro": "Inorog (Desen animat)",
+                "sk": "Jednorožec (Kreslený)",
+                "he": "חד-קרן (מצויר)"
+            },
+            "iconCodePoint": 58498,
+            "pro": false,
+            "colors": {
+                "sand": "#c084fc",
+                "light": "#e9d5ff",
+                "dark": "#9333ea",
+                "highlight": "#ffffff",
+                "glassLine": "#a855f7",
+                "glassFill": "rgba(255, 255, 255, 0.3)"
+            },
+            "dark": false,
+            "liquid": true,
+            "uiColors": {
+                "text": "#581c87",
+                "highlightText": "#a855f7",
+                "timerCircle": "#a855f7",
+                "buttonBg": "#80FFFFFF",
+                "presetBg": "#CCFFFFFF",
+                "presetActive": "#9333EA",
+                "sliderAccent": "#a855f7",
+                "settingsBg": "#E6FFFFFF",
+                "primaryButton": "#9333EA",
+                "themeStoreButton": "#a855f7",
+                "sliderThumb": "#a855f7"
+            },
+            "geometry": {
+                "neckY": 240,
+                "baseY": 462,
+                "neckWidth": 12,
+                "strokeWidth": 2,
+                "topSandPoints": [
+                    75,
+                    115,
+                    170,
+                    240
+                ],
+                "moundStartX": 0,
+                "moundEndX": 200
+            },
+            "paths": {
+                "glass": "M20,30 C20,135 90,225 90,240 C90,255 20,345 20,450 C20,465 180,465 180,450 C180,345 110,255 110,240 C110,225 180,135 180,30 Z",
+                "topClip": "M22.5,32.5 C22.5,135 92.5,225 92.5,237.5 L107.5,237.5 C107.5,225 177.5,135 177.5,32.5 Z",
+                "bottomClip": "M92.5,242.5 C92.5,255 22.5,345 22.5,447.5 C22.5,462.5 177.5,462.5 177.5,447.5 C177.5,345 107.5,255 107.5,242.5 Z"
+            },
+            "visuals": {
+                "grainDensity": {
+                    "staticTop": 0,
+                    "staticBottom": 0,
+                    "falling": 100,
+                    "sliding": 120,
+                    "topSliding": 100
+                },
+                "useGrainyFilter": false,
+                "useGrainBlur": false,
+                "grainyFilterSettings": {
+                    "slope": 0.18,
+                    "intercept": 0,
+                    "opacity": 0.4
+                },
+                "glassReflectionOpacities": [
+                    0.08,
+                    0.05
+                ],
+                "glassReflectionTranslate": [
+                    40,
+                    40
+                ],
+                "topSandRyFactor": 0.12
+            },
+            "screenshots": [
+                "__enc_v2__:IwkvQZmKZO6W5FZvX1E86QQhEgMAaUpDATpYEAI0Nl0LGxkTNDMUEBJyPAcVR0ANFDosfDEREFw7JT4LDABMIQ9TAywcIxhOKgsFABwTKSkxBB4nMF0xDWNDYgQ2Nxl/NwEmOEFKXHAkE0sFIjYdVH0BHxcNAA59CltfGhsqIQQkDSABWAo8L2g6GBc4LSZoEDFRGRUEGRdGKgc6UQoGBy0QAkYYDB8pLERdHhIXPQM=",
+                "__enc_v2__:ujfCHgWKy1eIZi3CeeZk4FwAEQIsaR1oEwYACT4BBBw3IwAUCzMRGiZeMTxVSCIEOFcVGigRA1w2DBcRAEdwBgIRHCweIx18Kjs6MB0hPTkvFC0rH10CCnhtHkcDPThAHh0HHENKTFsJKhAAQx0NO14LBTgBABFxGydoDzA5ABRcAiEFagoPVUYKDgI4VxpDGh0XABAEPREbBx0aDx9GPBgCMkIHDBkcDFlTTzsQMQY=",
+                "__enc_v2__:iZ40Ui7674OdkzEQB/JHbAsrFRwaSkNGAlFeOgcDCVwaAyAgU1wCNENyEzELHjwIDiksWDcMBUwAMhQvOhpZR1oXLyA3KBVcMgIABjAeHgwwETpEGww8PlN/QgUJAUBzN0QREz9JcHofAyYAOxoHEFoOGzNaFDFxCB9cfBkUNSsgJhUaXTYmOH0cATIXNxAdQQ1VAwY3DDxwHDw2UzABHi8QPiEdMCgNDFxFWh42AwU=",
+                "__enc_v2__:ZN8ELoE0ik8xPreFK0yKjj0nQBYsZU5bLTczBA1BEF0cJyoeVTM0PyxyUTs1XhYAOAYscQEtKR0hPgQ4EwZDJlwTHAAdCitfECYcPB8UMQAGCD4YCR0mKkJXSD9VDgNzHUACIh9cSkYKB00KHjYCLEg0GQI3QRBCXQZwOigGIAIAPkMgXjwIBHwaMggECQVdLBoIQB83WwdwJgJdED0hCCwvJhEmAzwCK2V4fRYTUkQ="
+            ],
+            "background": {
+                "type": "solid",
+                "color": "#fffbeb",
+                "overlay": {
+                    "type": "gradient",
+                    "gradient": {
+                        "type": "linear",
+                        "begin": [
+                            0,
+                            0
+                        ],
+                        "end": [
+                            1,
+                            1
+                        ],
+                        "colors": [
+                            "#fef3c7",
+                            "rgba(192,132,252,0.5)",
+                            "#d1fae5"
+                        ],
+                        "stops": [
+                            0,
+                            0.5,
+                            1
+                        ]
+                    }
+                },
+                "sparkles": [
+                    {
+                        "type": "animated_icon",
+                        "icon": "sparkle",
+                        "position": [
+                            "10%",
+                            "10%"
+                        ],
+                        "size": 48,
+                        "color": "#fef3c7",
+                        "animation": "pulse",
+                        "opacityRange": [
+                            0.3,
+                            0.6,
+                            0.3
+                        ],
+                        "scaleRange": [
+                            0.8,
+                            1,
+                            0.8
+                        ],
+                        "duration": 3000
+                    },
+                    {
+                        "type": "animated_icon",
+                        "icon": "sparkle",
+                        "position": [
+                            "90%",
+                            "80%"
+                        ],
+                        "size": 64,
+                        "color": "#d1fae5",
+                        "animation": "pulse",
+                        "opacityRange": [
+                            0.3,
+                            0.6,
+                            0.3
+                        ],
+                        "scaleRange": [
+                            0.8,
+                            1,
+                            0.8
+                        ],
+                        "duration": 4000,
+                        "delay": 1500
+                    }
+                ]
+            },
+            "decorations": {
+                "head": {
+                    "type": "animated_group",
+                    "translate": [
+                        100,
+                        40
+                    ],
+                    "yRange": [
+                        0,
+                        -3,
+                        0
+                    ],
+                    "duration": 4000,
+                    "easing": "easeInOut",
+                    "elements": [
+                        {
+                            "type": "animated_path",
+                            "animation": "morph",
+                            "duration": 3000,
+                            "frames": [
+                                "M-30,-10 Q-45,0 -40,25",
+                                "M-30,-10 Q-50,5 -35,30",
+                                "M-30,-10 Q-45,0 -40,25"
+                            ],
+                            "stroke": "#c084fc",
+                            "strokeWidth": 8,
+                            "strokeCap": "round",
+                            "fill": "none"
+                        },
+                        {
+                            "type": "group",
+                            "translate": [
+                                -25,
+                                -20
+                            ],
+                            "rotate": -15,
+                            "elements": [
+                                {
+                                    "type": "path",
+                                    "d": "M0,0 Q-10,-20 10,-20 Q15,-10 15,0",
+                                    "fill": "white",
+                                    "stroke": "#f3f4f6",
+                                    "strokeWidth": 1
+                                },
+                                {
+                                    "type": "path",
+                                    "d": "M3,-2 Q-2,-15 8,-15",
+                                    "fill": "#fce7f3"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "group",
+                            "translate": [
+                                25,
+                                -20
+                            ],
+                            "rotate": 15,
+                            "elements": [
+                                {
+                                    "type": "path",
+                                    "d": "M0,0 Q10,-20 -10,-20 Q-15,-10 -15,0",
+                                    "fill": "white",
+                                    "stroke": "#f3f4f6",
+                                    "strokeWidth": 1
+                                },
+                                {
+                                    "type": "path",
+                                    "d": "M-3,-2 Q2,-15 -8,-15",
+                                    "fill": "#fce7f3"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rect",
+                            "x": -32,
+                            "y": -28,
+                            "width": 64,
+                            "height": 56,
+                            "rx": 32,
+                            "fill": "white",
+                            "stroke": "#f3f4f6",
+                            "strokeWidth": 1
+                        },
+                        {
+                            "type": "group",
+                            "translate": [
+                                0,
+                                -25
+                            ],
+                            "elements": [
+                                {
+                                    "type": "path",
+                                    "d": "M 5 0 L -5 0 L 0 -30 Z",
+                                    "fill": "#fbbf24",
+                                    "stroke": "#f59e0b",
+                                    "strokeWidth": 1
+                                },
+                                {
+                                    "type": "path",
+                                    "d": "M -1 -24 L 1.441 -21.642",
+                                    "stroke": "#d97706",
+                                    "strokeWidth": 1,
+                                    "opacity": 0.5
+                                },
+                                {
+                                    "type": "path",
+                                    "d": "M -2.08 -17.256 L 2.676 -13.426",
+                                    "stroke": "#d97706",
+                                    "strokeWidth": 1,
+                                    "opacity": 0.5
+                                },
+                                {
+                                    "type": "path",
+                                    "d": "M -3.069 -11.388 L 4.159 -5.025",
+                                    "stroke": "#d97706",
+                                    "strokeWidth": 1,
+                                    "opacity": 0.5
+                                }
+                            ]
+                        },
+                        {
+                            "type": "path",
+                            "d": "M0,-25 Q15,-35 25,-15",
+                            "fill": "none",
+                            "stroke": "#f472b6",
+                            "strokeWidth": 6,
+                            "strokeCap": "round"
+                        },
+                        {
+                            "type": "path",
+                            "d": "M0,-25 Q-15,-35 -20,-15",
+                            "fill": "none",
+                            "stroke": "#60a5fa",
+                            "strokeWidth": 6,
+                            "strokeCap": "round"
+                        },
+                        {
+                            "type": "group",
+                            "translate": [
+                                0,
+                                10
+                            ],
+                            "elements": [
+                                {
+                                    "type": "rect",
+                                    "x": -16,
+                                    "y": -11,
+                                    "width": 32,
+                                    "height": 22,
+                                    "rx": 11,
+                                    "fill": "#fce7f3"
+                                },
+                                {
+                                    "type": "circle",
+                                    "cx": -5,
+                                    "cy": 2,
+                                    "r": 1.5,
+                                    "fill": "#fbcfe8"
+                                },
+                                {
+                                    "type": "circle",
+                                    "cx": 5,
+                                    "cy": 2,
+                                    "r": 1.5,
+                                    "fill": "#fbcfe8"
+                                },
+                                {
+                                    "type": "path",
+                                    "d": "M-5,6 Q0,9 5,6",
+                                    "fill": "none",
+                                    "stroke": "#db2777",
+                                    "strokeWidth": 1.5,
+                                    "strokeCap": "round"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "animated_group",
+                            "translate": [
+                                0,
+                                -5
+                            ],
+                            "scaleYRange": [
+                                1,
+                                1,
+                                1,
+                                1,
+                                1,
+                                1,
+                                1,
+                                1,
+                                1,
+                                1,
+                                1,
+                                1,
+                                1,
+                                1,
+                                1,
+                                1,
+                                1,
+                                1,
+                                1,
+                                0.1,
+                                1
+                            ],
+                            "duration": 4000,
+                            "easing": "linear",
+                            "elements": [
+                                {
+                                    "type": "circle",
+                                    "cx": -12,
+                                    "cy": 0,
+                                    "r": 3.5,
+                                    "fill": "#1f2937"
+                                },
+                                {
+                                    "type": "circle",
+                                    "cx": -10.5,
+                                    "cy": -1.5,
+                                    "r": 1.2,
+                                    "fill": "white"
+                                },
+                                {
+                                    "type": "circle",
+                                    "cx": 12,
+                                    "cy": 0,
+                                    "r": 3.5,
+                                    "fill": "#1f2937"
+                                },
+                                {
+                                    "type": "circle",
+                                    "cx": 13.5,
+                                    "cy": -1.5,
+                                    "r": 1.2,
+                                    "fill": "white"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "circle",
+                            "cx": -22,
+                            "cy": 5,
+                            "r": 3.5,
+                            "fill": "#fbcfe8",
+                            "opacity": 0.6
+                        },
+                        {
+                            "type": "circle",
+                            "cx": 22,
+                            "cy": 5,
+                            "r": 3.5,
+                            "fill": "#fbcfe8",
+                            "opacity": 0.6
+                        },
+                        {
+                            "type": "group",
+                            "translate": [
+                                0,
+                                26
+                            ],
+                            "elements": [
+                                {
+                                    "type": "group",
+                                    "translate": [
+                                        -25,
+                                        0
+                                    ],
+                                    "rotate": 15,
+                                    "elements": [
+                                        {
+                                            "type": "path",
+                                            "d": "M-8,-10 L8,-10 L8,5 Q8,12 0,12 Q-8,12 -8,5 Z",
+                                            "fill": "white",
+                                            "stroke": "#f3f4f6",
+                                            "strokeWidth": 1
+                                        },
+                                        {
+                                            "type": "path",
+                                            "d": "M-8,5 L8,5 L8,8 Q8,12 0,12 Q-8,12 -8,8 Z",
+                                            "fill": "#c084fc"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "group",
+                                    "translate": [
+                                        25,
+                                        0
+                                    ],
+                                    "rotate": -15,
+                                    "elements": [
+                                        {
+                                            "type": "path",
+                                            "d": "M-8,-10 L8,-10 L8,5 Q8,12 0,12 Q-8,12 -8,5 Z",
+                                            "fill": "white",
+                                            "stroke": "#f3f4f6",
+                                            "strokeWidth": 1
+                                        },
+                                        {
+                                            "type": "path",
+                                            "d": "M-8,5 L8,5 L8,8 Q8,12 0,12 Q-8,12 -8,8 Z",
+                                            "fill": "#c084fc"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "feet": {
+                    "type": "unicorn_base",
+                    "translate": [
+                        100,
+                        485
+                    ],
+                    "defs": [
+                        {
+                            "type": "linearGradient",
+                            "id": "cloudPink",
+                            "x1": "0%",
+                            "y1": "0%",
+                            "x2": "0%",
+                            "y2": "100%",
+                            "stops": [
+                                {
+                                    "offset": "0%",
+                                    "color": "#fff5fa"
+                                },
+                                {
+                                    "offset": "50%",
+                                    "color": "#fcd6e5"
+                                },
+                                {
+                                    "offset": "100%",
+                                    "color": "#f9c1d6"
+                                }
+                            ]
+                        }
+                    ],
+                    "elements": [
+                        {
+                            "type": "animated_group",
+                            "yRange": [
+                                0,
+                                -5,
+                                0
+                            ],
+                            "duration": 6000,
+                            "easing": "easeInOut",
+                            "elements": [
+                                {
+                                    "type": "path",
+                                    "d": "M-60,10 Q-70,10 -70,0 Q-70,-20 -50,-20 Q-40,-30 -20,-25 Q0,-40 20,-25 Q40,-30 50,-20 Q70,-20 70,0 Q70,10 60,10 Z",
+                                    "fill": "url(#cloudPink)"
+                                },
+                                {
+                                    "type": "circle",
+                                    "cx": -35,
+                                    "cy": -5,
+                                    "r": 20,
+                                    "fill": "url(#cloudPink)"
+                                },
+                                {
+                                    "type": "circle",
+                                    "cx": 0,
+                                    "cy": -10,
+                                    "r": 25,
+                                    "fill": "url(#cloudPink)"
+                                },
+                                {
+                                    "type": "circle",
+                                    "cx": 35,
+                                    "cy": -5,
+                                    "r": 20,
+                                    "fill": "url(#cloudPink)"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "animated_group",
+                            "opacityRange": [
+                                0.4,
+                                1,
+                                0.4
+                            ],
+                            "scaleRange": [
+                                0.8,
+                                1,
+                                0.8
+                            ],
+                            "duration": 2000,
+                            "elements": [
+                                {
+                                    "type": "path",
+                                    "d": "M-50,-30 L-48,-35 L-43,-35 L-47,-38 L-45,-43 L-50,-40 L-55,-43 L-53,-38 L-57,-35 L-52,-35 Z",
+                                    "fill": "#fbbf24"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "animated_group",
+                            "opacityRange": [
+                                0.4,
+                                1,
+                                0.4
+                            ],
+                            "scaleRange": [
+                                0.8,
+                                1,
+                                0.8
+                            ],
+                            "duration": 3000,
+                            "delay": 1000,
+                            "elements": [
+                                {
+                                    "type": "path",
+                                    "d": "M50,-25 L52,-30 L57,-30 L53,-33 L55,-38 L50,-35 L45,-38 L47,-33 L43,-30 L48,-30 Z",
+                                    "fill": "#60a5fa"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "animated_group",
+                            "opacityRange": [
+                                0,
+                                1,
+                                0
+                            ],
+                            "scaleRange": [
+                                0.5,
+                                1,
+                                0.5
+                            ],
+                            "duration": 4000,
+                            "delay": 500,
+                            "translate": [
+                                0,
+                                -35
+                            ],
+                            "scale": 0.6,
+                            "elements": [
+                                {
+                                    "type": "path",
+                                    "d": "M0,5 L2,0 L7,0 L3,-3 L5,-8 L0,-5 L-5,-8 L-3,-3 L-7,0 L-2,0 Z",
+                                    "fill": "#f472b6"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "whale",
+            "names": {
+                "zh": "鲸鱼",
+                "zh_TW": "鯨魚",
+                "hi": "व्हेल",
+                "tr": "Balina",
+                "nl": "Walvis",
+                "pl": "Wieloryb",
+                "sv": "Val",
+                "fil": "Balyena",
+                "cs": "Velryba",
+                "da": "Hval",
+                "fi": "Valas",
+                "hu": "Bálna",
+                "no": "Hval",
+                "ro": "Balenă",
+                "sk": "Veľryba",
+                "he": "לווייתן"
+            },
+            "paths": {
+                "glass": "M 18.138 127.637 C 46.404 170.418 99 174 102 206 H 113 C 122 168 155 180 188.497 119.616 Z M 59 288 C 26 270 95 239 102 206 H 113 C 115 240 178 271 159 285 Z",
+                "topClip": "M 18.138 127.637 C 46.404 170.418 99 174 102 206 H 113 C 122 168 155 180 188.497 119.616 Z",
+                "bottomClip": "M59 288C24 274 101 231 102 206H113C115 230 173 272 159 285Z"
+            },
+            "pro": true
+        },
+        {
+            "id": "spring_grass",
+            "names": {
+                "zh": "春日草旬",
+                "en": "Spring Grass",
+                "zh_TW": "春日草旬",
+                "ko": "봄날의 풀",
+                "ja": "春の草旬",
+                "es": "Hierba Primaveral",
+                "fr": "Herbe de Printemps",
+                "de": "Frühlingsgras",
+                "th": "หญ้าวันฤดูใบไม้ผลิ",
+                "pt_BR": "Grama Primaveril",
+                "id": "Rumput Musim Semi",
+                "ru": "Весенняя трава",
+                "it": "Erba Primaverile",
+                "vi": "Cỏ Xuân",
+                "ar": "عشب الربيع",
+                "cs": "Jarní tráva",
+                "da": "Forårsgræs",
+                "fi": "Kevätruoho",
+                "hu": "Tavaszi fű",
+                "no": "Vårgress",
+                "ro": "Iarbă de primăvară",
+                "sk": "Jarná tráva",
+                "he": "דשא אביבי"
+            },
+            "icon": "grass_1",
+            "style": {
+                "en": "Fresh Green · Meadow Breeze · Nature Revival",
+                "zh": "清新嫩绿 · 草地微风 · 万物生长",
+                "zh_TW": "清新嫩綠 · 草地微風 · 萬物生長",
+                "ko": "신선한 초록색 · 초원의 미풍 · 만물의 생장",
+                "ja": "新緑の爽やかさ · 草原のそよ風 · 万物生長",
+                "es": "Verde fresco · Brisa de pradera · Renovación natural",
+                "fr": "Vert frais · Brise des prés · Renaissance de la nature",
+                "de": "Frisches Grün · Wiesenbrise · Naturerwachen",
+                "th": "สีเขียวสดชื่น · สายลมแผ่นดิน · ธรรมชาติฟื้นคืน",
+                "pt_BR": "Verde fresco · Brisa do prado · Renascimento da natureza",
+                "id": "Hijau Segar · Angin Padang Rumput · Kebangkitan Alam",
+                "ru": "Свежая зелень · Луговой ветерок · Пробуждение природы",
+                "it": "Verde fresco · Brezza del prato · Rinascita naturale",
+                "vi": "Xanh tươi mới · Gió thảo nguyên · Vạn vật sinh trưởng",
+                "ar": "أخضر منعش · نسيم المرج · تجديد الطبيعة",
+                "cs": "Svěží zelená · Luční vánek · Oživení přírody",
+                "da": "Frisk grøn · Engbrise · Naturfornyelse",
+                "fi": "Raikas vihreä · Niittytuuli · Luonnon elpyminen",
+                "hu": "Friss zöld · Réti szellő · Természet újjászületése",
+                "no": "Frisk grønn · Engbris · Naturfornyelse",
+                "ro": "Verde proaspăt · Briză de pajiște · Renașterea naturii",
+                "sk": "Svieža zelená · Lúčny vánok · Oživenie prírody",
+                "he": "ירוק רענן · בריזת אחו · תחיית הטבע"
+            },
+            "badgeText": {
+                "en": "Coming Soon",
+                "zh": "即将推出",
+                "zh_TW": "即將推出",
+                "ko": "출시 예정",
+                "ja": "近日公開",
+                "es": "Muy pronto",
+                "fr": "Prochainement",
+                "de": "Demnächst",
+                "th": "เร็วๆ นี้",
+                "pt_BR": "Em breve",
+                "id": "Segera Hadir",
+                "ru": "Скоро",
+                "it": "Prossimamente",
+                "vi": "Sắp ra mắt",
+                "ar": "قريبًا",
+                "cs": "Již brzy",
+                "da": "Kommer snart",
+                "fi": "Tulossa pian",
+                "hu": "Hamarosan",
+                "no": "Kommer snart",
+                "ro": "În curând",
+                "sk": "Už čoskoro",
+                "he": "בקרוב"
+            },
+            "cover": "__enc_v2__:9IVkA8PGnTfvERoaE+hRGy8nOEQVaXBaARFYFlEfCWIBJwMtCzNTGiBhPD0ETS9TFAYDcTsRE0M8Xz4yIgBcBDsHXQ5cPwURHR4LWhQJDgV5SQE4GEIVSXBaICoKOyUAGlBpETsEBBRQR1snTj4ZGS00DxEFBnIxCwtfDDgyNAZBcAdYJgQRcAEvBxsxVx4EABYR",
+            "uiColors": {
+                "timerCircle": "#90EE90"
+            },
+            "background": {
+                "type": "gradient",
+                "gradient": {
+                    "type": "linear",
+                    "begin": [
+                        0,
+                        0
+                    ],
+                    "end": [
+                        1,
+                        1
+                    ],
+                    "colors": [
+                        "#F0FFF0",
+                        "#E8F5E9"
+                    ],
+                    "stops": [
+                        0,
+                        1
+                    ]
+                }
+            }
+        },
+        {
+            "id": "sakura",
+            "names": {
+                "zh": "樱花季",
+                "en": "Sakura Season",
+                "zh_TW": "櫻花季",
+                "ko": "벚꽃",
+                "ja": "桜の季節",
+                "es": "Hana",
+                "fr": "Sakura",
+                "de": "Kirschblüte",
+                "th": "ซากุระ",
+                "pt_BR": "Sakura",
+                "id": "Sakura",
+                "ru": "Сакура",
+                "it": "Sakura",
+                "vi": "Hoa anh đào",
+                "ar": "ساكورا",
+                "cs": "Sakura",
+                "da": "Sakura",
+                "fi": "Sakura",
+                "hu": "Szakura",
+                "no": "Sakura",
+                "ro": "Sakura",
+                "sk": "Sakura",
+                "he": "סאקורה"
+            },
+            "icon": "flower_2",
+            "style": {
+                "en": "Pink Petals · Zen Atmosphere · Seasonal",
+                "zh": "粉色花瓣 · 和风意境 · 季节限定",
+                "zh_TW": "粉色花瓣 · 和風意境 · 季節限定",
+                "ko": "분홍색 꽃잎 · 선의 분위기 · 계절 한정",
+                "ja": "桃色の花びら · 和の趣 · 季節限定",
+                "es": "Pétalos rosas · Atmósfera Zen · Estacional",
+                "fr": "Pétales roses · Atmosphère Zen · Saisonnier",
+                "de": "Rosa Blütenblätter · Zen-Atmosphäre · Saisonal",
+                "th": "กลีบดอกสีชมพู · บรรยากาศแบบเซน · ตามฤดูกาล",
+                "pt_BR": "Pétalas rosa · Atmosfera Zen · Sazonal",
+                "id": "Kelopak Merah Muda · Suasana Zen · Musiman",
+                "ru": "Розовые лепестки · Дзен атмосфера · Сезонный",
+                "it": "Petali rosa · Atmosfera Zen · Stagionale",
+                "vi": "Cánh hoa hồng · Không khí Zen · Theo mùa",
+                "ar": "بتلات وردية · جو زين · موسمي",
+                "cs": "Růžové lístky · Zenová atmosféra · Sezónní",
+                "da": "Rosa kronblade · Zen-stemning · Sæsonbestemt",
+                "fi": "Vaaleanpunaiset terälehdet · Zen-tunnelma · Kausiluonteinen",
+                "hu": "Rózsaszín szirmok · Zen hangulat · Szezonális",
+                "no": "Rosa kronblader · Zen-stemning · Sesongbasert",
+                "ro": "Petale roz · Atmosferă Zen · Sezonier",
+                "sk": "Ružové lupienky · Zenová atmosféra · Sezónne",
+                "he": "עלי כותרת ורודים · אווירת זן · עונתי"
+            },
+            "badgeText": {
+                "en": "Coming Soon",
+                "zh": "即将推出",
+                "zh_TW": "即將推出",
+                "ko": "출시 예정",
+                "ja": "近日公開",
+                "es": "Muy pronto",
+                "fr": "Prochainement",
+                "de": "Demnächst",
+                "th": "เร็วๆ นี้",
+                "pt_BR": "Em breve",
+                "id": "Segera Hadir",
+                "ru": "Скоро",
+                "it": "Prossimamente",
+                "vi": "Sắp ra mắt",
+                "ar": "قريبًا",
+                "cs": "Již brzy",
+                "da": "Kommer snart",
+                "fi": "Tulossa pian",
+                "hu": "Hamarosan",
+                "no": "Kommer snart",
+                "ro": "În curând",
+                "sk": "Už čoskoro",
+                "he": "בקרוב"
+            },
+            "cover": "__enc_v2__:b0IVgHKHQ6u7h1mvpsgO4wsHJyIFU3BZAgQzURcBE1sbPCotNFhTIEN4DzE0SAAHBjAHfVQ2Ex8AMi04VUcfGD0BISpMLBQIMi0XQh42Cy9zN0YXNwdcaEwkBTUuKC4dOxwXGx0kGQtdDBodKxsWHi8JFBoAHzwdBl0AHRIrFiFKAQFBPhJcIDMCGQcAHBYTEBY=",
+            "uiColors": {
+                "timerCircle": "#FFB7C5"
+            },
+            "background": {
+                "type": "gradient",
+                "gradient": {
+                    "type": "linear",
+                    "begin": [
+                        0,
+                        0
+                    ],
+                    "end": [
+                        1,
+                        1
+                    ],
+                    "colors": [
+                        "#FFF0F5",
+                        "#FFE4E1"
+                    ],
+                    "stops": [
+                        0,
+                        1
+                    ]
+                }
+            }
+        }
+    ],
+    "signature": "a3aaf9fb155169a5c6e857fef52d89980e85e9cd253d2a35af2dd3df422493de"
+}
